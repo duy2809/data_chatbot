@@ -1,0 +1,9 @@
+{
+  "id": "b2183c82-4afb-44d1-8b8f-54dd320346f8",
+  "name": "carb",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

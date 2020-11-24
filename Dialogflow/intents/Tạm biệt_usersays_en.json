@@ -1,0 +1,80 @@
+[
+  {
+    "id": "09a037f3-1fbd-4736-a158-1994782b3ebf",
+    "data": [
+      {
+        "text": "Bái bai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "575106b4-8cb4-48e1-ab4a-74b1b35d21df",
+    "data": [
+      {
+        "text": "Tạm biệt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "536e972a-bc76-4e1b-b867-35bd28c8cb41",
+    "data": [
+      {
+        "text": "Chúc bạn may mắn",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4d01c624-6ade-46cd-b0be-c883895f9677",
+    "data": [
+      {
+        "text": "Goodbye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "36610807-4aa2-4283-8221-069737a0b2ff",
+    "data": [
+      {
+        "text": "Hẹn gặp lại bạn",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "95bc2b4d-9224-470f-bd73-9be4929a5fe8",
+    "data": [
+      {
+        "text": "Bye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

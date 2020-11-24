@@ -1,0 +1,64 @@
+{
+  "id": "1f894284-03ed-4d69-bc71-dc67f6962814",
+  "name": "The zone - tác hại",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1a917437-0e69-4f67-bd61-a82c7612f5e8",
+          "name": "the_zone",
+          "required": false,
+          "dataType": "@the_zone",
+          "value": "$the_zone",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "504e55ed-68b0-4e71-8298-a2dfddc3af4e",
+          "name": "tac_hai",
+          "required": false,
+          "dataType": "@tac_hai",
+          "value": "$tac_hai",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Tác dụng phụ của chế độ này là đôi khi người ăn theo chế độ sẽ gặp triệu chứng viêm."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

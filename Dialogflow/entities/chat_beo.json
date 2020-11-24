@@ -1,0 +1,9 @@
+{
+  "id": "058ab343-f29e-49bf-9899-edc8a1eedaf4",
+  "name": "chat_beo",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

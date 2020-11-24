@@ -1,0 +1,50 @@
+{
+  "id": "7b2c45be-f695-4ad5-bf34-725b4a8cd865",
+  "name": "Các đơn vị đo Calories",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "17dd9a2f-de59-41ed-9173-8e3ba923356d",
+          "name": "calories",
+          "required": false,
+          "dataType": "@Calories",
+          "value": "$calories",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Đơn vị phổ biến là 2 đơn vị cal, kcal (1 kcal \u003d 1000 cal). Do nó cũng là đơn vị đo năng lượng nên ta có nhiều cách để quy đổi sang J, giá trị trung bình là 1 cal \u003d 4,1900 J."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,77 @@
+{
+  "id": "d821a6c3-2b10-45bb-9d61-060b0f455d43",
+  "name": "BMI thang điểm",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "BMIthangim-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "1bc55668-d53a-4255-be45-a88d6fc4b7dc",
+          "name": "bmi",
+          "required": false,
+          "dataType": "@BMI",
+          "value": "$bmi",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "3",
+          "platform": "facebook",
+          "imageUrl": "https://login.medlatec.vn//ImagePath/images/20200705/20200705_bmi.png",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Với người Việt Nam, chỉ số BMI lý tưởng là từ 18,5 - 22,9. Nếu chỉ BMI dưới 18.5 thì đây là dấu hiệu bạn bị thiếu cân, lớn hơn 23 được coi là thừa cân"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "image": "https://login.medlatec.vn//ImagePath/images/20200705/20200705_bmi.png"
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

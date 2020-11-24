@@ -1,0 +1,37 @@
+{
+  "id": "67c3398f-a111-4eae-997d-71bf9c64d346",
+  "name": "Cảm ơn",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Rất hân hạnh được giúp đỡ bạn!",
+            "Lúc nào tớ cũng vui khi được giúp đỡ bạn mà ^^",
+            "Không có chi. Cảm ơn bạn vì đã cảm ơn tớ nhé! ^^"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,64 @@
+[
+  {
+    "id": "efff7327-b3e2-411a-9d2c-76e0f93dd55b",
+    "data": [
+      {
+        "text": "cho mình hỏi ",
+        "userDefined": false
+      },
+      {
+        "text": "lợi ích",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " của ",
+        "userDefined": false
+      },
+      {
+        "text": "keto",
+        "meta": "@keto",
+        "alias": "keto",
+        "userDefined": false
+      },
+      {
+        "text": " là gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c4eb5524-f550-408e-91f0-9f364d3ed0fc",
+    "data": [
+      {
+        "text": "Lợi ích",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " của ",
+        "userDefined": false
+      },
+      {
+        "text": "keto",
+        "meta": "@keto",
+        "alias": "keto",
+        "userDefined": false
+      },
+      {
+        "text": " là gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

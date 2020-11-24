@@ -1,0 +1,46 @@
+[
+  {
+    "id": "3e8a7bb8-df19-4f64-a219-1a9cbc5e0392",
+    "data": [
+      {
+        "text": "Bữa trưa bạn ơi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "616d487c-e08f-40aa-a721-143031afa1ee",
+    "data": [
+      {
+        "text": "Buổi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " trưa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d5bd952b-7e1f-42e3-8f5e-0a5fe2a2492c",
+    "data": [
+      {
+        "text": "Trưa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

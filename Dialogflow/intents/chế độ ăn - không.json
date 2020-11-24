@@ -1,0 +1,39 @@
+{
+  "id": "b7d0c160-efba-48f5-ac57-1520dbc6861e",
+  "parentId": "658dd707-9066-4465-994a-616912498c84",
+  "rootParentId": "658dd707-9066-4465-994a-616912498c84",
+  "name": "chế độ ăn - không",
+  "auto": true,
+  "contexts": [
+    "chn-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "chn.chn-custom-2",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Cảm ơn bạn, Bạn có thể sử dụng các tính năng khác của app"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,143 @@
+[
+  {
+    "id": "2fa1cba1-0a0c-4d8a-bd24-a769269eafc6",
+    "data": [
+      {
+        "text": "chỉ số lí tưởng ",
+        "userDefined": false
+      },
+      {
+        "text": "BMI",
+        "meta": "@BMI",
+        "alias": "bmi",
+        "userDefined": false
+      },
+      {
+        "text": " như thế nào bạn?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9104c788-b53e-4d87-ae60-a63c7de9be31",
+    "data": [
+      {
+        "text": "Thang điểm của ",
+        "userDefined": false
+      },
+      {
+        "text": "BMI",
+        "meta": "@BMI",
+        "alias": "bmi",
+        "userDefined": false
+      },
+      {
+        "text": " là gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "de4f34e5-c4ef-465d-bef9-a783b5e4cdb7",
+    "data": [
+      {
+        "text": "BMI",
+        "meta": "@BMI",
+        "alias": "bmi",
+        "userDefined": false
+      },
+      {
+        "text": " được đánh giá như thế nào?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "203be0f4-28d0-4459-85df-a7646791f581",
+    "data": [
+      {
+        "text": "BMI",
+        "meta": "@BMI",
+        "alias": "bmi",
+        "userDefined": false
+      },
+      {
+        "text": " bao nhiêu là thiếu cân?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4a73e799-1a40-48f3-9d57-4d3f77f92f5b",
+    "data": [
+      {
+        "text": "BMI",
+        "meta": "@BMI",
+        "alias": "bmi",
+        "userDefined": false
+      },
+      {
+        "text": " bao nhiêu là thừa cân?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9ee8f51b-abbc-4475-8721-80bd02c4c7e4",
+    "data": [
+      {
+        "text": "BMI",
+        "meta": "@BMI",
+        "alias": "bmi",
+        "userDefined": false
+      },
+      {
+        "text": " tiêu chuẩn là bao nhiêu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0e0c7107-3e93-41f7-8132-a1d3075ccc8b",
+    "data": [
+      {
+        "text": "BMI",
+        "meta": "@BMI",
+        "alias": "bmi",
+        "userDefined": false
+      },
+      {
+        "text": " đẹp là bao nhiêu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "id": "0583f866-d9fa-493f-84b8-48a8342a9536",
+    "data": [
+      {
+        "text": "ngày hôm nay là ngày ",
+        "userDefined": false
+      },
+      {
+        "text": "bao nhiêu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "435e9d96-b6dd-4bd9-9259-242c18fdb99c",
+    "data": [
+      {
+        "text": "Hôm nay là ngày gì  ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9b15c051-467c-4d7c-95a6-3060cb905e5e",
+    "data": [
+      {
+        "text": "Hôm nay là ngày ",
+        "userDefined": false
+      },
+      {
+        "text": "bao nhiều",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

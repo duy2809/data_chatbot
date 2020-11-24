@@ -1,0 +1,9 @@
+{
+  "id": "c492668c-99ee-4d4c-a625-785be28d70b7",
+  "name": "paleo",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

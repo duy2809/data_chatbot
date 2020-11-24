@@ -1,0 +1,38 @@
+{
+  "id": "c1f3eb40-90b1-44b1-ad66-14b5d1ce29af",
+  "name": "Được khen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Cảm ơn bạn nhaa :\u003e",
+            "Tớ thích được khen lắm ^^",
+            "Tớ chỉ cố gắng hết sức thôi ^^",
+            "Cảm ơn bạn nhé! Nhìn bên ngoài thì không thấy được nhưng thực ra tớ đang đỏ mặt đấy (^-^)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

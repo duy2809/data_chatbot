@@ -1,0 +1,64 @@
+{
+  "id": "43b0d6db-2219-4221-8fe3-82cdd4354235",
+  "name": "Ăn chay - Lợi ích",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "dc414ed1-403c-4849-aaa0-baae32fd38e2",
+          "name": "loi_ich",
+          "required": false,
+          "dataType": "@loi_ich",
+          "value": "$loi_ich",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "262105bd-aee3-4161-9e98-eb50b5dd3748",
+          "name": "an_chay",
+          "required": false,
+          "dataType": "@an_chay",
+          "value": "$an_chay",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Ăn chay có khá là nhiều lợi ích, giảm nguy cơ béo phì, giảm nguy cơ mặc bệnh tim mạch, giảm nguy cơ mặc bệnh ung thư, ít rối loạn tiêu hóa, giúp tĩnh tâm và bảo vệ môi trường"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

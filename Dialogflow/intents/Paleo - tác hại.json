@@ -1,0 +1,64 @@
+{
+  "id": "fb4914fa-9bbc-4daa-b773-8fbd8fa7e8f2",
+  "name": "Paleo - tác hại",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "19856d73-d7a2-4ea3-b7b8-37bc6b782ae1",
+          "name": "paleo",
+          "required": false,
+          "dataType": "@paleo",
+          "value": "$paleo",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "61220612-c11c-4e95-868b-82582f5ee9cc",
+          "name": "tac_hai",
+          "required": false,
+          "dataType": "@tac_hai",
+          "value": "$tac_hai",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Người ăn theo chế độ này có thể gặp phải một số tác hại như mệt mỏi khó chịu trong thời gian đầu theo chế độ và có thể gây tốn thời gian khi thực hiện chế độ."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

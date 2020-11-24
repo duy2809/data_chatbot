@@ -1,0 +1,64 @@
+{
+  "id": "e1080b99-d815-42cc-b328-620620305156",
+  "name": "The zone - khái niệm",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "74648226-1dde-401f-9aa9-5654d1afedea",
+          "name": "the_zone",
+          "required": false,
+          "dataType": "@the_zone",
+          "value": "$the_zone",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "072f9607-0ad1-4f62-9c41-da5a615a4b28",
+          "name": "an_chay",
+          "required": false,
+          "dataType": "@an_chay",
+          "value": "$an_chay",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The zone diet là chế độ ăn kiêng hướng dẫn những người thực hiện áp dụng một chế độ ăn uống với tỷ lệ cụ thể là 40% carbs, 30% protein và 30% chất béo."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

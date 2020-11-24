@@ -1,0 +1,51 @@
+{
+  "id": "83d96c2b-94e8-4c4e-b54c-fb0fa5d3f716",
+  "name": "keto - Khái niệm",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a6e06ffa-eafd-49ab-a9e7-92d314a53395",
+          "name": "keto",
+          "required": false,
+          "dataType": "@keto",
+          "value": "$keto",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Bạn có thể hiểu, chế độ ăn keto là chế độ ăn giàu chất béo, đủ protein, ít carbohydrate trong y học được sử dụng chủ yếu để điều trị chứng động kinh khó chữa",
+            "Chế độ ăn Keto (Ketogenic) là chế độ ăn ít carbohydrate (carb) và nhiều chất béo tốt. Thực đơn Keto giúp cơ thể đốt cháy năng lượng nhiều hơn mà không cần phải kiêng khem nghiêm ngặt."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

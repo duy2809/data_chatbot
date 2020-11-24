@@ -1,0 +1,325 @@
+[
+  {
+    "id": "d760ee3d-c548-4ffe-9216-eaa251f24acf",
+    "data": [
+      {
+        "text": "chế ",
+        "userDefined": false
+      },
+      {
+        "text": "độ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "low-fat",
+        "meta": "@low_fat",
+        "alias": "low_fat",
+        "userDefined": false
+      },
+      {
+        "text": " gồm những gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b666684a-bada-434d-905e-6894e401c537",
+    "data": [
+      {
+        "text": "định nghĩa về chế ",
+        "userDefined": false
+      },
+      {
+        "text": "độ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "low-fat",
+        "meta": "@low_fat",
+        "alias": "low_fat",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9ac42b80-d77d-44f7-9349-e9b7fd2c5369",
+    "data": [
+      {
+        "text": "thế nào là chế ",
+        "userDefined": false
+      },
+      {
+        "text": "độ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "low-fat",
+        "meta": "@low_fat",
+        "alias": "low_fat",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "88e95cf8-aad6-4ca7-a913-57c6edd9795d",
+    "data": [
+      {
+        "text": "khái niệm của chế ",
+        "userDefined": false
+      },
+      {
+        "text": "độ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "low-fat",
+        "meta": "@low_fat",
+        "alias": "low_fat",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "17650a5e-6cb8-4224-9dbf-d0e3f383998c",
+    "data": [
+      {
+        "text": "khái niệm ",
+        "userDefined": false
+      },
+      {
+        "text": "low-fat",
+        "meta": "@low_fat",
+        "alias": "low_fat",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d837e758-8b0a-493c-81c9-d9973ce0fb7f",
+    "data": [
+      {
+        "text": "định nghĩa ",
+        "userDefined": false
+      },
+      {
+        "text": "low fat",
+        "meta": "@low_fat",
+        "alias": "low_fat",
+        "userDefined": false
+      },
+      {
+        "text": " là gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c3b23bff-77fb-44bb-aa97-df5bea5e0768",
+    "data": [
+      {
+        "text": "low-fat",
+        "meta": "@low_fat",
+        "alias": "low_fat",
+        "userDefined": false
+      },
+      {
+        "text": " có phải là một chế ",
+        "userDefined": false
+      },
+      {
+        "text": "độ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ăn kiêng không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bb5e0b36-d2ab-4600-884b-f558013538f8",
+    "data": [
+      {
+        "text": "low-fat",
+        "meta": "@low_fat",
+        "alias": "low_fat",
+        "userDefined": false
+      },
+      {
+        "text": " là chế ",
+        "userDefined": false
+      },
+      {
+        "text": "độ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ăn thế nào?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dab84950-0aa1-4c57-b044-c49e502c9d81",
+    "data": [
+      {
+        "text": "cho mình hỏi ",
+        "userDefined": false
+      },
+      {
+        "text": "low-fat",
+        "meta": "@low_fat",
+        "alias": "low_fat",
+        "userDefined": false
+      },
+      {
+        "text": " là gì thế?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "09775550-8626-462c-b5d2-78e4844eea19",
+    "data": [
+      {
+        "text": "diet low-fat",
+        "meta": "@low_fat",
+        "alias": "low_fat",
+        "userDefined": true
+      },
+      {
+        "text": " là gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cd3c9b24-ed42-4e52-80f8-d4cc60f218a8",
+    "data": [
+      {
+        "text": "mình muốn biết thêm về ",
+        "userDefined": false
+      },
+      {
+        "text": "low-fat",
+        "meta": "@low_fat",
+        "alias": "low_fat",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "957abf8e-69f7-4ea6-a3a1-a35d4e1254f4",
+    "data": [
+      {
+        "text": "low-fat",
+        "meta": "@low_fat",
+        "alias": "low_fat",
+        "userDefined": false
+      },
+      {
+        "text": " là chế ",
+        "userDefined": false
+      },
+      {
+        "text": "độ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ăn như thế nào vậy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

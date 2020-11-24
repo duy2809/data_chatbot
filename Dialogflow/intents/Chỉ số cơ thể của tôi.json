@@ -1,0 +1,92 @@
+{
+  "id": "2fcae054-7db0-4a6c-a490-2795e9d752f3",
+  "name": "Chỉ số cơ thể của tôi",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4c34750b-b817-4db9-8de0-b8f9744f2c77",
+          "name": "bmi",
+          "required": false,
+          "dataType": "",
+          "value": "#info.bmi",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "e4c000bf-9b1e-414b-bf3b-0314d5c5da1a",
+          "name": "bmr",
+          "required": false,
+          "dataType": "",
+          "value": "#info.bmr",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "dfe27127-a168-4afc-b822-fb7d9d9e3c80",
+          "name": "tdee",
+          "required": false,
+          "dataType": "",
+          "value": "#info.tdee",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "b224b4e6-acb6-44da-a2d5-fbefce91a187",
+          "name": "phan_loai",
+          "required": false,
+          "dataType": "",
+          "value": "#info.phan_loai",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Cơ thể bạn đang ở mức #info.phan_loai bạn nhé! Hiện tại chỉ số BMI của bạn là #info.bmi, BMR là #info.bmr, lượng calo bạn cần nạp hàng ngày là #info.tdee calories."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 750000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

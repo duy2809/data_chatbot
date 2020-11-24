@@ -1,0 +1,3797 @@
+[
+  {
+    "value": "Ba khía muối",
+    "synonyms": [
+      "Ba khía muối",
+      "ba khía muối"
+    ]
+  },
+  {
+    "value": "Ba tê",
+    "synonyms": [
+      "Ba tê",
+      "ba tê",
+      "pate",
+      "pa tê"
+    ]
+  },
+  {
+    "value": "Bánh bao",
+    "synonyms": [
+      "Bánh bao",
+      "bánh bao"
+    ]
+  },
+  {
+    "value": "Bánh bao chay",
+    "synonyms": [
+      "Bánh bao chay",
+      "bánh bao chay"
+    ]
+  },
+  {
+    "value": "Bánh bao nhân cadé",
+    "synonyms": [
+      "Bánh bao nhân cadé",
+      "bánh bao nhân cadé"
+    ]
+  },
+  {
+    "value": "Bánh bao nhân thịt",
+    "synonyms": [
+      "Bánh bao nhân thịt",
+      "bánh bao nhân thịt"
+    ]
+  },
+  {
+    "value": "Bánh bèo (một loại)",
+    "synonyms": [
+      "Bánh bèo (một loại)",
+      "bánh bèo (một loại)"
+    ]
+  },
+  {
+    "value": "Bánh bèo thập cẩm",
+    "synonyms": [
+      "Bánh bèo thập cẩm",
+      "bánh bèo thập cẩm"
+    ]
+  },
+  {
+    "value": "Bánh bía",
+    "synonyms": [
+      "Bánh bía",
+      "bánh bía"
+    ]
+  },
+  {
+    "value": "Bánh bò",
+    "synonyms": [
+      "Bánh bò",
+      "bánh bò"
+    ]
+  },
+  {
+    "value": "Bánh bông lan chén",
+    "synonyms": [
+      "Bánh bông lan chén",
+      "bánh bông lan chén"
+    ]
+  },
+  {
+    "value": "Bánh bông lan cuốn",
+    "synonyms": [
+      "Bánh bông lan cuốn",
+      "bánh bông lan cuốn"
+    ]
+  },
+  {
+    "value": "Bánh bông lan kem vuông",
+    "synonyms": [
+      "Bánh bông lan kem vuông",
+      "bánh bông lan kem vuông"
+    ]
+  },
+  {
+    "value": "Bánh bột lọc",
+    "synonyms": [
+      "Bánh bột lọc",
+      "bánh bột lọc"
+    ]
+  },
+  {
+    "value": "Bánh canh cua",
+    "synonyms": [
+      "Bánh canh cua",
+      "bánh canh cua"
+    ]
+  },
+  {
+    "value": "Bánh canh giò heo",
+    "synonyms": [
+      "Bánh canh giò heo",
+      "bánh canh giò heo"
+    ]
+  },
+  {
+    "value": "Bánh canh thịt gà",
+    "synonyms": [
+      "Bánh canh thịt gà",
+      "bánh canh thịt gà"
+    ]
+  },
+  {
+    "value": "Bánh canh thịt heo",
+    "synonyms": [
+      "Bánh canh thịt heo",
+      "bánh canh thịt heo"
+    ]
+  },
+  {
+    "value": "Bánh cay",
+    "synonyms": [
+      "Bánh cay",
+      "bánh cay"
+    ]
+  },
+  {
+    "value": "Bánh chocopie",
+    "synonyms": [
+      "Bánh chocopie",
+      "bánh chocopie"
+    ]
+  },
+  {
+    "value": "Bánh chưng",
+    "synonyms": [
+      "Bánh chưng",
+      "bánh chưng"
+    ]
+  },
+  {
+    "value": "Bánh chuối",
+    "synonyms": [
+      "Bánh chuối",
+      "bánh chuối"
+    ]
+  },
+  {
+    "value": "Bánh chuối chiên",
+    "synonyms": [
+      "Bánh chuối chiên",
+      "bánh chuối chiên"
+    ]
+  },
+  {
+    "value": "Bánh cuốn",
+    "synonyms": [
+      "Bánh cuốn",
+      "bánh cuốn"
+    ]
+  },
+  {
+    "value": "Bánh da lợn",
+    "synonyms": [
+      "Bánh da lợn",
+      "bánh da lợn"
+    ]
+  },
+  {
+    "value": "Bánh đậu xanh nướng",
+    "synonyms": [
+      "Bánh đậu xanh nướng",
+      "bánh đậu xanh nướng"
+    ]
+  },
+  {
+    "value": "Bánh đúc",
+    "synonyms": [
+      "Bánh đúc",
+      "bánh đúc"
+    ]
+  },
+  {
+    "value": "Bánh Flan",
+    "synonyms": [
+      "Bánh Flan",
+      "bánh flan"
+    ]
+  },
+  {
+    "value": "Bánh giò",
+    "synonyms": [
+      "Bánh giò",
+      "bánh giò"
+    ]
+  },
+  {
+    "value": "Bánh in chay",
+    "synonyms": [
+      "Bánh in chay",
+      "bánh in chay"
+    ]
+  },
+  {
+    "value": "Bánh ít nhân đậu",
+    "synonyms": [
+      "Bánh ít nhân đậu",
+      "bánh ít nhân đậu"
+    ]
+  },
+  {
+    "value": "Bánh ít nhân dừa",
+    "synonyms": [
+      "Bánh ít nhân dừa",
+      "bánh ít nhân dừa"
+    ]
+  },
+  {
+    "value": "Bánh khoai mì nướng",
+    "synonyms": [
+      "Bánh khoai mì nướng",
+      "bánh khoai mì nướng"
+    ]
+  },
+  {
+    "value": "Bánh khọt",
+    "synonyms": [
+      "Bánh khọt",
+      "bánh khọt"
+    ]
+  },
+  {
+    "value": "Bánh lá chả tôm",
+    "synonyms": [
+      "Bánh lá chả tôm",
+      "bánh lá chả tôm"
+    ]
+  },
+  {
+    "value": "Bánh lá dứa nhân chuối",
+    "synonyms": [
+      "Bánh lá dứa nhân chuối",
+      "bánh lá dứa nhân chuối"
+    ]
+  },
+  {
+    "value": "Bánh lá dừa nhân đậu",
+    "synonyms": [
+      "Bánh lá dừa nhân đậu",
+      "bánh lá dừa nhân đậu"
+    ]
+  },
+  {
+    "value": "Bánh mè",
+    "synonyms": [
+      "Bánh mè",
+      "bánh mè"
+    ]
+  },
+  {
+    "value": "Bánh men",
+    "synonyms": [
+      "Bánh men",
+      "bánh men"
+    ]
+  },
+  {
+    "value": "Bánh mì",
+    "synonyms": [
+      "Bánh mì",
+      "bánh mì"
+    ]
+  },
+  {
+    "value": "Bánh mì cadé Kinh đô",
+    "synonyms": [
+      "Bánh mì cadé Kinh đô",
+      "bánh mì cadé kinh đô"
+    ]
+  },
+  {
+    "value": "Bánh mì kẹp cá hộp",
+    "synonyms": [
+      "Bánh mì kẹp cá hộp",
+      "bánh mì kẹp cá hộp"
+    ]
+  },
+  {
+    "value": "Bánh mì kẹp chà bông",
+    "synonyms": [
+      "Bánh mì kẹp chà bông",
+      "bánh mì kẹp chà bông"
+    ]
+  },
+  {
+    "value": "Bánh mì kẹp chả lụa",
+    "synonyms": [
+      "Bánh mì kẹp chả lụa",
+      "bánh mì kẹp chả lụa"
+    ]
+  },
+  {
+    "value": "Bánh mì khô",
+    "synonyms": [
+      "Bánh mì khô",
+      "bánh mì khô"
+    ]
+  },
+  {
+    "value": "Bánh mì ngọt Đức phát",
+    "synonyms": [
+      "Bánh mì ngọt Đức phát",
+      "bánh mì ngọt đức phát"
+    ]
+  },
+  {
+    "value": "Bánh mì ổ",
+    "synonyms": [
+      "Bánh mì ổ",
+      "bánh mì ổ"
+    ]
+  },
+  {
+    "value": "Bánh mì sandwich",
+    "synonyms": [
+      "Bánh mì sandwich",
+      "bánh mì sandwich",
+      "bánh sandwich"
+    ]
+  },
+  {
+    "value": "Bánh mì sandwich kẹp thịt",
+    "synonyms": [
+      "Bánh mì sandwich kẹp thịt",
+      "bánh mì sandwich kẹp thịt"
+    ]
+  },
+  {
+    "value": "Bánh mì thịt",
+    "synonyms": [
+      "Bánh mì thịt",
+      "bánh mì thịt"
+    ]
+  },
+  {
+    "value": "Bánh mì thịt nướng",
+    "synonyms": [
+      "Bánh mì thịt nướng",
+      "bánh mì thịt nướng"
+    ]
+  },
+  {
+    "value": "Bánh patechaud",
+    "synonyms": [
+      "Bánh patechaud",
+      "bánh patechaud"
+    ]
+  },
+  {
+    "value": "Bánh phở",
+    "synonyms": [
+      "Bánh phở",
+      "bánh phở"
+    ]
+  },
+  {
+    "value": "Bánh phồng tôm",
+    "synonyms": [
+      "Bánh phồng tôm",
+      "bánh phồng tôm"
+    ]
+  },
+  {
+    "value": "Bánh quy bơ (biscuit)",
+    "synonyms": [
+      "Bánh quy bơ (biscuit)",
+      "bánh quy bơ (biscuit)"
+    ]
+  },
+  {
+    "value": "Bánh snack",
+    "synonyms": [
+      "Bánh snack",
+      "bánh snack"
+    ]
+  },
+  {
+    "value": "Bánh sôcôla",
+    "synonyms": [
+      "Bánh sôcôla",
+      "bánh sôcôla"
+    ]
+  },
+  {
+    "value": "Bánh su kem",
+    "synonyms": [
+      "Bánh su kem",
+      "bánh su kem"
+    ]
+  },
+  {
+    "value": "Bánh sừng trâu",
+    "synonyms": [
+      "Bánh sừng trâu",
+      "bánh sừng trâu"
+    ]
+  },
+  {
+    "value": "Bánh tét nhân chuối",
+    "synonyms": [
+      "Bánh tét nhân chuối",
+      "bánh tét nhân chuối"
+    ]
+  },
+  {
+    "value": "Bánh tét nhân đậu ngọt",
+    "synonyms": [
+      "Bánh tét nhân đậu ngọt",
+      "bánh tét nhân đậu ngọt"
+    ]
+  },
+  {
+    "value": "Bánh tét nhân mặn",
+    "synonyms": [
+      "Bánh tét nhân mặn",
+      "bánh tét nhân mặn"
+    ]
+  },
+  {
+    "value": "Bánh thỏi sôcôla",
+    "synonyms": [
+      "Bánh thỏi sôcôla",
+      "bánh thỏi sôcôla"
+    ]
+  },
+  {
+    "value": "Bánh tiêu",
+    "synonyms": [
+      "Bánh tiêu",
+      "bánh tiêu"
+    ]
+  },
+  {
+    "value": "Bánh tráng mỏng",
+    "synonyms": [
+      "Bánh tráng mỏng",
+      "bánh tráng mỏng"
+    ]
+  },
+  {
+    "value": "Bánh ướt",
+    "synonyms": [
+      "Bánh ướt",
+      "bánh ướt"
+    ]
+  },
+  {
+    "value": "Bánh xèo",
+    "synonyms": [
+      "Bánh xèo",
+      "bánh xèo"
+    ]
+  },
+  {
+    "value": "Bao tử bò",
+    "synonyms": [
+      "Bao tử bò",
+      "bao tử bò"
+    ]
+  },
+  {
+    "value": "Bao tử heo",
+    "synonyms": [
+      "Bao tử heo",
+      "bao tử heo"
+    ]
+  },
+  {
+    "value": "Bắp giã",
+    "synonyms": [
+      "Bắp giã",
+      "bắp giã"
+    ]
+  },
+  {
+    "value": "Bắp luộc",
+    "synonyms": [
+      "Bắp luộc",
+      "bắp luộc"
+    ]
+  },
+  {
+    "value": "Bắp nướng",
+    "synonyms": [
+      "Bắp nướng",
+      "bắp nướng"
+    ]
+  },
+  {
+    "value": "Bắp tươi",
+    "synonyms": [
+      "Bắp tươi",
+      "bắp tươi"
+    ]
+  },
+  {
+    "value": "Bắp xào",
+    "synonyms": [
+      "Bắp xào",
+      "bắp xào"
+    ]
+  },
+  {
+    "value": "Bầu",
+    "synonyms": [
+      "Bầu",
+      "bầu"
+    ]
+  },
+  {
+    "value": "Bầu xào trứng",
+    "synonyms": [
+      "Bầu xào trứng",
+      "bầu xào trứng"
+    ]
+  },
+  {
+    "value": "Bí đao (bí xanh)",
+    "synonyms": [
+      "Bí đao (bí xanh)",
+      "bí đao (bí xanh)"
+    ]
+  },
+  {
+    "value": "Bí ngô",
+    "synonyms": [
+      "Bí ngô",
+      "bí ngô"
+    ]
+  },
+  {
+    "value": "Bia",
+    "synonyms": [
+      "Bia",
+      "bia"
+    ]
+  },
+  {
+    "value": "Bơ",
+    "synonyms": [
+      "Bơ",
+      "bơ"
+    ]
+  },
+  {
+    "value": "Bò bía",
+    "synonyms": [
+      "Bò bía",
+      "bò bía"
+    ]
+  },
+  {
+    "value": "Bò cuốn lá lốt",
+    "synonyms": [
+      "Bò cuốn lá lốt",
+      "bò cuốn lá lốt"
+    ]
+  },
+  {
+    "value": "Bò cuốn mỡ chài",
+    "synonyms": [
+      "Bò cuốn mỡ chài",
+      "bò cuốn mỡ chài"
+    ]
+  },
+  {
+    "value": "Bơ thực vật",
+    "synonyms": [
+      "Bơ thực vật",
+      "bơ thực vật"
+    ]
+  },
+  {
+    "value": "Bông cải xào thập cẩm",
+    "synonyms": [
+      "Bông cải xào thập cẩm",
+      "bông cải xào thập cẩm"
+    ]
+  },
+  {
+    "value": "Bột chiên",
+    "synonyms": [
+      "Bột chiên",
+      "bột chiên"
+    ]
+  },
+  {
+    "value": "Bột sắn dây",
+    "synonyms": [
+      "Bột sắn dây",
+      "bột sắn dây"
+    ]
+  },
+  {
+    "value": "Bún",
+    "synonyms": [
+      "Bún",
+      "bún"
+    ]
+  },
+  {
+    "value": "Bún ăn liền",
+    "synonyms": [
+      "Bún ăn liền",
+      "bún ăn liền"
+    ]
+  },
+  {
+    "value": "Bún bò huế",
+    "synonyms": [
+      "Bún bò huế",
+      "bún bò huế"
+    ]
+  },
+  {
+    "value": "Bún bò huế (giò)",
+    "synonyms": [
+      "Bún bò huế (giò)",
+      "bún bò huế (giò)"
+    ]
+  },
+  {
+    "value": "Bún chả Hà Nội",
+    "synonyms": [
+      "Bún chả Hà Nội",
+      "bún chả hà nội"
+    ]
+  },
+  {
+    "value": "Bún đậu mắm tôm",
+    "synonyms": [
+      "Bún đậu mắm tôm",
+      "bún đậu mắm tôm"
+    ]
+  },
+  {
+    "value": "Bún mắm",
+    "synonyms": [
+      "Bún mắm",
+      "bún mắm"
+    ]
+  },
+  {
+    "value": "Bún măng",
+    "synonyms": [
+      "Bún măng",
+      "bún măng"
+    ]
+  },
+  {
+    "value": "Bún mộc",
+    "synonyms": [
+      "Bún mộc",
+      "bún mộc"
+    ]
+  },
+  {
+    "value": "Bún riêu",
+    "synonyms": [
+      "Bún riêu",
+      "bún riêu"
+    ]
+  },
+  {
+    "value": "Bún riêu cua",
+    "synonyms": [
+      "Bún riêu cua",
+      "bún riêu cua"
+    ]
+  },
+  {
+    "value": "Bún riêu ốc",
+    "synonyms": [
+      "Bún riêu ốc",
+      "bún riêu ốc"
+    ]
+  },
+  {
+    "value": "Bún thịt nướng",
+    "synonyms": [
+      "Bún thịt nướng",
+      "bún thịt nướng"
+    ]
+  },
+  {
+    "value": "Bún thịt nướng chả giò",
+    "synonyms": [
+      "Bún thịt nướng chả giò",
+      "bún thịt nướng chả giò"
+    ]
+  },
+  {
+    "value": "Bún xào",
+    "synonyms": [
+      "Bún xào",
+      "bún xào"
+    ]
+  },
+  {
+    "value": "Bưởi",
+    "synonyms": [
+      "Bưởi",
+      "bưởi",
+      "quả bưởi"
+    ]
+  },
+  {
+    "value": "Cá bạc má chiên",
+    "synonyms": [
+      "Cá bạc má chiên",
+      "cá bạc má chiên"
+    ]
+  },
+  {
+    "value": "Cá bạc má kho",
+    "synonyms": [
+      "Cá bạc má kho",
+      "cá bạc má kho"
+    ]
+  },
+  {
+    "value": "Cá bống",
+    "synonyms": [
+      "Cá bống",
+      "cá bống"
+    ]
+  },
+  {
+    "value": "Cá chép",
+    "synonyms": [
+      "Cá chép",
+      "cá chép",
+      "cá"
+    ]
+  },
+  {
+    "value": "Cá chép chưng tương",
+    "synonyms": [
+      "Cá chép chưng tương",
+      "cá chép chưng tương"
+    ]
+  },
+  {
+    "value": "Cá chim chiên",
+    "synonyms": [
+      "Cá chim chiên",
+      "cá chim chiên"
+    ]
+  },
+  {
+    "value": "Cà chua",
+    "synonyms": [
+      "Cà chua",
+      "cà chua"
+    ]
+  },
+  {
+    "value": "Cà chua dồn thịt",
+    "synonyms": [
+      "Cà chua dồn thịt",
+      "cà chua dồn thịt"
+    ]
+  },
+  {
+    "value": "Cá cơm lăn bột chiên",
+    "synonyms": [
+      "Cá cơm lăn bột chiên",
+      "cá cơm lăn bột chiên"
+    ]
+  },
+  {
+    "value": "Cá đối",
+    "synonyms": [
+      "Cá đối",
+      "cá đối"
+    ]
+  },
+  {
+    "value": "Cá đối chiên",
+    "synonyms": [
+      "Cá đối chiên",
+      "cá đối chiên"
+    ]
+  },
+  {
+    "value": "Cá đối kho",
+    "synonyms": [
+      "Cá đối kho",
+      "cá đối kho"
+    ]
+  },
+  {
+    "value": "Cá giếc",
+    "synonyms": [
+      "Cá giếc",
+      "cá giếc"
+    ]
+  },
+  {
+    "value": "Cá hồi",
+    "synonyms": [
+      "Cá hồi",
+      "cá hồi"
+    ]
+  },
+  {
+    "value": "Cá hú kho",
+    "synonyms": [
+      "Cá hú kho",
+      "cá hú kho"
+    ]
+  },
+  {
+    "value": "Cá khô",
+    "synonyms": [
+      "Cá khô",
+      "cá khô"
+    ]
+  },
+  {
+    "value": "Cá lóc",
+    "synonyms": [
+      "Cá lóc",
+      "cá lóc"
+    ]
+  },
+  {
+    "value": "Cá lóc chiên",
+    "synonyms": [
+      "Cá lóc chiên",
+      "cá lóc chiên"
+    ]
+  },
+  {
+    "value": "Cá lóc kho",
+    "synonyms": [
+      "Cá lóc kho",
+      "cá lóc kho"
+    ]
+  },
+  {
+    "value": "Cá mè",
+    "synonyms": [
+      "Cá mè",
+      "cá mè"
+    ]
+  },
+  {
+    "value": "Cá mỡ",
+    "synonyms": [
+      "Cá mỡ",
+      "cá mỡ"
+    ]
+  },
+  {
+    "value": "Cá mòi",
+    "synonyms": [
+      "Cá mòi",
+      "cá mòi"
+    ]
+  },
+  {
+    "value": "Cá mòi kho",
+    "synonyms": [
+      "Cá mòi kho",
+      "cá mòi kho"
+    ]
+  },
+  {
+    "value": "Cá nạc",
+    "synonyms": [
+      "Cá nạc",
+      "cá nạc"
+    ]
+  },
+  {
+    "value": "Cá ngừ",
+    "synonyms": [
+      "Cá ngừ",
+      "cá ngừ"
+    ]
+  },
+  {
+    "value": "Cá ngừ kho",
+    "synonyms": [
+      "Cá ngừ kho",
+      "cá ngừ kho"
+    ]
+  },
+  {
+    "value": "Cá nục",
+    "synonyms": [
+      "Cá nục",
+      "cá nục"
+    ]
+  },
+  {
+    "value": "Cà pháo",
+    "synonyms": [
+      "Cà pháo",
+      "cà pháo"
+    ]
+  },
+  {
+    "value": "Cà phê đen phin",
+    "synonyms": [
+      "Cà phê đen phin",
+      "cà phê đen phin"
+    ]
+  },
+  {
+    "value": "Cà phê sữa gói tan",
+    "synonyms": [
+      "Cà phê sữa gói tan",
+      "cà phê sữa gói tan"
+    ]
+  },
+  {
+    "value": "Cá phèn",
+    "synonyms": [
+      "Cá phèn",
+      "cá phèn"
+    ]
+  },
+  {
+    "value": "Cá quả (cá lóc)",
+    "synonyms": [
+      "Cá quả (cá lóc)",
+      "cá quả (cá lóc)"
+    ]
+  },
+  {
+    "value": "Cà ri",
+    "synonyms": [
+      "Cà ri",
+      "cà ri"
+    ]
+  },
+  {
+    "value": "Cá rô đồng",
+    "synonyms": [
+      "Cá rô đồng",
+      "cá rô đồng"
+    ]
+  },
+  {
+    "value": "Cá rô phi",
+    "synonyms": [
+      "Cá rô phi",
+      "cá rô phi"
+    ]
+  },
+  {
+    "value": "Cà rốt",
+    "synonyms": [
+      "Cà rốt",
+      "cà rốt"
+    ]
+  },
+  {
+    "value": "Cá thu",
+    "synonyms": [
+      "Cá thu",
+      "cá thu"
+    ]
+  },
+  {
+    "value": "Cá thu hộp",
+    "synonyms": [
+      "Cá thu hộp",
+      "cá thu hộp"
+    ]
+  },
+  {
+    "value": "Cà tím",
+    "synonyms": [
+      "Cà tím",
+      "cà tím"
+    ]
+  },
+  {
+    "value": "Cà tím nướng",
+    "synonyms": [
+      "Cà tím nướng",
+      "cà tím nướng"
+    ]
+  },
+  {
+    "value": "Cá trắm cỏ",
+    "synonyms": [
+      "Cá trắm cỏ",
+      "cá trắm cỏ"
+    ]
+  },
+  {
+    "value": "Cá trê",
+    "synonyms": [
+      "Cá trê",
+      "cá trê"
+    ]
+  },
+  {
+    "value": "Cá trê chiên",
+    "synonyms": [
+      "Cá trê chiên",
+      "cá trê chiên"
+    ]
+  },
+  {
+    "value": "Cá trích hộp",
+    "synonyms": [
+      "Cá trích hộp",
+      "cá trích hộp"
+    ]
+  },
+  {
+    "value": "Cá trôi",
+    "synonyms": [
+      "Cá trôi",
+      "cá trôi"
+    ]
+  },
+  {
+    "value": "Cá viên kho",
+    "synonyms": [
+      "Cá viên kho",
+      "cá viên kho"
+    ]
+  },
+  {
+    "value": "Cải bắp",
+    "synonyms": [
+      "Cải bắp",
+      "cải bắp"
+    ]
+  },
+  {
+    "value": "Cải cúc",
+    "synonyms": [
+      "Cải cúc",
+      "cải cúc"
+    ]
+  },
+  {
+    "value": "Cải thìa (cải trắng)",
+    "synonyms": [
+      "Cải thìa (cải trắng)",
+      "cải thìa (cải trắng)"
+    ]
+  },
+  {
+    "value": "Cải xanh",
+    "synonyms": [
+      "Cải xanh",
+      "cải xanh"
+    ]
+  },
+  {
+    "value": "Cam",
+    "synonyms": [
+      "Cam",
+      "cam",
+      "quả cam",
+      "Quả cam"
+    ]
+  },
+  {
+    "value": "Cần ta",
+    "synonyms": [
+      "Cần ta",
+      "cần ta"
+    ]
+  },
+  {
+    "value": "Canh bắp cải",
+    "synonyms": [
+      "Canh bắp cải",
+      "canh bắp cải"
+    ]
+  },
+  {
+    "value": "Canh bầu",
+    "synonyms": [
+      "Canh bầu",
+      "canh bầu"
+    ]
+  },
+  {
+    "value": "Canh bí đao",
+    "synonyms": [
+      "Canh bí đao",
+      "canh bí đao"
+    ]
+  },
+  {
+    "value": "Canh bí rợ",
+    "synonyms": [
+      "Canh bí rợ",
+      "canh bí rợ"
+    ]
+  },
+  {
+    "value": "Canh bún",
+    "synonyms": [
+      "Canh bún",
+      "canh bún"
+    ]
+  },
+  {
+    "value": "Canh cải ngọt",
+    "synonyms": [
+      "Canh cải ngọt",
+      "canh cải ngọt"
+    ]
+  },
+  {
+    "value": "Canh chua",
+    "synonyms": [
+      "Canh chua",
+      "canh chua"
+    ]
+  },
+  {
+    "value": "Canh hẹ",
+    "synonyms": [
+      "Canh hẹ",
+      "canh hẹ"
+    ]
+  },
+  {
+    "value": "Canh khổ qua hầm",
+    "synonyms": [
+      "Canh khổ qua hầm",
+      "canh khổ qua hầm"
+    ]
+  },
+  {
+    "value": "Canh khoai mỡ",
+    "synonyms": [
+      "Canh khoai mỡ",
+      "canh khoai mỡ"
+    ]
+  },
+  {
+    "value": "Canh kiểm",
+    "synonyms": [
+      "Canh kiểm",
+      "canh kiểm"
+    ]
+  },
+  {
+    "value": "Canh mướp",
+    "synonyms": [
+      "Canh mướp",
+      "canh mướp"
+    ]
+  },
+  {
+    "value": "Canh rau dền",
+    "synonyms": [
+      "Canh rau dền",
+      "canh rau dền"
+    ]
+  },
+  {
+    "value": "Canh rau ngót",
+    "synonyms": [
+      "Canh rau ngót",
+      "canh rau ngót"
+    ]
+  },
+  {
+    "value": "Cari bột",
+    "synonyms": [
+      "Cari bột",
+      "cari bột"
+    ]
+  },
+  {
+    "value": "Cật bò",
+    "synonyms": [
+      "Cật bò",
+      "cật bò"
+    ]
+  },
+  {
+    "value": "Cật heo",
+    "synonyms": [
+      "Cật heo",
+      "cật heo"
+    ]
+  },
+  {
+    "value": "Chả bò",
+    "synonyms": [
+      "Chả bò",
+      "chả bò"
+    ]
+  },
+  {
+    "value": "Chà bông",
+    "synonyms": [
+      "Chà bông",
+      "chà bông"
+    ]
+  },
+  {
+    "value": "Chà bông cá lóc",
+    "synonyms": [
+      "Chà bông cá lóc",
+      "chà bông cá lóc"
+    ]
+  },
+  {
+    "value": "Chả cá thác lác chiên",
+    "synonyms": [
+      "Chả cá thác lác chiên",
+      "chả cá thác lác chiên"
+    ]
+  },
+  {
+    "value": "Chả giò chiên",
+    "synonyms": [
+      "Chả giò chiên",
+      "chả giò chiên"
+    ]
+  },
+  {
+    "value": "Chả lợn",
+    "synonyms": [
+      "Chả lợn",
+      "chả lợn"
+    ]
+  },
+  {
+    "value": "Chả lụa",
+    "synonyms": [
+      "Chả lụa",
+      "chả lụa"
+    ]
+  },
+  {
+    "value": "Chả lụa chiên",
+    "synonyms": [
+      "Chả lụa chiên",
+      "chả lụa chiên"
+    ]
+  },
+  {
+    "value": "Chả lụa kho",
+    "synonyms": [
+      "Chả lụa kho",
+      "chả lụa kho"
+    ]
+  },
+  {
+    "value": "Chả quế",
+    "synonyms": [
+      "Chả quế",
+      "chả quế"
+    ]
+  },
+  {
+    "value": "Chả trứng chưng",
+    "synonyms": [
+      "Chả trứng chưng",
+      "chả trứng chưng"
+    ]
+  },
+  {
+    "value": "Chân giò lợn (bỏ xương)",
+    "synonyms": [
+      "Chân giò lợn (bỏ xương)",
+      "chân giò lợn (bỏ xương)"
+    ]
+  },
+  {
+    "value": "Chanh",
+    "synonyms": [
+      "Chanh",
+      "chanh"
+    ]
+  },
+  {
+    "value": "Cháo ăn liền",
+    "synonyms": [
+      "Cháo ăn liền",
+      "cháo ăn liền"
+    ]
+  },
+  {
+    "value": "Cháo đậu đỏ",
+    "synonyms": [
+      "Cháo đậu đỏ",
+      "cháo đậu đỏ"
+    ]
+  },
+  {
+    "value": "Cháo gỏi vịt",
+    "synonyms": [
+      "Cháo gỏi vịt",
+      "cháo gỏi vịt"
+    ]
+  },
+  {
+    "value": "Cháo huyết",
+    "synonyms": [
+      "Cháo huyết",
+      "cháo huyết"
+    ]
+  },
+  {
+    "value": "Cháo lòng",
+    "synonyms": [
+      "Cháo lòng",
+      "cháo lòng"
+    ]
+  },
+  {
+    "value": "Chè bắp",
+    "synonyms": [
+      "Chè bắp",
+      "chè bắp"
+    ]
+  },
+  {
+    "value": "Chè chuối chưng",
+    "synonyms": [
+      "Chè chuối chưng",
+      "chè chuối chưng"
+    ]
+  },
+  {
+    "value": "Chè đậu đen",
+    "synonyms": [
+      "Chè đậu đen",
+      "chè đậu đen"
+    ]
+  },
+  {
+    "value": "Chè đậu trắng",
+    "synonyms": [
+      "Chè đậu trắng",
+      "chè đậu trắng"
+    ]
+  },
+  {
+    "value": "Chè đậu xanh đánh",
+    "synonyms": [
+      "Chè đậu xanh đánh",
+      "chè đậu xanh đánh"
+    ]
+  },
+  {
+    "value": "Chè đậu xanh phổ tai",
+    "synonyms": [
+      "Chè đậu xanh phổ tai",
+      "chè đậu xanh phổ tai"
+    ]
+  },
+  {
+    "value": "Chè nếp đậu trắng",
+    "synonyms": [
+      "Chè nếp đậu trắng",
+      "chè nếp đậu trắng"
+    ]
+  },
+  {
+    "value": "Chè nếp khoai môn",
+    "synonyms": [
+      "Chè nếp khoai môn",
+      "chè nếp khoai môn"
+    ]
+  },
+  {
+    "value": "Chè táo xọn",
+    "synonyms": [
+      "Chè táo xọn",
+      "chè táo xọn"
+    ]
+  },
+  {
+    "value": "Chè thạch nhãn",
+    "synonyms": [
+      "Chè thạch nhãn",
+      "chè thạch nhãn"
+    ]
+  },
+  {
+    "value": "Chè thưng",
+    "synonyms": [
+      "Chè thưng",
+      "chè thưng"
+    ]
+  },
+  {
+    "value": "Chè trôi nước",
+    "synonyms": [
+      "Chè trôi nước",
+      "chè trôi nước"
+    ]
+  },
+  {
+    "value": "Chim cút chiên bơ",
+    "synonyms": [
+      "Chim cút chiên bơ",
+      "chim cút chiên bơ"
+    ]
+  },
+  {
+    "value": "Chôm chôm",
+    "synonyms": [
+      "Chôm chôm",
+      "chôm chôm",
+      "quả chôm",
+      "Quả chôm"
+    ]
+  },
+  {
+    "value": "Chôm chôm đóng hộp",
+    "synonyms": [
+      "Chôm chôm đóng hộp",
+      "chôm chôm đóng hộp"
+    ]
+  },
+  {
+    "value": "Chuối cau",
+    "synonyms": [
+      "Chuối cau",
+      "chuối cau"
+    ]
+  },
+  {
+    "value": "Chuối già",
+    "synonyms": [
+      "Chuối già",
+      "chuối già"
+    ]
+  },
+  {
+    "value": "Chuối khô",
+    "synonyms": [
+      "Chuối khô",
+      "chuối khô"
+    ]
+  },
+  {
+    "value": "Chuối sấy",
+    "synonyms": [
+      "Chuối sấy",
+      "chuối sấy"
+    ]
+  },
+  {
+    "value": "Chuối sứ",
+    "synonyms": [
+      "Chuối sứ",
+      "chuối sứ"
+    ]
+  },
+  {
+    "value": "Chuối tây",
+    "synonyms": [
+      "Chuối tây",
+      "chuối tây"
+    ]
+  },
+  {
+    "value": "Chuối tiêu",
+    "synonyms": [
+      "Chuối tiêu",
+      "chuối tiêu"
+    ]
+  },
+  {
+    "value": "Cóc",
+    "synonyms": [
+      "Cóc",
+      "cóc"
+    ]
+  },
+  {
+    "value": "CocaCola",
+    "synonyms": [
+      "CocaCola",
+      "cocacola",
+      "nước ngọt coca",
+      "nước coca",
+      "coca cola",
+      "Coca cola"
+    ]
+  },
+  {
+    "value": "Cocktail trái cây",
+    "synonyms": [
+      "Cocktail trái cây",
+      "cocktail trái cây"
+    ]
+  },
+  {
+    "value": "Cơm chiên dương châu",
+    "synonyms": [
+      "Cơm chiên dương châu",
+      "cơm chiên dương châu"
+    ]
+  },
+  {
+    "value": "Cơm tấm bì",
+    "synonyms": [
+      "Cơm tấm bì",
+      "cơm tấm bì"
+    ]
+  },
+  {
+    "value": "Cơm tấm chả",
+    "synonyms": [
+      "Cơm tấm chả",
+      "cơm tấm chả"
+    ]
+  },
+  {
+    "value": "Cơm tấm sườn",
+    "synonyms": [
+      "Cơm tấm sườn",
+      "cơm tấm sườn"
+    ]
+  },
+  {
+    "value": "Cơm trắng",
+    "synonyms": [
+      "Cơm trắng",
+      "cơm trắng"
+    ]
+  },
+  {
+    "value": "Củ cải trắng",
+    "synonyms": [
+      "Củ cải trắng",
+      "củ cải trắng",
+      "củ cải"
+    ]
+  },
+  {
+    "value": "Củ dong",
+    "synonyms": [
+      "Củ dong",
+      "củ dong"
+    ]
+  },
+  {
+    "value": "Củ sắn",
+    "synonyms": [
+      "Củ sắn",
+      "củ sắn"
+    ]
+  },
+  {
+    "value": "Củ từ",
+    "synonyms": [
+      "Củ từ",
+      "củ từ"
+    ]
+  },
+  {
+    "value": "Cua biển",
+    "synonyms": [
+      "Cua biển",
+      "cua biển"
+    ]
+  },
+  {
+    "value": "Cua đồng",
+    "synonyms": [
+      "Cua đồng",
+      "cua đồng"
+    ]
+  },
+  {
+    "value": "Cùi dừa già",
+    "synonyms": [
+      "Cùi dừa già",
+      "cùi dừa già"
+    ]
+  },
+  {
+    "value": "Cùi dừa non",
+    "synonyms": [
+      "Cùi dừa non",
+      "cùi dừa non"
+    ]
+  },
+  {
+    "value": "Da heo",
+    "synonyms": [
+      "Da heo",
+      "da heo"
+    ]
+  },
+  {
+    "value": "Dăm bông heo",
+    "synonyms": [
+      "Dăm bông heo",
+      "dăm bông heo"
+    ]
+  },
+  {
+    "value": "Đậu cô ve",
+    "synonyms": [
+      "Đậu cô ve",
+      "đậu cô ve"
+    ]
+  },
+  {
+    "value": "Đậu đen (hạt)",
+    "synonyms": [
+      "Đậu đen (hạt)",
+      "đậu đen (hạt)"
+    ]
+  },
+  {
+    "value": "Đậu Hà lan (hạt)",
+    "synonyms": [
+      "Đậu Hà lan (hạt)",
+      "đậu hà lan (hạt)",
+      "đậu hà lan",
+      "Đậu Hà Lan",
+      "Đậu hà lan"
+    ]
+  },
+  {
+    "value": "Đầu heo",
+    "synonyms": [
+      "Đầu heo",
+      "đầu heo"
+    ]
+  },
+  {
+    "value": "Đậu hủ chiên xả",
+    "synonyms": [
+      "Đậu hủ chiên xả",
+      "đậu hủ chiên xả"
+    ]
+  },
+  {
+    "value": "Đậu hủ dồn thịt",
+    "synonyms": [
+      "Đậu hủ dồn thịt",
+      "đậu hủ dồn thịt"
+    ]
+  },
+  {
+    "value": "Đậu phộng",
+    "synonyms": [
+      "Đậu phộng",
+      "đậu phộng"
+    ]
+  },
+  {
+    "value": "Đậu phộng chiên",
+    "synonyms": [
+      "Đậu phộng chiên",
+      "đậu phộng chiên"
+    ]
+  },
+  {
+    "value": "Đậu phộng rang",
+    "synonyms": [
+      "Đậu phộng rang",
+      "đậu phộng rang"
+    ]
+  },
+  {
+    "value": "Đậu phụ",
+    "synonyms": [
+      "Đậu phụ",
+      "đậu phụ"
+    ]
+  },
+  {
+    "value": "Dầu thực vật",
+    "synonyms": [
+      "Dầu thực vật",
+      "dầu thực vật"
+    ]
+  },
+  {
+    "value": "Đậu tương (đậu nành)",
+    "synonyms": [
+      "Đậu tương (đậu nành)",
+      "đậu tương (đậu nành)"
+    ]
+  },
+  {
+    "value": "Đậu xanh",
+    "synonyms": [
+      "Đậu xanh",
+      "đậu xanh"
+    ]
+  },
+  {
+    "value": "Dọc mùng",
+    "synonyms": [
+      "Dọc mùng",
+      "dọc mùng"
+    ]
+  },
+  {
+    "value": "Đu đủ",
+    "synonyms": [
+      "Đu đủ",
+      "đu đủ"
+    ]
+  },
+  {
+    "value": "Đu đủ chín",
+    "synonyms": [
+      "Đu đủ chín",
+      "đu đủ chín"
+    ]
+  },
+  {
+    "value": "Dưa cải bắp",
+    "synonyms": [
+      "Dưa cải bắp",
+      "dưa cải bắp"
+    ]
+  },
+  {
+    "value": "Dưa cải bẹ",
+    "synonyms": [
+      "Dưa cải bẹ",
+      "dưa cải bẹ"
+    ]
+  },
+  {
+    "value": "Dưa chuột",
+    "synonyms": [
+      "Dưa chuột",
+      "dưa chuột"
+    ]
+  },
+  {
+    "value": "Dưa hấu",
+    "synonyms": [
+      "Dưa hấu",
+      "dưa hấu"
+    ]
+  },
+  {
+    "value": "Dứa ta",
+    "synonyms": [
+      "Dứa ta",
+      "dứa ta"
+    ]
+  },
+  {
+    "value": "Đùi gà chiên",
+    "synonyms": [
+      "Đùi gà chiên",
+      "đùi gà chiên",
+      "gà rán",
+      "Gà rán"
+    ]
+  },
+  {
+    "value": "Đuôi bò",
+    "synonyms": [
+      "Đuôi bò",
+      "đuôi bò"
+    ]
+  },
+  {
+    "value": "Đuôi heo",
+    "synonyms": [
+      "Đuôi heo",
+      "đuôi heo"
+    ]
+  },
+  {
+    "value": "Đường cát trắng",
+    "synonyms": [
+      "Đường cát trắng",
+      "đường cát trắng"
+    ]
+  },
+  {
+    "value": "Ếch",
+    "synonyms": [
+      "Ếch",
+      "ếch"
+    ]
+  },
+  {
+    "value": "Gà kho gừng",
+    "synonyms": [
+      "Gà kho gừng",
+      "gà kho gừng"
+    ]
+  },
+  {
+    "value": "Gà rô ti",
+    "synonyms": [
+      "Gà rô ti",
+      "gà rô ti"
+    ]
+  },
+  {
+    "value": "Gà xào sả ớt",
+    "synonyms": [
+      "Gà xào sả ớt",
+      "gà xào sả ớt"
+    ]
+  },
+  {
+    "value": "Gấc",
+    "synonyms": [
+      "Gấc",
+      "gấc"
+    ]
+  },
+  {
+    "value": "Gan bò",
+    "synonyms": [
+      "Gan bò",
+      "gan bò"
+    ]
+  },
+  {
+    "value": "Gân chân bò",
+    "synonyms": [
+      "Gân chân bò",
+      "gân chân bò"
+    ]
+  },
+  {
+    "value": "Gan gà",
+    "synonyms": [
+      "Gan gà",
+      "gan gà"
+    ]
+  },
+  {
+    "value": "Gan heo",
+    "synonyms": [
+      "Gan heo",
+      "gan heo"
+    ]
+  },
+  {
+    "value": "Gan heo xào",
+    "synonyms": [
+      "Gan heo xào",
+      "gan heo xào"
+    ]
+  },
+  {
+    "value": "Gan vịt",
+    "synonyms": [
+      "Gan vịt",
+      "gan vịt"
+    ]
+  },
+  {
+    "value": "Gạo nếp cái",
+    "synonyms": [
+      "Gạo nếp cái",
+      "gạo nếp cái"
+    ]
+  },
+  {
+    "value": "Gạo tẻ",
+    "synonyms": [
+      "Gạo tẻ",
+      "gạo tẻ"
+    ]
+  },
+  {
+    "value": "Ghẹ",
+    "synonyms": [
+      "Ghẹ",
+      "ghẹ"
+    ]
+  },
+  {
+    "value": "Giá đậu xanh",
+    "synonyms": [
+      "Giá đậu xanh",
+      "giá đậu xanh"
+    ]
+  },
+  {
+    "value": "Giò bò",
+    "synonyms": [
+      "Giò bò",
+      "giò bò"
+    ]
+  },
+  {
+    "value": "Giò cháo quẩy",
+    "synonyms": [
+      "Giò cháo quẩy",
+      "giò cháo quẩy"
+    ]
+  },
+  {
+    "value": "Giò lụa",
+    "synonyms": [
+      "Giò lụa",
+      "giò lụa"
+    ]
+  },
+  {
+    "value": "Giò thủ",
+    "synonyms": [
+      "Giò thủ",
+      "giò thủ"
+    ]
+  },
+  {
+    "value": "Gỏi bắp chuối",
+    "synonyms": [
+      "Gỏi bắp chuối",
+      "gỏi bắp chuối"
+    ]
+  },
+  {
+    "value": "Gỏi bì cuốn",
+    "synonyms": [
+      "Gỏi bì cuốn",
+      "gỏi bì cuốn"
+    ]
+  },
+  {
+    "value": "Gỏi cuốn tôm thịt",
+    "synonyms": [
+      "Gỏi cuốn tôm thịt",
+      "gỏi cuốn tôm thịt"
+    ]
+  },
+  {
+    "value": "Gỏi khô bò",
+    "synonyms": [
+      "Gỏi khô bò",
+      "gỏi khô bò"
+    ]
+  },
+  {
+    "value": "Gỏi ngó sen",
+    "synonyms": [
+      "Gỏi ngó sen",
+      "gỏi ngó sen"
+    ]
+  },
+  {
+    "value": "Gỏi tôm cuốn",
+    "synonyms": [
+      "Gỏi tôm cuốn",
+      "gỏi tôm cuốn"
+    ]
+  },
+  {
+    "value": "Gừng tươi",
+    "synonyms": [
+      "Gừng tươi",
+      "gừng tươi"
+    ]
+  },
+  {
+    "value": "Há cảo",
+    "synonyms": [
+      "Há cảo",
+      "há cảo"
+    ]
+  },
+  {
+    "value": "Hải sâm",
+    "synonyms": [
+      "Hải sâm",
+      "hải sâm"
+    ]
+  },
+  {
+    "value": "Hành lá (hành hoa)",
+    "synonyms": [
+      "Hành lá (hành hoa)",
+      "hành lá (hành hoa)"
+    ]
+  },
+  {
+    "value": "Hạt điều",
+    "synonyms": [
+      "Hạt điều",
+      "hạt điều"
+    ]
+  },
+  {
+    "value": "Hến",
+    "synonyms": [
+      "Hến",
+      "hến"
+    ]
+  },
+  {
+    "value": "Hoành thánh",
+    "synonyms": [
+      "Hoành thánh",
+      "hoành thánh"
+    ]
+  },
+  {
+    "value": "Hồng đỏ",
+    "synonyms": [
+      "Hồng đỏ",
+      "hồng đỏ",
+      "quả hồng",
+      "Quả hồng"
+    ]
+  },
+  {
+    "value": "Hồng xiêm",
+    "synonyms": [
+      "Hồng xiêm",
+      "hồng xiêm"
+    ]
+  },
+  {
+    "value": "Hột vịt lộn",
+    "synonyms": [
+      "Hột vịt lộn",
+      "hột vịt lộn"
+    ]
+  },
+  {
+    "value": "Hột vịt muối",
+    "synonyms": [
+      "Hột vịt muối",
+      "hột vịt muối"
+    ]
+  },
+  {
+    "value": "Hủ tíu bò kho",
+    "synonyms": [
+      "Hủ tíu bò kho",
+      "hủ tíu bò kho"
+    ]
+  },
+  {
+    "value": "Hủ tíu mì",
+    "synonyms": [
+      "Hủ tíu mì",
+      "hủ tíu mì"
+    ]
+  },
+  {
+    "value": "Hủ tíu Nam vang",
+    "synonyms": [
+      "Hủ tíu Nam vang",
+      "hủ tíu nam vang"
+    ]
+  },
+  {
+    "value": "Hủ tíu thịt heo",
+    "synonyms": [
+      "Hủ tíu thịt heo",
+      "hủ tíu thịt heo"
+    ]
+  },
+  {
+    "value": "Hủ tíu xào",
+    "synonyms": [
+      "Hủ tíu xào",
+      "hủ tíu xào"
+    ]
+  },
+  {
+    "value": "Huyết bò",
+    "synonyms": [
+      "Huyết bò",
+      "huyết bò"
+    ]
+  },
+  {
+    "value": "Huyết heo luộc",
+    "synonyms": [
+      "Huyết heo luộc",
+      "huyết heo luộc"
+    ]
+  },
+  {
+    "value": "Huyết heo sống",
+    "synonyms": [
+      "Huyết heo sống",
+      "huyết heo sống"
+    ]
+  },
+  {
+    "value": "Kem cây Kido/Wall",
+    "synonyms": [
+      "Kem cây Kido/Wall",
+      "kem cây kido/wall"
+    ]
+  },
+  {
+    "value": "Kem Cornetto",
+    "synonyms": [
+      "Kem Cornetto",
+      "kem cornetto"
+    ]
+  },
+  {
+    "value": "Kem hộp",
+    "synonyms": [
+      "Kem hộp",
+      "kem hộp"
+    ]
+  },
+  {
+    "value": "Kẹo cà phê",
+    "synonyms": [
+      "Kẹo cà phê",
+      "kẹo cà phê"
+    ]
+  },
+  {
+    "value": "Kẹo chocolate nhân đậu phộng",
+    "synonyms": [
+      "Kẹo chocolate nhân đậu phộng",
+      "kẹo chocolate nhân đậu phộng"
+    ]
+  },
+  {
+    "value": "Kẹo đậu phộng",
+    "synonyms": [
+      "Kẹo đậu phộng",
+      "kẹo đậu phộng"
+    ]
+  },
+  {
+    "value": "Kẹo dẻo",
+    "synonyms": [
+      "Kẹo dẻo",
+      "kẹo dẻo"
+    ]
+  },
+  {
+    "value": "Kẹo dừa",
+    "synonyms": [
+      "Kẹo dừa",
+      "kẹo dừa"
+    ]
+  },
+  {
+    "value": "Kẹo dừa mềm",
+    "synonyms": [
+      "Kẹo dừa mềm",
+      "kẹo dừa mềm"
+    ]
+  },
+  {
+    "value": "Kẹo ngậm bạc hà",
+    "synonyms": [
+      "Kẹo ngậm bạc hà",
+      "kẹo ngậm bạc hà"
+    ]
+  },
+  {
+    "value": "Kẹo sôcôla",
+    "synonyms": [
+      "Kẹo sôcôla",
+      "kẹo sôcôla"
+    ]
+  },
+  {
+    "value": "Kẹo sữa",
+    "synonyms": [
+      "Kẹo sữa",
+      "kẹo sữa"
+    ]
+  },
+  {
+    "value": "Kẹo trái cây",
+    "synonyms": [
+      "Kẹo trái cây",
+      "kẹo trái cây"
+    ]
+  },
+  {
+    "value": "Khế",
+    "synonyms": [
+      "Khế",
+      "khế"
+    ]
+  },
+  {
+    "value": "Khổ qua xào trứng",
+    "synonyms": [
+      "Khổ qua xào trứng",
+      "khổ qua xào trứng"
+    ]
+  },
+  {
+    "value": "Khoai lang",
+    "synonyms": [
+      "Khoai lang",
+      "khoai lang"
+    ]
+  },
+  {
+    "value": "Khoai lang chiên",
+    "synonyms": [
+      "Khoai lang chiên",
+      "khoai lang chiên"
+    ]
+  },
+  {
+    "value": "Khoai lang nghệ",
+    "synonyms": [
+      "Khoai lang nghệ",
+      "khoai lang nghệ"
+    ]
+  },
+  {
+    "value": "Khoai mì",
+    "synonyms": [
+      "Khoai mì",
+      "khoai mì"
+    ]
+  },
+  {
+    "value": "Khoai môn",
+    "synonyms": [
+      "Khoai môn",
+      "khoai môn"
+    ]
+  },
+  {
+    "value": "Khoai tây",
+    "synonyms": [
+      "Khoai tây",
+      "khoai tây"
+    ]
+  },
+  {
+    "value": "Khoai tây bò bít tết",
+    "synonyms": [
+      "Khoai tây bò bít tết",
+      "khoai tây bò bít tết"
+    ]
+  },
+  {
+    "value": "Khoai tây chiên",
+    "synonyms": [
+      "Khoai tây chiên",
+      "khoai tây chiên"
+    ]
+  },
+  {
+    "value": "Khoai từ",
+    "synonyms": [
+      "Khoai từ",
+      "khoai từ"
+    ]
+  },
+  {
+    "value": "KimBap",
+    "synonyms": [
+      "KimBap",
+      "kimbap"
+    ]
+  },
+  {
+    "value": "Lạp xưởng",
+    "synonyms": [
+      "Lạp xưởng",
+      "lạp xưởng"
+    ]
+  },
+  {
+    "value": "Lạp xưởng chiên",
+    "synonyms": [
+      "Lạp xưởng chiên",
+      "lạp xưởng chiên"
+    ]
+  },
+  {
+    "value": "Lê",
+    "synonyms": [
+      "Lê",
+      "lê"
+    ]
+  },
+  {
+    "value": "Lòng đỏ trứng gà",
+    "synonyms": [
+      "Lòng đỏ trứng gà",
+      "lòng đỏ trứng gà"
+    ]
+  },
+  {
+    "value": "Lòng đỏ trứng vịt",
+    "synonyms": [
+      "Lòng đỏ trứng vịt",
+      "lòng đỏ trứng vịt"
+    ]
+  },
+  {
+    "value": "Lòng heo (ruột già)",
+    "synonyms": [
+      "Lòng heo (ruột già)",
+      "lòng heo (ruột già)"
+    ]
+  },
+  {
+    "value": "Lòng trắng trứng gà",
+    "synonyms": [
+      "Lòng trắng trứng gà",
+      "lòng trắng trứng gà"
+    ]
+  },
+  {
+    "value": "Lòng trắng trứng vịt",
+    "synonyms": [
+      "Lòng trắng trứng vịt",
+      "lòng trắng trứng vịt"
+    ]
+  },
+  {
+    "value": "Lưỡi bò",
+    "synonyms": [
+      "Lưỡi bò",
+      "lưỡi bò"
+    ]
+  },
+  {
+    "value": "Lưỡi heo",
+    "synonyms": [
+      "Lưỡi heo",
+      "lưỡi heo"
+    ]
+  },
+  {
+    "value": "Lươn",
+    "synonyms": [
+      "Lươn",
+      "lươn"
+    ]
+  },
+  {
+    "value": "Mắm chưng",
+    "synonyms": [
+      "Mắm chưng",
+      "mắm chưng"
+    ]
+  },
+  {
+    "value": "Mắm Thái",
+    "synonyms": [
+      "Mắm Thái",
+      "mắm thái"
+    ]
+  },
+  {
+    "value": "Mắm tôm ",
+    "synonyms": [
+      "Mắm tôm ",
+      "mắm tôm "
+    ]
+  },
+  {
+    "value": "Mận",
+    "synonyms": [
+      "Mận",
+      "mận"
+    ]
+  },
+  {
+    "value": "Mận đỏ",
+    "synonyms": [
+      "Mận đỏ",
+      "mận đỏ"
+    ]
+  },
+  {
+    "value": "Mãng cầu ta",
+    "synonyms": [
+      "Mãng cầu ta",
+      "mãng cầu ta"
+    ]
+  },
+  {
+    "value": "Mãng cầu xiêm",
+    "synonyms": [
+      "Mãng cầu xiêm",
+      "mãng cầu xiêm"
+    ]
+  },
+  {
+    "value": "Măng chua",
+    "synonyms": [
+      "Măng chua",
+      "măng chua"
+    ]
+  },
+  {
+    "value": "Măng cụt",
+    "synonyms": [
+      "Măng cụt",
+      "măng cụt"
+    ]
+  },
+  {
+    "value": "Măng kho thập cẩm",
+    "synonyms": [
+      "Măng kho thập cẩm",
+      "măng kho thập cẩm"
+    ]
+  },
+  {
+    "value": "Mật ong",
+    "synonyms": [
+      "Mật ong",
+      "mật ong"
+    ]
+  },
+  {
+    "value": "Mè",
+    "synonyms": [
+      "Mè",
+      "mè"
+    ]
+  },
+  {
+    "value": "Mề gà",
+    "synonyms": [
+      "Mề gà",
+      "mề gà"
+    ]
+  },
+  {
+    "value": "Mì ăn liền",
+    "synonyms": [
+      "Mì ăn liền",
+      "mì ăn liền",
+      "mì tôm",
+      "Mì tôm"
+    ]
+  },
+  {
+    "value": "Mì bò viên",
+    "synonyms": [
+      "Mì bò viên",
+      "mì bò viên"
+    ]
+  },
+  {
+    "value": "Mì căn xào sả",
+    "synonyms": [
+      "Mì căn xào sả",
+      "mì căn xào sả"
+    ]
+  },
+  {
+    "value": "Mì quảng",
+    "synonyms": [
+      "Mì quảng",
+      "mì quảng"
+    ]
+  },
+  {
+    "value": "Mì thịt heo",
+    "synonyms": [
+      "Mì thịt heo",
+      "mì thịt heo"
+    ]
+  },
+  {
+    "value": "Mì vịt tiềm",
+    "synonyms": [
+      "Mì vịt tiềm",
+      "mì vịt tiềm"
+    ]
+  },
+  {
+    "value": "Mì xào Bò",
+    "synonyms": [
+      "Mì xào Bò",
+      "mì xào bò"
+    ]
+  },
+  {
+    "value": "Mì xào dòn",
+    "synonyms": [
+      "Mì xào dòn",
+      "mì xào dòn"
+    ]
+  },
+  {
+    "value": "Miến ăn liền",
+    "synonyms": [
+      "Miến ăn liền",
+      "miến ăn liền"
+    ]
+  },
+  {
+    "value": "Miến dong",
+    "synonyms": [
+      "Miến dong",
+      "miến dong"
+    ]
+  },
+  {
+    "value": "Miến gà",
+    "synonyms": [
+      "Miến gà",
+      "miến gà"
+    ]
+  },
+  {
+    "value": "Mít dai",
+    "synonyms": [
+      "Mít dai",
+      "mít dai"
+    ]
+  },
+  {
+    "value": "Mít kho",
+    "synonyms": [
+      "Mít kho",
+      "mít kho"
+    ]
+  },
+  {
+    "value": "Mít mật",
+    "synonyms": [
+      "Mít mật",
+      "mít mật",
+      "Quả mít",
+      "quả mít",
+      "Mít",
+      "mít"
+    ]
+  },
+  {
+    "value": "Mít nghệ",
+    "synonyms": [
+      "Mít nghệ",
+      "mít nghệ"
+    ]
+  },
+  {
+    "value": "Mít sấy",
+    "synonyms": [
+      "Mít sấy",
+      "mít sấy"
+    ]
+  },
+  {
+    "value": "Mít tố nữ",
+    "synonyms": [
+      "Mít tố nữ",
+      "mít tố nữ"
+    ]
+  },
+  {
+    "value": "Mơ",
+    "synonyms": [
+      "Mơ",
+      "mơ"
+    ]
+  },
+  {
+    "value": "Mỡ lợn ",
+    "synonyms": [
+      "Mỡ lợn ",
+      "mỡ lợn "
+    ]
+  },
+  {
+    "value": "Mộc nhĩ",
+    "synonyms": [
+      "Mộc nhĩ",
+      "mộc nhĩ"
+    ]
+  },
+  {
+    "value": "Mực khô",
+    "synonyms": [
+      "Mực khô",
+      "mực khô"
+    ]
+  },
+  {
+    "value": "Mực tươi",
+    "synonyms": [
+      "Mực tươi",
+      "mực tươi"
+    ]
+  },
+  {
+    "value": "Mực xào sả ớt",
+    "synonyms": [
+      "Mực xào sả ớt",
+      "mực xào sả ớt"
+    ]
+  },
+  {
+    "value": "Mực xào thập cẩm",
+    "synonyms": [
+      "Mực xào thập cẩm",
+      "mực xào thập cẩm"
+    ]
+  },
+  {
+    "value": "Muối",
+    "synonyms": [
+      "Muối",
+      "muối"
+    ]
+  },
+  {
+    "value": "Mướp",
+    "synonyms": [
+      "Mướp",
+      "mướp"
+    ]
+  },
+  {
+    "value": "Mứt đu đủ",
+    "synonyms": [
+      "Mứt đu đủ",
+      "mứt đu đủ"
+    ]
+  },
+  {
+    "value": "Mứt thơm",
+    "synonyms": [
+      "Mứt thơm",
+      "mứt thơm"
+    ]
+  },
+  {
+    "value": "Na",
+    "synonyms": [
+      "Na",
+      "na"
+    ]
+  },
+  {
+    "value": "Nấm hương khô",
+    "synonyms": [
+      "Nấm hương khô",
+      "nấm hương khô"
+    ]
+  },
+  {
+    "value": "Nấm rơm kho",
+    "synonyms": [
+      "Nấm rơm kho",
+      "nấm rơm kho"
+    ]
+  },
+  {
+    "value": "Nem chua",
+    "synonyms": [
+      "Nem chua",
+      "nem chua"
+    ]
+  },
+  {
+    "value": "Nghệ khô",
+    "synonyms": [
+      "Nghệ khô",
+      "nghệ khô"
+    ]
+  },
+  {
+    "value": "Nghệ tươi",
+    "synonyms": [
+      "Nghệ tươi",
+      "nghệ tươi"
+    ]
+  },
+  {
+    "value": "Ngô tươi",
+    "synonyms": [
+      "Ngô tươi",
+      "ngô tươi"
+    ]
+  },
+  {
+    "value": "Ngô vàng hạt vàng",
+    "synonyms": [
+      "Ngô vàng hạt vàng",
+      "ngô vàng hạt vàng"
+    ]
+  },
+  {
+    "value": "Nhãn",
+    "synonyms": [
+      "Nhãn",
+      "nhãn"
+    ]
+  },
+  {
+    "value": "Nhãn hộp",
+    "synonyms": [
+      "Nhãn hộp",
+      "nhãn hộp"
+    ]
+  },
+  {
+    "value": "Nhãn thường",
+    "synonyms": [
+      "Nhãn thường",
+      "nhãn thường"
+    ]
+  },
+  {
+    "value": "Nhãn tiêu",
+    "synonyms": [
+      "Nhãn tiêu",
+      "nhãn tiêu"
+    ]
+  },
+  {
+    "value": "Nho khô",
+    "synonyms": [
+      "Nho khô",
+      "nho khô"
+    ]
+  },
+  {
+    "value": "Nho Mỹ (đỏ/xanh)",
+    "synonyms": [
+      "Nho Mỹ (đỏ/xanh)",
+      "nho mỹ (đỏ/xanh)"
+    ]
+  },
+  {
+    "value": "Nho ta (nho chua)",
+    "synonyms": [
+      "Nho ta (nho chua)",
+      "nho ta (nho chua)"
+    ]
+  },
+  {
+    "value": "Nho ta (tím)",
+    "synonyms": [
+      "Nho ta (tím)",
+      "nho ta (tím)"
+    ]
+  },
+  {
+    "value": "Nhộng",
+    "synonyms": [
+      "Nhộng",
+      "nhộng"
+    ]
+  },
+  {
+    "value": "Nui chiên",
+    "synonyms": [
+      "Nui chiên",
+      "nui chiên"
+    ]
+  },
+  {
+    "value": "Nui thịt heo",
+    "synonyms": [
+      "Nui thịt heo",
+      "nui thịt heo"
+    ]
+  },
+  {
+    "value": "Nước cam vắt",
+    "synonyms": [
+      "Nước cam vắt",
+      "nước cam vắt"
+    ]
+  },
+  {
+    "value": "Nước chanh",
+    "synonyms": [
+      "Nước chanh",
+      "nước chanh"
+    ]
+  },
+  {
+    "value": "Nước ép trái cây đóng hộp",
+    "synonyms": [
+      "Nước ép trái cây đóng hộp",
+      "nước ép trái cây đóng hộp"
+    ]
+  },
+  {
+    "value": "Nước mắm",
+    "synonyms": [
+      "Nước mắm",
+      "nước mắm"
+    ]
+  },
+  {
+    "value": "Nước mía",
+    "synonyms": [
+      "Nước mía",
+      "nước mía"
+    ]
+  },
+  {
+    "value": "Nước ngọt có gaz",
+    "synonyms": [
+      "Nước ngọt có gaz",
+      "nước ngọt có gaz"
+    ]
+  },
+  {
+    "value": "Nước rau má",
+    "synonyms": [
+      "Nước rau má",
+      "nước rau má"
+    ]
+  },
+  {
+    "value": "Nước sâm",
+    "synonyms": [
+      "Nước sâm",
+      "nước sâm"
+    ]
+  },
+  {
+    "value": "Nước thơm",
+    "synonyms": [
+      "Nước thơm",
+      "nước thơm"
+    ]
+  },
+  {
+    "value": "Óc bò",
+    "synonyms": [
+      "Óc bò",
+      "óc bò"
+    ]
+  },
+  {
+    "value": "Ốc bươu",
+    "synonyms": [
+      "Ốc bươu",
+      "ốc bươu"
+    ]
+  },
+  {
+    "value": "Óc heo",
+    "synonyms": [
+      "Óc heo",
+      "óc heo"
+    ]
+  },
+  {
+    "value": "Ốc nhồi",
+    "synonyms": [
+      "Ốc nhồi",
+      "ốc nhồi"
+    ]
+  },
+  {
+    "value": "Ốc vặn",
+    "synonyms": [
+      "Ốc vặn",
+      "ốc vặn"
+    ]
+  },
+  {
+    "value": "Ớt vàng to",
+    "synonyms": [
+      "Ớt vàng to",
+      "ớt vàng to"
+    ]
+  },
+  {
+    "value": "Patê",
+    "synonyms": [
+      "Patê",
+      "patê"
+    ]
+  },
+  {
+    "value": "Phèo heo",
+    "synonyms": [
+      "Phèo heo",
+      "phèo heo"
+    ]
+  },
+  {
+    "value": "Phở ăn liền",
+    "synonyms": [
+      "Phở ăn liền",
+      "phở ăn liền"
+    ]
+  },
+  {
+    "value": "Phở bò chín",
+    "synonyms": [
+      "Phở bò chín",
+      "phở bò chín",
+      "bát phở",
+      "Bát phở",
+      "Phở bò",
+      "phở bò"
+    ]
+  },
+  {
+    "value": "Phở bò tái",
+    "synonyms": [
+      "Phở bò tái",
+      "phở bò tái"
+    ]
+  },
+  {
+    "value": "Phở bò viên",
+    "synonyms": [
+      "Phở bò viên",
+      "phở bò viên"
+    ]
+  },
+  {
+    "value": "Phở gà",
+    "synonyms": [
+      "Phở gà",
+      "phở gà"
+    ]
+  },
+  {
+    "value": "Phô mai Bò cười",
+    "synonyms": [
+      "Phô mai Bò cười",
+      "phô mai bò cười"
+    ]
+  },
+  {
+    "value": "Quýt",
+    "synonyms": [
+      "Quýt",
+      "quýt"
+    ]
+  },
+  {
+    "value": "Ran kinh giới",
+    "synonyms": [
+      "Ran kinh giới",
+      "ran kinh giới"
+    ]
+  },
+  {
+    "value": "Rau bí",
+    "synonyms": [
+      "Rau bí",
+      "rau bí"
+    ]
+  },
+  {
+    "value": "Rau đay",
+    "synonyms": [
+      "Rau đay",
+      "rau đay"
+    ]
+  },
+  {
+    "value": "Rau khoai lang",
+    "synonyms": [
+      "Rau khoai lang",
+      "rau khoai lang"
+    ]
+  },
+  {
+    "value": "Rau mồng tơi",
+    "synonyms": [
+      "Rau mồng tơi",
+      "rau mồng tơi"
+    ]
+  },
+  {
+    "value": "Rau mùi",
+    "synonyms": [
+      "Rau mùi",
+      "rau mùi"
+    ]
+  },
+  {
+    "value": "Rau muống",
+    "synonyms": [
+      "Rau muống",
+      "rau muống"
+    ]
+  },
+  {
+    "value": "Rau ngót",
+    "synonyms": [
+      "Rau ngót",
+      "rau ngót"
+    ]
+  },
+  {
+    "value": "Rau răm",
+    "synonyms": [
+      "Rau răm",
+      "rau răm"
+    ]
+  },
+  {
+    "value": "Rau rút",
+    "synonyms": [
+      "Rau rút",
+      "rau rút"
+    ]
+  },
+  {
+    "value": "Rau thơm",
+    "synonyms": [
+      "Rau thơm",
+      "rau thơm"
+    ]
+  },
+  {
+    "value": "Rượu nếp",
+    "synonyms": [
+      "Rượu nếp",
+      "rượu nếp"
+    ]
+  },
+  {
+    "value": "Sâm bổ lượng",
+    "synonyms": [
+      "Sâm bổ lượng",
+      "sâm bổ lượng"
+    ]
+  },
+  {
+    "value": "Sầu riêng",
+    "synonyms": [
+      "Sầu riêng",
+      "sầu riêng"
+    ]
+  },
+  {
+    "value": "Sinh tố",
+    "synonyms": [
+      "Sinh tố",
+      "sinh tố"
+    ]
+  },
+  {
+    "value": "Sò",
+    "synonyms": [
+      "Sò",
+      "sò"
+    ]
+  },
+  {
+    "value": "Sơ ri",
+    "synonyms": [
+      "Sơ ri",
+      "sơ ri"
+    ]
+  },
+  {
+    "value": "Su hào",
+    "synonyms": [
+      "Su hào",
+      "su hào"
+    ]
+  },
+  {
+    "value": "Su su",
+    "synonyms": [
+      "Su su",
+      "su su"
+    ]
+  },
+  {
+    "value": "Sữa bò tươi",
+    "synonyms": [
+      "Sữa bò tươi",
+      "sữa bò tươi"
+    ]
+  },
+  {
+    "value": "Sữa bột tách béo",
+    "synonyms": [
+      "Sữa bột tách béo",
+      "sữa bột tách béo"
+    ]
+  },
+  {
+    "value": "Sữa bột toàn phần",
+    "synonyms": [
+      "Sữa bột toàn phần",
+      "sữa bột toàn phần"
+    ]
+  },
+  {
+    "value": "Sữa chua",
+    "synonyms": [
+      "Sữa chua",
+      "sữa chua"
+    ]
+  },
+  {
+    "value": "Sữa chua uống Yo-Most",
+    "synonyms": [
+      "Sữa chua uống Yo-Most",
+      "sữa chua uống yo-most"
+    ]
+  },
+  {
+    "value": "Sữa chua Yoghurt Vinamilk",
+    "synonyms": [
+      "Sữa chua Yoghurt Vinamilk",
+      "sữa chua yoghurt vinamilk"
+    ]
+  },
+  {
+    "value": "Sữa đặc có đường",
+    "synonyms": [
+      "Sữa đặc có đường",
+      "sữa đặc có đường"
+    ]
+  },
+  {
+    "value": "Sữa đậu nành",
+    "synonyms": [
+      "Sữa đậu nành",
+      "sữa đậu nành"
+    ]
+  },
+  {
+    "value": "Sữa đậu nành Tribeco",
+    "synonyms": [
+      "Sữa đậu nành Tribeco",
+      "sữa đậu nành tribeco"
+    ]
+  },
+  {
+    "value": "Sữa hộp Cô gái Hà lan",
+    "synonyms": [
+      "Sữa hộp Cô gái Hà lan",
+      "sữa hộp cô gái hà lan"
+    ]
+  },
+  {
+    "value": "Sữa mẹ",
+    "synonyms": [
+      "Sữa mẹ",
+      "sữa mẹ"
+    ]
+  },
+  {
+    "value": "Sữa tươi trân châu đường đen",
+    "synonyms": [
+      "Sữa tươi trân châu đường đen",
+      "sữa tươi trân châu đường đen"
+    ]
+  },
+  {
+    "value": "Sườn heo bỏ xương",
+    "synonyms": [
+      "Sườn heo bỏ xương",
+      "sườn heo bỏ xương"
+    ]
+  },
+  {
+    "value": "Sườn nướng",
+    "synonyms": [
+      "Sườn nướng",
+      "sườn nướng"
+    ]
+  },
+  {
+    "value": "Sườn ram",
+    "synonyms": [
+      "Sườn ram",
+      "sườn ram"
+    ]
+  },
+  {
+    "value": "Súp lơ",
+    "synonyms": [
+      "Súp lơ",
+      "súp lơ"
+    ]
+  },
+  {
+    "value": "Tai heo",
+    "synonyms": [
+      "Tai heo",
+      "tai heo"
+    ]
+  },
+  {
+    "value": "Táo ta",
+    "synonyms": [
+      "Táo ta",
+      "táo ta",
+      "táo",
+      "Táo"
+    ]
+  },
+  {
+    "value": "Táo tây",
+    "synonyms": [
+      "Táo tây",
+      "táo tây"
+    ]
+  },
+  {
+    "value": "Tàu hủ ky chiên",
+    "synonyms": [
+      "Tàu hủ ky chiên",
+      "tàu hủ ky chiên"
+    ]
+  },
+  {
+    "value": "Tép gạo",
+    "synonyms": [
+      "Tép gạo",
+      "tép gạo"
+    ]
+  },
+  {
+    "value": "Tép khô",
+    "synonyms": [
+      "Tép khô",
+      "tép khô"
+    ]
+  },
+  {
+    "value": "Tép rang",
+    "synonyms": [
+      "Tép rang",
+      "tép rang"
+    ]
+  },
+  {
+    "value": "Thạch dừa",
+    "synonyms": [
+      "Thạch dừa",
+      "thạch dừa"
+    ]
+  },
+  {
+    "value": "Thanh long",
+    "synonyms": [
+      "Thanh long",
+      "thanh long"
+    ]
+  },
+  {
+    "value": "Thịt bê nạc",
+    "synonyms": [
+      "Thịt bê nạc",
+      "thịt bê nạc"
+    ]
+  },
+  {
+    "value": "Thịt bò",
+    "synonyms": [
+      "Thịt bò",
+      "thịt bò"
+    ]
+  },
+  {
+    "value": "Thịt bò hộp",
+    "synonyms": [
+      "Thịt bò hộp",
+      "thịt bò hộp"
+    ]
+  },
+  {
+    "value": "Thịt bò khô",
+    "synonyms": [
+      "Thịt bò khô",
+      "thịt bò khô"
+    ]
+  },
+  {
+    "value": "Thịt bò xào đậu que",
+    "synonyms": [
+      "Thịt bò xào đậu que",
+      "thịt bò xào đậu que"
+    ]
+  },
+  {
+    "value": "Thịt bò xào giá hẹ",
+    "synonyms": [
+      "Thịt bò xào giá hẹ",
+      "thịt bò xào giá hẹ"
+    ]
+  },
+  {
+    "value": "Thịt bò xào hành tây",
+    "synonyms": [
+      "Thịt bò xào hành tây",
+      "thịt bò xào hành tây"
+    ]
+  },
+  {
+    "value": "Thịt bò xào măng",
+    "synonyms": [
+      "Thịt bò xào măng",
+      "thịt bò xào măng"
+    ]
+  },
+  {
+    "value": "Thịt bò xào nấm rơm",
+    "synonyms": [
+      "Thịt bò xào nấm rơm",
+      "thịt bò xào nấm rơm"
+    ]
+  },
+  {
+    "value": "Thịt dê nạc",
+    "synonyms": [
+      "Thịt dê nạc",
+      "thịt dê nạc"
+    ]
+  },
+  {
+    "value": "Thịt gà hộp",
+    "synonyms": [
+      "Thịt gà hộp",
+      "thịt gà hộp"
+    ]
+  },
+  {
+    "value": "Thịt gà ta",
+    "synonyms": [
+      "Thịt gà ta",
+      "thịt gà ta",
+      "thịt gà",
+      "Thịt gà"
+    ]
+  },
+  {
+    "value": "Thịt gà tây",
+    "synonyms": [
+      "Thịt gà tây",
+      "thịt gà tây"
+    ]
+  },
+  {
+    "value": "Thịt heo ba chỉ",
+    "synonyms": [
+      "Thịt heo ba chỉ",
+      "thịt heo ba chỉ"
+    ]
+  },
+  {
+    "value": "Thịt heo hộp",
+    "synonyms": [
+      "Thịt heo hộp",
+      "thịt heo hộp"
+    ]
+  },
+  {
+    "value": "Thịt heo mỡ",
+    "synonyms": [
+      "Thịt heo mỡ",
+      "thịt heo mỡ"
+    ]
+  },
+  {
+    "value": "Thịt heo nạc",
+    "synonyms": [
+      "Thịt heo nạc",
+      "thịt heo nạc"
+    ]
+  },
+  {
+    "value": "Thịt heo phá lấu",
+    "synonyms": [
+      "Thịt heo phá lấu",
+      "thịt heo phá lấu"
+    ]
+  },
+  {
+    "value": "Thịt heo quay",
+    "synonyms": [
+      "Thịt heo quay",
+      "thịt heo quay"
+    ]
+  },
+  {
+    "value": "Thịt heo xào đậu que",
+    "synonyms": [
+      "Thịt heo xào đậu que",
+      "thịt heo xào đậu que"
+    ]
+  },
+  {
+    "value": "Thịt heo xào giá hẹ",
+    "synonyms": [
+      "Thịt heo xào giá hẹ",
+      "thịt heo xào giá hẹ"
+    ]
+  },
+  {
+    "value": "Thịt kho tiêu",
+    "synonyms": [
+      "Thịt kho tiêu",
+      "thịt kho tiêu"
+    ]
+  },
+  {
+    "value": "Thịt kho trứng",
+    "synonyms": [
+      "Thịt kho trứng",
+      "thịt kho trứng"
+    ]
+  },
+  {
+    "value": "Thịt lơn nạc",
+    "synonyms": [
+      "Thịt lơn nạc",
+      "thịt lơn nạc"
+    ]
+  },
+  {
+    "value": "Thịt mông chó",
+    "synonyms": [
+      "Thịt mông chó",
+      "thịt mông chó"
+    ]
+  },
+  {
+    "value": "Thịt ngỗng",
+    "synonyms": [
+      "Thịt ngỗng",
+      "thịt ngỗng"
+    ]
+  },
+  {
+    "value": "Thịt thỏ",
+    "synonyms": [
+      "Thịt thỏ",
+      "thịt thỏ"
+    ]
+  },
+  {
+    "value": "Thịt vai chó",
+    "synonyms": [
+      "Thịt vai chó",
+      "thịt vai chó"
+    ]
+  },
+  {
+    "value": "Thịt vịt",
+    "synonyms": [
+      "Thịt vịt",
+      "thịt vịt"
+    ]
+  },
+  {
+    "value": "Thơm",
+    "synonyms": [
+      "Thơm",
+      "thơm"
+    ]
+  },
+  {
+    "value": "Thơm hộp",
+    "synonyms": [
+      "Thơm hộp",
+      "thơm hộp"
+    ]
+  },
+  {
+    "value": "Tía tô",
+    "synonyms": [
+      "Tía tô",
+      "tía tô"
+    ]
+  },
+  {
+    "value": "Tim bò",
+    "synonyms": [
+      "Tim bò",
+      "tim bò"
+    ]
+  },
+  {
+    "value": "Tim gà",
+    "synonyms": [
+      "Tim gà",
+      "tim gà"
+    ]
+  },
+  {
+    "value": "Tim heo",
+    "synonyms": [
+      "Tim heo",
+      "tim heo"
+    ]
+  },
+  {
+    "value": "Tôm biển",
+    "synonyms": [
+      "Tôm biển",
+      "tôm biển"
+    ]
+  },
+  {
+    "value": "Tôm chua",
+    "synonyms": [
+      "Tôm chua",
+      "tôm chua"
+    ]
+  },
+  {
+    "value": "Tôm đồng",
+    "synonyms": [
+      "Tôm đồng",
+      "tôm đồng"
+    ]
+  },
+  {
+    "value": "Tôm khô",
+    "synonyms": [
+      "Tôm khô",
+      "tôm khô"
+    ]
+  },
+  {
+    "value": "Tôm lăn bột chiên",
+    "synonyms": [
+      "Tôm lăn bột chiên",
+      "tôm lăn bột chiên"
+    ]
+  },
+  {
+    "value": "Tôm sốt cà",
+    "synonyms": [
+      "Tôm sốt cà",
+      "tôm sốt cà"
+    ]
+  },
+  {
+    "value": "Trà Sữa",
+    "synonyms": [
+      "Trà Sữa",
+      "trà sữa"
+    ]
+  },
+  {
+    "value": "Trai",
+    "synonyms": [
+      "Trai",
+      "trai"
+    ]
+  },
+  {
+    "value": "Trái dừa tươi",
+    "synonyms": [
+      "Trái dừa tươi",
+      "trái dừa tươi"
+    ]
+  },
+  {
+    "value": "Trứng cút",
+    "synonyms": [
+      "Trứng cút",
+      "trứng cút"
+    ]
+  },
+  {
+    "value": "Trứng gà",
+    "synonyms": [
+      "Trứng gà",
+      "trứng gà",
+      "quả trứng",
+      "Quả trứng",
+      "Trứng",
+      "trứng"
+    ]
+  },
+  {
+    "value": "Trứng gà Mỹ",
+    "synonyms": [
+      "Trứng gà Mỹ",
+      "trứng gà mỹ"
+    ]
+  },
+  {
+    "value": "Trứng gà ta",
+    "synonyms": [
+      "Trứng gà ta",
+      "trứng gà ta"
+    ]
+  },
+  {
+    "value": "Trứng vịt",
+    "synonyms": [
+      "Trứng vịt",
+      "trứng vịt"
+    ]
+  },
+  {
+    "value": "Trứng vịt bắc thảo",
+    "synonyms": [
+      "Trứng vịt bắc thảo",
+      "trứng vịt bắc thảo"
+    ]
+  },
+  {
+    "value": "Trứng vịt lộn",
+    "synonyms": [
+      "Trứng vịt lộn",
+      "trứng vịt lộn"
+    ]
+  },
+  {
+    "value": "Trứng vịt luộc",
+    "synonyms": [
+      "Trứng vịt luộc",
+      "trứng vịt luộc"
+    ]
+  },
+  {
+    "value": "Tương ớt",
+    "synonyms": [
+      "Tương ớt",
+      "tương ớt"
+    ]
+  },
+  {
+    "value": "Vải",
+    "synonyms": [
+      "Vải",
+      "vải",
+      "quả vải",
+      "Quả vải"
+    ]
+  },
+  {
+    "value": "Vải đóng hộp",
+    "synonyms": [
+      "Vải đóng hộp",
+      "vải đóng hộp"
+    ]
+  },
+  {
+    "value": "Vải hộp",
+    "synonyms": [
+      "Vải hộp",
+      "vải hộp"
+    ]
+  },
+  {
+    "value": "Vú sữa",
+    "synonyms": [
+      "Vú sữa",
+      "vú sữa"
+    ]
+  },
+  {
+    "value": "Xì dầu",
+    "synonyms": [
+      "Xì dầu",
+      "xì dầu"
+    ]
+  },
+  {
+    "value": "Xíu mại",
+    "synonyms": [
+      "Xíu mại",
+      "xíu mại"
+    ]
+  },
+  {
+    "value": "Xoài",
+    "synonyms": [
+      "Xoài",
+      "xoài",
+      "Quả xoài",
+      "quả xoài"
+    ]
+  },
+  {
+    "value": "Xoài chín",
+    "synonyms": [
+      "Xoài chín",
+      "xoài chín"
+    ]
+  },
+  {
+    "value": "Xôi bắp",
+    "synonyms": [
+      "Xôi bắp",
+      "xôi bắp"
+    ]
+  },
+  {
+    "value": "Xôi đậu đen",
+    "synonyms": [
+      "Xôi đậu đen",
+      "xôi đậu đen"
+    ]
+  },
+  {
+    "value": "Xôi đậu phộng",
+    "synonyms": [
+      "Xôi đậu phộng",
+      "xôi đậu phộng"
+    ]
+  },
+  {
+    "value": "Xôi đậu xanh",
+    "synonyms": [
+      "Xôi đậu xanh",
+      "xôi đậu xanh"
+    ]
+  },
+  {
+    "value": "Xôi gấc",
+    "synonyms": [
+      "Xôi gấc",
+      "xôi gấc"
+    ]
+  },
+  {
+    "value": "Xôi khúc (cúc)",
+    "synonyms": [
+      "Xôi khúc (cúc)",
+      "xôi khúc (cúc)"
+    ]
+  },
+  {
+    "value": "Xôi lá cẩm",
+    "synonyms": [
+      "Xôi lá cẩm",
+      "xôi lá cẩm"
+    ]
+  },
+  {
+    "value": "Xôi mặn",
+    "synonyms": [
+      "Xôi mặn",
+      "xôi mặn"
+    ]
+  },
+  {
+    "value": "Xôi nếp than",
+    "synonyms": [
+      "Xôi nếp than",
+      "xôi nếp than"
+    ]
+  },
+  {
+    "value": "Xôi vị",
+    "synonyms": [
+      "Xôi vị",
+      "xôi vị"
+    ]
+  },
+  {
+    "value": "Xôi vò",
+    "synonyms": [
+      "Xôi vò",
+      "xôi vò"
+    ]
+  },
+  {
+    "value": "Xúc xích",
+    "synonyms": [
+      "Xúc xích",
+      "xúc xích"
+    ]
+  }
+]

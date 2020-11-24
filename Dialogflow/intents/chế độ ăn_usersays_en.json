@@ -1,0 +1,110 @@
+[
+  {
+    "id": "e8010b90-f2e3-43b2-b3bd-ec5a9428c51c",
+    "data": [
+      {
+        "text": "thế nào là chế ",
+        "userDefined": false
+      },
+      {
+        "text": "độ",
+        "meta": "@ho",
+        "alias": "ho",
+        "userDefined": false
+      },
+      {
+        "text": " ăn ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dbe1c8bf-3bfc-42fe-a7f1-358867167549",
+    "data": [
+      {
+        "text": "Chế ",
+        "userDefined": false
+      },
+      {
+        "text": "độ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dinh ",
+        "userDefined": false
+      },
+      {
+        "text": "dưỡng",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " là gì ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d6de9913-da3f-46c3-9ca1-59d826c9154a",
+    "data": [
+      {
+        "text": "Thế nào là ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " chế ",
+        "userDefined": false
+      },
+      {
+        "text": "độ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ăn",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9203ce3d-2903-4697-83b1-4f26f4012a2b",
+    "data": [
+      {
+        "text": "chế ",
+        "userDefined": false
+      },
+      {
+        "text": "độ",
+        "meta": "@ho",
+        "alias": "ho",
+        "userDefined": false
+      },
+      {
+        "text": " ăn là gì ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

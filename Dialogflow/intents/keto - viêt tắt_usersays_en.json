@@ -1,0 +1,40 @@
+[
+  {
+    "id": "a5e0fd19-0831-4d00-a767-21c3c26259f0",
+    "data": [
+      {
+        "text": "keto",
+        "meta": "@keto",
+        "alias": "keto",
+        "userDefined": false
+      },
+      {
+        "text": " là từ viết tắt của từ nào?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f9277a2d-3a66-4162-9d4e-dd8568266954",
+    "data": [
+      {
+        "text": "Keto",
+        "meta": "@keto",
+        "alias": "keto",
+        "userDefined": false
+      },
+      {
+        "text": " viết tắt là gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

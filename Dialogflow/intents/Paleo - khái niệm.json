@@ -1,0 +1,50 @@
+{
+  "id": "80d7686f-1c87-4eb9-8beb-0d569cce1894",
+  "name": "Paleo - khái niệm",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e503883c-b5bc-478c-be33-c275997f5866",
+          "name": "paleo",
+          "required": false,
+          "dataType": "@paleo",
+          "value": "$paleo",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Paleo là cách gọi tắt cho Paleolithic – tiền sử. Đây là chế độ ăn với các thực phẩm được sử dụng như thời tiền sử. Đa số những đồ ăn ông cha ta có được đều thông qua hình thức săn bắn, hái lượm. Bao gồm cá, thịt, trái cây, rau quả,… Thành phần chính trong loại thực phẩm này là protein, chất xơ và các loại vitamin."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

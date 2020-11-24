@@ -1,0 +1,50 @@
+{
+  "id": "b754949c-fd71-4bce-b913-67be02338f01",
+  "name": "Hỏi khả năng của bot",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c5b7e956-7125-486b-923c-a6c1700c220f",
+          "name": "loi_ich",
+          "required": false,
+          "dataType": "@loi_ich",
+          "value": "$loi_ich",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Mình có thể thực hiện được các chức năng sau:\n1. Tra cứu các chỉ số dinh dưỡng trong thực phẩm, đồ ăn, rau củ quả, ... thông qua tên món, hoặc ảnh chụp.\n2. Tính chỉ số cơ thể của bạn từ đó đưa ra lời khuyên về tình trạng sức khỏe và thực đơn ăn uống cho phù hợp.\n3. Cung cấp thực đơn tăng cân, giảm cân dựa vào nhu cầu và mong muốn của bạn.\n4. Giải đáp tất cả những thắc mắc của bạn về kiến thức dinh dưỡng trong việc tăng cân, giảm cân, các chế độ ăn phổ biến."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

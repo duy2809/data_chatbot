@@ -1,0 +1,9 @@
+{
+  "id": "9baa9030-107b-47f1-a32d-2241465fc2c2",
+  "name": "low_fat",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

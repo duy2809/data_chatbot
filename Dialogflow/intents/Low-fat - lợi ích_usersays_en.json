@@ -1,0 +1,568 @@
+[
+  {
+    "id": "4744d19b-aba0-448a-9abc-b48d633d7af3",
+    "data": [
+      {
+        "text": "low-fat",
+        "meta": "@low_fat",
+        "alias": "low_fat",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "ích lợi",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " gì không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3765d21b-8bf3-427c-8301-8a60545123e7",
+    "data": [
+      {
+        "text": "low-fat",
+        "meta": "@low_fat",
+        "alias": "low_fat",
+        "userDefined": false
+      },
+      {
+        "text": " mang lại ",
+        "userDefined": false
+      },
+      {
+        "text": "ích lợi",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d48ddacb-c8d7-48cc-ab31-6cc84fdc33e9",
+    "data": [
+      {
+        "text": "low-fat",
+        "meta": "@low_fat",
+        "alias": "low_fat",
+        "userDefined": false
+      },
+      {
+        "text": " có những ",
+        "userDefined": false
+      },
+      {
+        "text": "lợi ích",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "caac2d0b-37fc-48a5-a2c1-24d4581dec6a",
+    "data": [
+      {
+        "text": "low-fat",
+        "meta": "@low_fat",
+        "alias": "low_fat",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "giúp",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " gì cho sức khoẻ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "91f4aa5c-6f78-4f30-96a2-e5efa1e063e2",
+    "data": [
+      {
+        "text": "ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "low-fat",
+        "meta": "@low_fat",
+        "alias": "low_fat",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tốt",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " như thế nào?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "93daa931-1885-4c19-ad43-33c75f206ddb",
+    "data": [
+      {
+        "text": "ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "low-fat",
+        "meta": "@low_fat",
+        "alias": "low_fat",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tốt",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "31faa782-732a-4867-8ce2-6d897eea56b9",
+    "data": [
+      {
+        "text": "ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "low-fat",
+        "meta": "@low_fat",
+        "alias": "low_fat",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tốt",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " cho sức khoẻ không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6eb02252-bfbc-47cb-b94e-6a6b0e6c6af3",
+    "data": [
+      {
+        "text": "ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "low-fat",
+        "meta": "@low_fat",
+        "alias": "low_fat",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "tác dụng",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f97fa4c4-21f5-4820-a8bf-84f9cbf3685c",
+    "data": [
+      {
+        "text": "cho mình hỏi ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "low-fat",
+        "meta": "@low_fat",
+        "alias": "low_fat",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "tác dụng",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "69442c71-7fdc-42bd-8ff1-fd4c5a90ef22",
+    "data": [
+      {
+        "text": "cho mình hỏi ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "low-fat",
+        "meta": "@low_fat",
+        "alias": "low_fat",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "tốt",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "65e8f4d7-e9cf-40a0-bf6c-7021a6c6016a",
+    "data": [
+      {
+        "text": "low-fat diet",
+        "meta": "@low_fat",
+        "alias": "low_fat",
+        "userDefined": false
+      },
+      {
+        "text": " có các ",
+        "userDefined": false
+      },
+      {
+        "text": "tác dụng",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "77e47268-fa94-46ff-b652-c955cc342fc2",
+    "data": [
+      {
+        "text": "low-fat diet",
+        "meta": "@low_fat",
+        "alias": "low_fat",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "ích lợi",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2f29a042-0248-4581-bfda-e6ccfe4c40b6",
+    "data": [
+      {
+        "text": "các ",
+        "userDefined": false
+      },
+      {
+        "text": "lợi ích",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " của ",
+        "userDefined": false
+      },
+      {
+        "text": "low-fat diet",
+        "meta": "@low_fat",
+        "alias": "low_fat",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "47b55934-8a79-413b-95e9-de98910cf7c1",
+    "data": [
+      {
+        "text": "lợi ích",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " của ",
+        "userDefined": false
+      },
+      {
+        "text": "low-fat diet",
+        "meta": "@low_fat",
+        "alias": "low_fat",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e7763f5c-e082-4683-82b9-ab4ce7b83a32",
+    "data": [
+      {
+        "text": "ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "low-fat",
+        "meta": "@low_fat",
+        "alias": "low_fat",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "giúp",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " gì cho sức khoẻ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2f7ae1d1-37a7-465a-a43a-b283ad674d9d",
+    "data": [
+      {
+        "text": "ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "low-fat",
+        "meta": "@low_fat",
+        "alias": "low_fat",
+        "userDefined": false
+      },
+      {
+        "text": " có phải là biện pháp giảm cân ",
+        "userDefined": false
+      },
+      {
+        "text": "tốt",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c43147b-8be1-46fb-bef7-e8e3a68526c4",
+    "data": [
+      {
+        "text": "ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "low-fat",
+        "meta": "@low_fat",
+        "alias": "low_fat",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "lợi",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cd774601-229f-4507-8cd1-2608af1c4614",
+    "data": [
+      {
+        "text": "ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "low-fat",
+        "meta": "@low_fat",
+        "alias": "low_fat",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "tác dụng",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " gì trong việc giảm cân?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

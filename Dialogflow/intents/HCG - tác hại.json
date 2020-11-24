@@ -1,0 +1,64 @@
+{
+  "id": "30b8a6a1-7442-47e3-88c3-1d360482cb84",
+  "name": "HCG - tác hại",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "90e9da69-3981-4738-810a-1dd70b0a4153",
+          "name": "hcg",
+          "required": false,
+          "dataType": "@hcg",
+          "value": "$hcg",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "a29bd57a-edb5-4a95-a53c-93e459a3e87a",
+          "name": "tac_hai",
+          "required": false,
+          "dataType": "@tac_hai",
+          "value": "$tac_hai",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Chế độ này có nhiều tác hại như gây nhức đầu, mệt mỏi, trầm cảm."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

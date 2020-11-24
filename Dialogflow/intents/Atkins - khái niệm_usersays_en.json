@@ -1,0 +1,319 @@
+[
+  {
+    "id": "d67dc815-7d2b-49d1-ba78-5daf31e1fd02",
+    "data": [
+      {
+        "text": "Atkins",
+        "meta": "@atkins",
+        "alias": "atkins",
+        "userDefined": true
+      },
+      {
+        "text": " là gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "caea82e4-7cfa-44f4-8ff1-d3bdee3b546f",
+    "data": [
+      {
+        "text": "chế ",
+        "userDefined": false
+      },
+      {
+        "text": "độ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "Atkins",
+        "meta": "@atkins",
+        "alias": "atkins",
+        "userDefined": true
+      },
+      {
+        "text": " gồm những gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e3807930-7111-4100-9526-b4b9c3d9db72",
+    "data": [
+      {
+        "text": "định",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nghĩa về chế ",
+        "userDefined": false
+      },
+      {
+        "text": "độ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "Atkins",
+        "meta": "@atkins",
+        "alias": "atkins",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b2263094-2096-4eaf-8f92-2a11374bc1ad",
+    "data": [
+      {
+        "text": "thế nào là chế ",
+        "userDefined": false
+      },
+      {
+        "text": "độ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "Atkins",
+        "meta": "@atkins",
+        "alias": "atkins",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9096cad1-61b6-4320-a1ca-543225707940",
+    "data": [
+      {
+        "text": "khái niệm của chế ",
+        "userDefined": false
+      },
+      {
+        "text": "độ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "Atkins",
+        "meta": "@atkins",
+        "alias": "atkins",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79f12949-33d0-4a74-99e1-7dfdc2fd73f4",
+    "data": [
+      {
+        "text": "khái niệm ",
+        "userDefined": false
+      },
+      {
+        "text": "Atkins",
+        "meta": "@atkins",
+        "alias": "atkins",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b8465954-770c-44e9-93cd-69279d5316ef",
+    "data": [
+      {
+        "text": "định",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nghĩa ",
+        "userDefined": false
+      },
+      {
+        "text": "Atkins",
+        "meta": "@atkins",
+        "alias": "atkins",
+        "userDefined": true
+      },
+      {
+        "text": " là gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3cf50dc4-89d6-4530-b6be-5ed6801d6fba",
+    "data": [
+      {
+        "text": "Atkins",
+        "meta": "@atkins",
+        "alias": "atkins",
+        "userDefined": true
+      },
+      {
+        "text": " có phải là một chế ",
+        "userDefined": false
+      },
+      {
+        "text": "độ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ăn kiêng không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b8175a99-ff97-4de2-bb6b-1800850db7f3",
+    "data": [
+      {
+        "text": "Atkins",
+        "meta": "@atkins",
+        "alias": "atkins",
+        "userDefined": true
+      },
+      {
+        "text": " là chế ",
+        "userDefined": false
+      },
+      {
+        "text": "độ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ăn thế nào?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "11d75c65-02db-4e03-b54e-a6402e75952a",
+    "data": [
+      {
+        "text": "cho mình hỏi ",
+        "userDefined": false
+      },
+      {
+        "text": "Atkins",
+        "meta": "@atkins",
+        "alias": "atkins",
+        "userDefined": true
+      },
+      {
+        "text": " là gì thế?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "27d9f7da-885f-4865-bb16-8d066d502258",
+    "data": [
+      {
+        "text": "mình muốn biết thêm về Atkins diet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a8c51b1b-a563-4870-9d79-e4f24d5cdbc2",
+    "data": [
+      {
+        "text": "Atkins là chế ",
+        "userDefined": false
+      },
+      {
+        "text": "độ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ăn như thế nào vậy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

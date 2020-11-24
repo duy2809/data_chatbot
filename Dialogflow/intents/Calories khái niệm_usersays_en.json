@@ -1,0 +1,78 @@
+[
+  {
+    "id": "43fb9a49-c9a3-4c12-a696-bdc0597ca84a",
+    "data": [
+      {
+        "text": "Kcal",
+        "meta": "@Calories",
+        "alias": "calories",
+        "userDefined": false
+      },
+      {
+        "text": " là cái gì thế?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f3e40c4d-57f5-470f-9b20-9bd5e254a022",
+    "data": [
+      {
+        "text": "Kalo",
+        "meta": "@Calories",
+        "alias": "calories",
+        "userDefined": false
+      },
+      {
+        "text": " là chỉ số gì hả bạn?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "39c9d996-aa92-47cc-9efa-d3d3ef6ff60f",
+    "data": [
+      {
+        "text": "Calories",
+        "meta": "@Calories",
+        "alias": "calories",
+        "userDefined": false
+      },
+      {
+        "text": " là gì thể nhỉ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7dcb5686-678c-4661-b899-272bd51d5125",
+    "data": [
+      {
+        "text": "Calo",
+        "meta": "@Calories",
+        "alias": "calories",
+        "userDefined": false
+      },
+      {
+        "text": " là gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

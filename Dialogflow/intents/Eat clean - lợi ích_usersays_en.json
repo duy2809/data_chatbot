@@ -1,0 +1,634 @@
+[
+  {
+    "id": "90cfb54f-c6d3-44ee-ac38-ea0f96641c8c",
+    "data": [
+      {
+        "text": "eat clean",
+        "meta": "@eat_clean",
+        "alias": "eat_clean",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "ích lợi",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " gì không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fa8be9a7-815c-43ab-bf66-50b683f3b1d7",
+    "data": [
+      {
+        "text": "eat clean",
+        "meta": "@eat_clean",
+        "alias": "eat_clean",
+        "userDefined": false
+      },
+      {
+        "text": " mang lại ",
+        "userDefined": false
+      },
+      {
+        "text": "ích lợi",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "977f706e-fcae-43a4-8abb-bbc92d580b3f",
+    "data": [
+      {
+        "text": "eat clean",
+        "meta": "@eat_clean",
+        "alias": "eat_clean",
+        "userDefined": false
+      },
+      {
+        "text": " có những ",
+        "userDefined": false
+      },
+      {
+        "text": "lợi ích",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5d50380f-5e32-416a-922c-b86fcf6924ad",
+    "data": [
+      {
+        "text": "eat clean",
+        "meta": "@eat_clean",
+        "alias": "eat_clean",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "giúp",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " gì cho sức khoẻ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c18a029a-179f-4d20-82cc-6bd5b6dc22d0",
+    "data": [
+      {
+        "text": "ăn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "eat clean",
+        "meta": "@eat_clean",
+        "alias": "eat_clean",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tốt",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " như thế nào?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a70693ac-8301-4bc6-85d2-83455886d57f",
+    "data": [
+      {
+        "text": "ăn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "eat clean",
+        "meta": "@eat_clean",
+        "alias": "eat_clean",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tốt",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "264dcc26-456c-449d-9992-4f73675bd94b",
+    "data": [
+      {
+        "text": "ăn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "eat clean",
+        "meta": "@eat_clean",
+        "alias": "eat_clean",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tốt",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " cho sức khoẻ không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f8ab93a9-5466-4bc0-927d-10c3da0a091d",
+    "data": [
+      {
+        "text": "ăn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "eat clean",
+        "meta": "@eat_clean",
+        "alias": "eat_clean",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "tác dụng",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba660e50-89fe-4b00-81b9-fbe521db2e27",
+    "data": [
+      {
+        "text": "cho mình hỏi ",
+        "userDefined": false
+      },
+      {
+        "text": "ăn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "eat clean",
+        "meta": "@eat_clean",
+        "alias": "eat_clean",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "tác dụng",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "452596ca-7f69-49c0-8f97-1f7f747a79d5",
+    "data": [
+      {
+        "text": "cho mình hỏi ",
+        "userDefined": false
+      },
+      {
+        "text": "ăn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "eat clean",
+        "meta": "@eat_clean",
+        "alias": "eat_clean",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "tốt",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3da678ee-03b7-4441-8104-6c679a51a318",
+    "data": [
+      {
+        "text": "eat clean",
+        "meta": "@eat_clean",
+        "alias": "eat_clean",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "diet có",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " các ",
+        "userDefined": false
+      },
+      {
+        "text": "tác dụng",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b6ad963d-2e30-4eb9-9421-b7de6c038ec8",
+    "data": [
+      {
+        "text": "eat clean",
+        "meta": "@eat_clean",
+        "alias": "eat_clean",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "diet có",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ích lợi",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "68ea5d8c-07a3-4d56-9499-afaee1791169",
+    "data": [
+      {
+        "text": "các ",
+        "userDefined": false
+      },
+      {
+        "text": "lợi ích",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " của ",
+        "userDefined": false
+      },
+      {
+        "text": "eat clean",
+        "meta": "@eat_clean",
+        "alias": "eat_clean",
+        "userDefined": false
+      },
+      {
+        "text": " diet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2cb765c0-addd-4eb8-a82c-e17606550bc5",
+    "data": [
+      {
+        "text": "lợi ích",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " của ",
+        "userDefined": false
+      },
+      {
+        "text": "eat clean",
+        "meta": "@eat_clean",
+        "alias": "eat_clean",
+        "userDefined": false
+      },
+      {
+        "text": " diet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ddbcce20-921f-4c31-8721-e5ffcb396583",
+    "data": [
+      {
+        "text": "ăn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "eat clean",
+        "meta": "@eat_clean",
+        "alias": "eat_clean",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "giúp",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " gì cho sức khoẻ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d64afc57-394c-4509-98e0-8d714e3efd0d",
+    "data": [
+      {
+        "text": "ăn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "eat clean",
+        "meta": "@eat_clean",
+        "alias": "eat_clean",
+        "userDefined": false
+      },
+      {
+        "text": " có phải là biện pháp giảm cân ",
+        "userDefined": false
+      },
+      {
+        "text": "tốt",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ed4609aa-cbc6-42fa-aca6-088c60e66d2a",
+    "data": [
+      {
+        "text": "ăn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "eat clean",
+        "meta": "@eat_clean",
+        "alias": "eat_clean",
+        "userDefined": false
+      },
+      {
+        "text": " có lợi không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "19633a08-e1b5-4348-a631-dd7633b3cb46",
+    "data": [
+      {
+        "text": "ăn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "eat clean",
+        "meta": "@eat_clean",
+        "alias": "eat_clean",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "tác dụng",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " gì trong việc giảm cân?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

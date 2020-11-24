@@ -1,0 +1,394 @@
+[
+  {
+    "id": "3dec1662-c593-4f6a-816a-ae50b6130fbf",
+    "data": [
+      {
+        "text": "ăn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "eat clean",
+        "meta": "@eat_clean",
+        "alias": "eat_clean",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "làm giảm sức khoẻ",
+        "meta": "@tac_hai",
+        "alias": "tac_hai",
+        "userDefined": false
+      },
+      {
+        "text": " không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a4771102-33f1-4bcc-ba26-1f5e2938ac33",
+    "data": [
+      {
+        "text": "ăn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "eat clean",
+        "meta": "@eat_clean",
+        "alias": "eat_clean",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ảnh hưởng xấu đến",
+        "meta": "@tac_hai",
+        "alias": "tac_hai",
+        "userDefined": false
+      },
+      {
+        "text": " sức khoẻ không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "327a8e3e-7504-4252-9c9e-142c087788bd",
+    "data": [
+      {
+        "text": "cho mình hỏi những ",
+        "userDefined": false
+      },
+      {
+        "text": "tác hại",
+        "meta": "@tac_hai",
+        "alias": "tac_hai",
+        "userDefined": false
+      },
+      {
+        "text": " của việc ",
+        "userDefined": false
+      },
+      {
+        "text": "ăn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "eat clean",
+        "meta": "@eat_clean",
+        "alias": "eat_clean",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d1269827-439d-433f-a9b0-720a15b69a10",
+    "data": [
+      {
+        "text": "cho mình hỏi các ",
+        "userDefined": false
+      },
+      {
+        "text": "tác hại",
+        "meta": "@tac_hai",
+        "alias": "tac_hai",
+        "userDefined": false
+      },
+      {
+        "text": " của việc ",
+        "userDefined": false
+      },
+      {
+        "text": "ăn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " theo ",
+        "userDefined": false
+      },
+      {
+        "text": "eat clean",
+        "meta": "@eat_clean",
+        "alias": "eat_clean",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac11da24-2825-4d9b-b332-b7160b571140",
+    "data": [
+      {
+        "text": "cho mình hỏi ",
+        "userDefined": false
+      },
+      {
+        "text": "tác hại",
+        "meta": "@tac_hai",
+        "alias": "tac_hai",
+        "userDefined": false
+      },
+      {
+        "text": " của việc ",
+        "userDefined": false
+      },
+      {
+        "text": "ăn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "eat clean",
+        "meta": "@eat_clean",
+        "alias": "eat_clean",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7802f0e8-248d-4918-8d08-4939a2afe696",
+    "data": [
+      {
+        "text": "ăn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "eat clean",
+        "meta": "@eat_clean",
+        "alias": "eat_clean",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "tác hại",
+        "meta": "@tac_hai",
+        "alias": "tac_hai",
+        "userDefined": false
+      },
+      {
+        "text": " không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "009b145c-303b-4155-abc2-f59701791370",
+    "data": [
+      {
+        "text": "ăn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "eat clean",
+        "meta": "@eat_clean",
+        "alias": "eat_clean",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "tác hại",
+        "meta": "@tac_hai",
+        "alias": "tac_hai",
+        "userDefined": false
+      },
+      {
+        "text": " gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "17f2f9a8-904d-488f-b526-d2ebf0750078",
+    "data": [
+      {
+        "text": "ăn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "eat clean",
+        "meta": "@eat_clean",
+        "alias": "eat_clean",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "hại",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gì không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "20e9c6f1-79c8-4106-a314-1e01aef04bbd",
+    "data": [
+      {
+        "text": "ăn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "eat clean",
+        "meta": "@eat_clean",
+        "alias": "eat_clean",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "ảnh hưởng tiêu cực",
+        "meta": "@tac_hai",
+        "alias": "tac_hai",
+        "userDefined": false
+      },
+      {
+        "text": " gì đến sức khoẻ không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "66dd200b-0c9b-4429-b439-47bea0c23a68",
+    "data": [
+      {
+        "text": "eat clean",
+        "meta": "@eat_clean",
+        "alias": "eat_clean",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "tác dụng phụ",
+        "meta": "@tac_hai",
+        "alias": "tac_hai",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bất lợi",
+        "meta": "@tac_hai",
+        "alias": "tac_hai",
+        "userDefined": false
+      },
+      {
+        "text": " gì không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

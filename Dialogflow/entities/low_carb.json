@@ -1,0 +1,9 @@
+{
+  "id": "b35f21fb-6d8f-40ae-9114-2597cffdec36",
+  "name": "low_carb",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

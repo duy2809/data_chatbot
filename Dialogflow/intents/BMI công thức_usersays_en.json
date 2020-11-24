@@ -1,0 +1,139 @@
+[
+  {
+    "id": "9d004c2b-727f-43cf-ade9-9c805eb878b1",
+    "data": [
+      {
+        "text": "BMI",
+        "meta": "@BMI",
+        "alias": "bmi",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tính",
+        "meta": "@cong_thuc_tinh",
+        "alias": "cong_thuc_tinh",
+        "userDefined": true
+      },
+      {
+        "text": " như nào bạn nhỉ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "524b9fc9-664f-4650-9e9d-4ae4d28e1a0d",
+    "data": [
+      {
+        "text": "BMI",
+        "meta": "@BMI",
+        "alias": "bmi",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tính",
+        "meta": "@cong_thuc_tinh",
+        "alias": "cong_thuc_tinh",
+        "userDefined": true
+      },
+      {
+        "text": " như thế nào?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d2fdf461-bccc-4dc5-8126-433fe089185e",
+    "data": [
+      {
+        "text": "cách tính",
+        "meta": "@cong_thuc_tinh",
+        "alias": "cong_thuc_tinh",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "BMI?",
+        "meta": "@BMI",
+        "alias": "bmi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0cfc5579-bc1c-4710-90d0-1915099c862d",
+    "data": [
+      {
+        "text": "công thức",
+        "meta": "@cong_thuc_tinh",
+        "alias": "cong_thuc_tinh",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "BMI?",
+        "meta": "@BMI",
+        "alias": "bmi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "976fd778-3aed-47d5-9c35-036d4b3b937e",
+    "data": [
+      {
+        "text": "Công thức",
+        "meta": "@cong_thuc_tinh",
+        "alias": "cong_thuc_tinh",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "BMI",
+        "meta": "@BMI",
+        "alias": "bmi",
+        "userDefined": false
+      },
+      {
+        "text": " là gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

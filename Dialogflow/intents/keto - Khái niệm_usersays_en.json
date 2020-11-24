@@ -1,0 +1,68 @@
+[
+  {
+    "id": "67fa769b-40d1-4318-8f7a-59dfe247923d",
+    "data": [
+      {
+        "text": "keto",
+        "meta": "@keto",
+        "alias": "keto",
+        "userDefined": false
+      },
+      {
+        "text": " viết tắt là gì ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bd493f81-5037-4ef5-a5e4-5904a3fdbb9f",
+    "data": [
+      {
+        "text": "Định",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nghĩa của ",
+        "userDefined": false
+      },
+      {
+        "text": "Keto",
+        "meta": "@keto",
+        "alias": "keto",
+        "userDefined": false
+      },
+      {
+        "text": " là gì ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "142219f0-e8fa-444c-a483-19a7df00bbb7",
+    "data": [
+      {
+        "text": "Keto",
+        "meta": "@keto",
+        "alias": "keto",
+        "userDefined": false
+      },
+      {
+        "text": " là gì ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

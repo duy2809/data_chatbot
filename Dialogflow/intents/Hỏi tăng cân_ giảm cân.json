@@ -1,0 +1,85 @@
+{
+  "id": "13801984-961e-4062-8ad2-1b6c6940bc0d",
+  "name": "Hỏi tăng cân/ giảm cân",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "khach.hang.hoi.thuc.don",
+      "affectedContexts": [
+        {
+          "name": "Hitngcngimcn-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "73efecec-df53-4c1d-ace1-5b5a20079c88",
+          "name": "ten_so_luong",
+          "required": false,
+          "dataType": "@ten_so_luong",
+          "value": "$ten_so_luong",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "f53e2734-57de-4822-bc30-c094d2f71e53",
+          "name": "yeu_cau_cua_user",
+          "required": true,
+          "dataType": "@yeu_cau_cua_user",
+          "value": "$yeu_cau_cua_user",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Oke. Bạn đang muốn tăng cân hay giảm cân nhỉ?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "facebook",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hiện tại tính năng này chỉ có trên app thui bạn nha!"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Xin lỗi bạn, đã xảy ra lỗi kết nối server hoặc nền tảng của bạn không được hỗ trợ. Mình sẽ báo cho team kĩ thuật để fix ngay bạn nha! :P"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 750000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

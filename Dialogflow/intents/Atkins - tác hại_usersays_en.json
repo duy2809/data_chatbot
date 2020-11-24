@@ -1,0 +1,449 @@
+[
+  {
+    "id": "f9caef61-0215-4266-9990-99018c204905",
+    "data": [
+      {
+        "text": "ăn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Atkins",
+        "meta": "@atkins",
+        "alias": "atkins",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "làm giảm sức khoẻ",
+        "meta": "@tac_hai",
+        "alias": "tac_hai",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "không",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fe5d2fba-ec63-462b-90e4-94df40ebbaf6",
+    "data": [
+      {
+        "text": "ăn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Atkins",
+        "meta": "@atkins",
+        "alias": "atkins",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ảnh hưởng xấu đến",
+        "meta": "@tac_hai",
+        "alias": "tac_hai",
+        "userDefined": false
+      },
+      {
+        "text": " sức khoẻ ",
+        "userDefined": false
+      },
+      {
+        "text": "không",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "65769845-1a69-406f-b8f2-c49084fc33e6",
+    "data": [
+      {
+        "text": "cho mình hỏi những ",
+        "userDefined": false
+      },
+      {
+        "text": "tác hại",
+        "meta": "@tac_hai",
+        "alias": "tac_hai",
+        "userDefined": false
+      },
+      {
+        "text": " của việc ",
+        "userDefined": false
+      },
+      {
+        "text": "ăn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Atkins",
+        "meta": "@atkins",
+        "alias": "atkins",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "70493a70-36be-437d-92b4-077fd1f1ccb2",
+    "data": [
+      {
+        "text": "cho mình hỏi các ",
+        "userDefined": false
+      },
+      {
+        "text": "tác hại",
+        "meta": "@tac_hai",
+        "alias": "tac_hai",
+        "userDefined": false
+      },
+      {
+        "text": " của việc ",
+        "userDefined": false
+      },
+      {
+        "text": "ăn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " theo ",
+        "userDefined": false
+      },
+      {
+        "text": "Atkins",
+        "meta": "@atkins",
+        "alias": "atkins",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "98894704-590b-4853-8564-fe774836eb0c",
+    "data": [
+      {
+        "text": "cho mình hỏi ",
+        "userDefined": false
+      },
+      {
+        "text": "tác hại",
+        "meta": "@tac_hai",
+        "alias": "tac_hai",
+        "userDefined": false
+      },
+      {
+        "text": " của việc ",
+        "userDefined": false
+      },
+      {
+        "text": "ăn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Atkins",
+        "meta": "@atkins",
+        "alias": "atkins",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a7149a46-3604-4901-b262-d005020dd60f",
+    "data": [
+      {
+        "text": "ăn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Atkins",
+        "meta": "@atkins",
+        "alias": "atkins",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "tác hại",
+        "meta": "@tac_hai",
+        "alias": "tac_hai",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "không",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bdf8227f-852a-414e-9800-345b69286ce6",
+    "data": [
+      {
+        "text": "ăn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Atkins",
+        "meta": "@atkins",
+        "alias": "atkins",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "tác hại",
+        "meta": "@tac_hai",
+        "alias": "tac_hai",
+        "userDefined": false
+      },
+      {
+        "text": " gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1d4889ac-7aab-4b00-bdbb-c56554658209",
+    "data": [
+      {
+        "text": "ăn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Atkins",
+        "meta": "@atkins",
+        "alias": "atkins",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "hại",
+        "meta": "@tac_hai",
+        "alias": "tac_hai",
+        "userDefined": true
+      },
+      {
+        "text": " gì ",
+        "userDefined": false
+      },
+      {
+        "text": "không",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba4c82ff-bf69-4625-8a63-60936ffb0927",
+    "data": [
+      {
+        "text": "ăn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Atkins",
+        "meta": "@atkins",
+        "alias": "atkins",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "ảnh hưởng tiêu cực",
+        "meta": "@tac_hai",
+        "alias": "tac_hai",
+        "userDefined": true
+      },
+      {
+        "text": " gì đến sức khoẻ ",
+        "userDefined": false
+      },
+      {
+        "text": "không",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "650809b9-99b5-49a8-b1bf-aca61a276f6e",
+    "data": [
+      {
+        "text": "Atkins",
+        "meta": "@atkins",
+        "alias": "atkins",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "tác dụng phụ",
+        "meta": "@tac_hai",
+        "alias": "tac_hai",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bất lợi",
+        "meta": "@tac_hai",
+        "alias": "tac_hai",
+        "userDefined": true
+      },
+      {
+        "text": " gì ",
+        "userDefined": false
+      },
+      {
+        "text": "không",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

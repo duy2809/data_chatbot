@@ -1,0 +1,159 @@
+[
+  {
+    "id": "207c13f4-301f-40d0-bef2-d7fea850818c",
+    "data": [
+      {
+        "text": "Ăn chay",
+        "meta": "@an_chay",
+        "alias": "an_chay",
+        "userDefined": true
+      },
+      {
+        "text": " có nhiều ",
+        "userDefined": false
+      },
+      {
+        "text": "điểm tốt",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": true
+      },
+      {
+        "text": " không bạn?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1cc26d62-a9a4-4319-b6ff-dc6d87bceba8",
+    "data": [
+      {
+        "text": "Ăn chay",
+        "meta": "@an_chay",
+        "alias": "an_chay",
+        "userDefined": true
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "tác dụng",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": true
+      },
+      {
+        "text": " gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "78542ace-ebd9-48d7-adbb-5af150bf3ae2",
+    "data": [
+      {
+        "text": "Cho mình hỏi những ",
+        "userDefined": false
+      },
+      {
+        "text": "lợi ích",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": true
+      },
+      {
+        "text": " của việc ",
+        "userDefined": false
+      },
+      {
+        "text": "ăn chay",
+        "meta": "@an_chay",
+        "alias": "an_chay",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5f5c02d-5bc1-433f-8309-6a27035d3832",
+    "data": [
+      {
+        "text": "Cho mình hỏi các ",
+        "userDefined": false
+      },
+      {
+        "text": "lợi ích",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": true
+      },
+      {
+        "text": " của việc ",
+        "userDefined": false
+      },
+      {
+        "text": "ăn chay",
+        "meta": "@an_chay",
+        "alias": "an_chay",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "91b173ea-cf7c-4f16-b955-21134a19f26f",
+    "data": [
+      {
+        "text": "Cho mình hỏi ",
+        "userDefined": false
+      },
+      {
+        "text": "lợi ích",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": true
+      },
+      {
+        "text": " của việc ",
+        "userDefined": false
+      },
+      {
+        "text": "ăn chay",
+        "meta": "@an_chay",
+        "alias": "an_chay",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

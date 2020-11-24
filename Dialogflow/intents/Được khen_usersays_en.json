@@ -1,0 +1,176 @@
+[
+  {
+    "id": "b7a9d218-4b0d-45f6-99b0-a8c7f814d164",
+    "data": [
+      {
+        "text": "Good job",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c38032d-b45f-4796-be21-54a79f7a122a",
+    "data": [
+      {
+        "text": "Bạn giỏi thật đó",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "db7a636b-b243-4c23-9120-336607a91079",
+    "data": [
+      {
+        "text": "Được của ló đấy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "974e9214-c703-4e94-bb00-af0cfefd5e32",
+    "data": [
+      {
+        "text": "Siêu thế",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f5358d88-5e8a-4761-b9c7-e6e7d9b30119",
+    "data": [
+      {
+        "text": "Bạn ăn gì mà thông mình thế",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0ee535ff-5afd-45af-b536-286c4e996095",
+    "data": [
+      {
+        "text": "đẹp trai đấy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "05b4cbb3-1137-4464-9032-e9b6289b99fc",
+    "data": [
+      {
+        "text": "bot thông minh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ab62fb74-2184-48b3-88bd-55f6e482812c",
+    "data": [
+      {
+        "text": "ui giỏi thế",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8876c0ba-af03-4762-8d6f-d7e44a97a9e9",
+    "data": [
+      {
+        "text": "bot ",
+        "userDefined": false
+      },
+      {
+        "text": "làm",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tốt",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " lắm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2a470722-8744-49aa-aa79-aba2ffd3f03a",
+    "data": [
+      {
+        "text": "awesome",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7a682019-cd2e-4836-aadf-111bf949c534",
+    "data": [
+      {
+        "text": "great",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "09a2bef6-ac51-42a1-8204-4839be5f63ad",
+    "data": [
+      {
+        "text": "bot giỏi quá",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

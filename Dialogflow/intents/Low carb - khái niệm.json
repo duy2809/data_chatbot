@@ -1,0 +1,50 @@
+{
+  "id": "fb91ff68-6cb1-4b27-9508-ab6365452aa2",
+  "name": "Low carb - khái niệm",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9c6344ea-5877-43db-960e-5650a402a820",
+          "name": "low_carb",
+          "required": false,
+          "dataType": "@low_carb",
+          "value": "$low_carb",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Low-carb hay Low-carbohydrate nghĩa là ít đường, ít tinh bột. Chế độ ăn Low Carb là chế độ ăn kiêng nhằm giới hạn lượng carbohydrate và tăng tỉ lệ protein cũng như chất béo trong khẩu phần (carbohydrate có trong các thức ăn như ngũ cốc, rau và hoa quả)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

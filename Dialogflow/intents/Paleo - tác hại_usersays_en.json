@@ -1,0 +1,338 @@
+[
+  {
+    "id": "9d9d647b-9ba2-4c5f-8ffd-d681c02f7727",
+    "data": [
+      {
+        "text": "ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "Paleo",
+        "meta": "@paleo",
+        "alias": "paleo",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "làm giảm sức khoẻ",
+        "meta": "@tac_hai",
+        "alias": "tac_hai",
+        "userDefined": false
+      },
+      {
+        "text": " không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5801e5a2-d970-4022-86a5-e7645019ca5b",
+    "data": [
+      {
+        "text": "ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "Paleo",
+        "meta": "@paleo",
+        "alias": "paleo",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ảnh hưởng xấu đến",
+        "meta": "@tac_hai",
+        "alias": "tac_hai",
+        "userDefined": false
+      },
+      {
+        "text": " sức khoẻ không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6ea1e925-0c4b-42d3-83ad-d653ce56235a",
+    "data": [
+      {
+        "text": "cho mình hỏi những ",
+        "userDefined": false
+      },
+      {
+        "text": "tác hại",
+        "meta": "@tac_hai",
+        "alias": "tac_hai",
+        "userDefined": false
+      },
+      {
+        "text": " của việc ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "Paleo",
+        "meta": "@paleo",
+        "alias": "paleo",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c248ea8-78d5-4da5-8c06-7cb27b813257",
+    "data": [
+      {
+        "text": "cho mình hỏi các ",
+        "userDefined": false
+      },
+      {
+        "text": "tác hại",
+        "meta": "@tac_hai",
+        "alias": "tac_hai",
+        "userDefined": false
+      },
+      {
+        "text": " của việc ăn theo ",
+        "userDefined": false
+      },
+      {
+        "text": "Paleo",
+        "meta": "@paleo",
+        "alias": "paleo",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6d57114b-f0d8-4263-946e-657dfebdc333",
+    "data": [
+      {
+        "text": "cho mình hỏi ",
+        "userDefined": false
+      },
+      {
+        "text": "tác hại",
+        "meta": "@tac_hai",
+        "alias": "tac_hai",
+        "userDefined": false
+      },
+      {
+        "text": " của việc ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "Paleo",
+        "meta": "@paleo",
+        "alias": "paleo",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8555bb1-6cbf-448f-80ef-54dda443f312",
+    "data": [
+      {
+        "text": "ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "Paleo",
+        "meta": "@paleo",
+        "alias": "paleo",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "tác hại",
+        "meta": "@tac_hai",
+        "alias": "tac_hai",
+        "userDefined": false
+      },
+      {
+        "text": " không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5216fd29-a811-432d-9ad8-78f7deb0bd6e",
+    "data": [
+      {
+        "text": "ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "Paleo",
+        "meta": "@paleo",
+        "alias": "paleo",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "tác hại",
+        "meta": "@tac_hai",
+        "alias": "tac_hai",
+        "userDefined": false
+      },
+      {
+        "text": " gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "63629f0b-3a85-428c-b60e-d8e31be99ad1",
+    "data": [
+      {
+        "text": "ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "Paleo",
+        "meta": "@paleo",
+        "alias": "paleo",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "hại",
+        "meta": "@tac_hai",
+        "alias": "tac_hai",
+        "userDefined": false
+      },
+      {
+        "text": " gì không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "42bf6fc9-90c7-400c-bd8e-20aed889cfaf",
+    "data": [
+      {
+        "text": "ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "Paleo",
+        "meta": "@paleo",
+        "alias": "paleo",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "ảnh hưởng tiêu cực",
+        "meta": "@tac_hai",
+        "alias": "tac_hai",
+        "userDefined": false
+      },
+      {
+        "text": " gì đến sức khoẻ không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "849f4dd3-a2c2-4c83-b6db-572e97957b2e",
+    "data": [
+      {
+        "text": "Paleo",
+        "meta": "@paleo",
+        "alias": "paleo",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "tác dụng phụ",
+        "meta": "@tac_hai",
+        "alias": "tac_hai",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bất lợi",
+        "meta": "@tac_hai",
+        "alias": "tac_hai",
+        "userDefined": false
+      },
+      {
+        "text": " gì không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

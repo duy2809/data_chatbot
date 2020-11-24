@@ -1,0 +1,64 @@
+{
+  "id": "027a410b-ef70-4dc7-91bf-577e855d83c0",
+  "name": "Eat clean - lợi ích",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f26baabb-2bb6-41cb-914a-b0429e743e89",
+          "name": "eat_clean",
+          "required": false,
+          "dataType": "@eat_clean",
+          "value": "$eat_clean",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "916b5179-7f52-49f0-8e25-891f5ee3b057",
+          "name": "loi_ich",
+          "required": false,
+          "dataType": "@loi_ich",
+          "value": "$loi_ich",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Lợi ích của eat clean bao gồm: ngăn ngừa bệnh tim mạch, cải thiện sức khỏe não bộ, giảm cân lành mạnh, cung cấp năng lượng cho cơ thể, giảm bớt nguy cơ mắc ung thư."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,36 @@
+{
+  "id": "778cfb1d-df7f-4e49-a688-2b69c4572c90",
+  "name": "Bị chê",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Xin lỗi bạn nhé, tớ vẫn đang cố gắng đây! :( Bạn có cần tớ giúp thêm gì không?",
+            "Xin lỗi vì đã làm bạn phải thất vọng! :("
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

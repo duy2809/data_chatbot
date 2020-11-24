@@ -1,0 +1,46 @@
+[
+  {
+    "id": "8ed33d78-49c0-4ec7-bbd4-1478cc26b86e",
+    "data": [
+      {
+        "text": "Sáng",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "64e198d1-a405-471e-8cf4-dd1587acb944",
+    "data": [
+      {
+        "text": "Bữa sáng",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9a657cb0-5e47-4118-ba2a-3ec180916284",
+    "data": [
+      {
+        "text": "Buổi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sáng",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

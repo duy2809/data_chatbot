@@ -1,0 +1,64 @@
+{
+  "id": "9a79284d-5f0b-4321-8b5b-b44407b86222",
+  "name": "Nhịn ăn gián đoạn - tác hại",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2426e084-ff85-4a19-bdb3-cac7020e30bd",
+          "name": "nhin_an_gian_doan",
+          "required": false,
+          "dataType": "@nhin_an_gian_doan",
+          "value": "$nhin_an_gian_doan",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "37388a48-42b5-4103-94ff-452fbd6d6473",
+          "name": "tac_hai",
+          "required": false,
+          "dataType": "@tac_hai",
+          "value": "$tac_hai",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Ăn theo chế độ nhịn ăn gián đoạn có thể gặp phải tác hại như đói hoặc hạ đường huyết."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

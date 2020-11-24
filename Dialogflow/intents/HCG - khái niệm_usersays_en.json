@@ -1,0 +1,398 @@
+[
+  {
+    "id": "c7465ea9-b356-4aa5-86ac-a5fa6d920ca2",
+    "data": [
+      {
+        "text": "chế ",
+        "userDefined": false
+      },
+      {
+        "text": "độ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ăn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "HCG",
+        "meta": "@hcg",
+        "alias": "hcg",
+        "userDefined": false
+      },
+      {
+        "text": " gồm những gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "af0c62ac-a2de-40f1-aaff-86058b3cb429",
+    "data": [
+      {
+        "text": "định",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nghĩa về chế ",
+        "userDefined": false
+      },
+      {
+        "text": "độ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ăn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "HCG",
+        "meta": "@hcg",
+        "alias": "hcg",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d57051c9-31b9-428c-89cf-6bb05caecfa9",
+    "data": [
+      {
+        "text": "thế nào là chế ",
+        "userDefined": false
+      },
+      {
+        "text": "độ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ăn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "HCG",
+        "meta": "@hcg",
+        "alias": "hcg",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6968c7d0-cd10-473a-98db-b2b124f59b6e",
+    "data": [
+      {
+        "text": "khái niệm của chế ",
+        "userDefined": false
+      },
+      {
+        "text": "độ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ăn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "HCG",
+        "meta": "@hcg",
+        "alias": "hcg",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b9638d35-c220-4ae0-85ac-c147f20b8b8d",
+    "data": [
+      {
+        "text": "khái niệm ",
+        "userDefined": false
+      },
+      {
+        "text": "HCG",
+        "meta": "@hcg",
+        "alias": "hcg",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "349ad777-c539-40e3-8208-eea1ac43a76f",
+    "data": [
+      {
+        "text": "định",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nghĩa ",
+        "userDefined": false
+      },
+      {
+        "text": "HCG",
+        "meta": "@hcg",
+        "alias": "hcg",
+        "userDefined": false
+      },
+      {
+        "text": " là gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "913e435b-cec0-4f1c-8e02-31cb4ae96c48",
+    "data": [
+      {
+        "text": "HCG",
+        "meta": "@hcg",
+        "alias": "hcg",
+        "userDefined": false
+      },
+      {
+        "text": " có phải là một chế ",
+        "userDefined": false
+      },
+      {
+        "text": "độ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ăn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kiêng không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "940559f8-13ff-43c7-a89a-a7cb3ffbdd9d",
+    "data": [
+      {
+        "text": "HCG",
+        "meta": "@hcg",
+        "alias": "hcg",
+        "userDefined": false
+      },
+      {
+        "text": " là chế ",
+        "userDefined": false
+      },
+      {
+        "text": "độ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ăn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " thế nào?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c349424-c1ef-404a-a918-c2a853b85adb",
+    "data": [
+      {
+        "text": "cho mình hỏi ",
+        "userDefined": false
+      },
+      {
+        "text": "HCG",
+        "meta": "@hcg",
+        "alias": "hcg",
+        "userDefined": false
+      },
+      {
+        "text": " là gì thế?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6b0159fe-3fcd-4995-89c7-e19397521080",
+    "data": [
+      {
+        "text": "HCG",
+        "meta": "@hcg",
+        "alias": "hcg",
+        "userDefined": false
+      },
+      {
+        "text": " là gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "719d1be3-b04d-46e3-b08e-1e11f64e8f8d",
+    "data": [
+      {
+        "text": "mình muốn biết thêm về ",
+        "userDefined": false
+      },
+      {
+        "text": "HCG",
+        "meta": "@hcg",
+        "alias": "hcg",
+        "userDefined": false
+      },
+      {
+        "text": " diet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fa8fa6ae-33f3-4e2a-9b21-d96fecda115b",
+    "data": [
+      {
+        "text": "HCG",
+        "meta": "@hcg",
+        "alias": "hcg",
+        "userDefined": false
+      },
+      {
+        "text": " là chế ",
+        "userDefined": false
+      },
+      {
+        "text": "độ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ăn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " như thế nào vậy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

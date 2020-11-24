@@ -1,0 +1,36 @@
+{
+  "id": "7052b074-7a07-47f5-895e-52cc8c5e1806",
+  "parentId": "acbcb369-0b3a-43cd-a2c4-746ce2882e1f",
+  "rootParentId": "658dd707-9066-4465-994a-616912498c84",
+  "name": "Chế độ ăn có/ tăng cân/ giảm cân - Đồng ý thực đơn - Tối",
+  "auto": true,
+  "contexts": [
+    "chn-c-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "dua.ra.thuc.don.bua.toi",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

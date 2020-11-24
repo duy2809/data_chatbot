@@ -1,0 +1,64 @@
+{
+  "id": "c48936a6-83a6-46e3-9922-f0b97eec7c0a",
+  "name": "Paleo - lợi ích",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "78e8da8b-a88b-4e9f-acae-413a482cfda4",
+          "name": "paleo",
+          "required": false,
+          "dataType": "@paleo",
+          "value": "$paleo",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "d3c6a1a6-1960-44ca-810c-bd7e5eeeec8d",
+          "name": "loi_ich",
+          "required": false,
+          "dataType": "@loi_ich",
+          "value": "$loi_ich",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Lợi ích chính của chế độ này là giúp giảm cân hiệu quả, bảo đảm sức khỏe, và giúp hạn chế lượng đường, tinh bột nạp vào cơ thể."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,9 @@
+{
+  "id": "07d44e90-a038-4948-8b2e-65848876062f",
+  "name": "eat_clean",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

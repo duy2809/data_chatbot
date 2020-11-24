@@ -1,0 +1,181 @@
+[
+  {
+    "id": "0870771f-785a-4eff-8827-245f8c6423b6",
+    "data": [
+      {
+        "text": "Mặt xấu",
+        "meta": "@tac_hai",
+        "alias": "tac_hai",
+        "userDefined": true
+      },
+      {
+        "text": " của việc ",
+        "userDefined": false
+      },
+      {
+        "text": "ăn chay",
+        "meta": "@an_chay",
+        "alias": "an_chay",
+        "userDefined": false
+      },
+      {
+        "text": " là gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6da397dd-99c8-4eac-82e8-a75582c6471f",
+    "data": [
+      {
+        "text": "Ăn chay có",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tác hại",
+        "meta": "@tac_hai",
+        "alias": "tac_hai",
+        "userDefined": true
+      },
+      {
+        "text": " không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5565b665-dc28-4027-acfb-3dd68b00ca1e",
+    "data": [
+      {
+        "text": "Ăn chay có ",
+        "userDefined": false
+      },
+      {
+        "text": "tác hại",
+        "meta": "@tac_hai",
+        "alias": "tac_hai",
+        "userDefined": true
+      },
+      {
+        "text": " gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6b1c33d7-81ae-4170-91b3-3c8789992e4c",
+    "data": [
+      {
+        "text": "Cho mình hỏi những ",
+        "userDefined": false
+      },
+      {
+        "text": "tác hại",
+        "meta": "@tac_hai",
+        "alias": "tac_hai",
+        "userDefined": true
+      },
+      {
+        "text": " của việc ",
+        "userDefined": false
+      },
+      {
+        "text": "ăn chay",
+        "meta": "@an_chay",
+        "alias": "an_chay",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "310c56c5-a450-4da2-bc78-65cc6dae6051",
+    "data": [
+      {
+        "text": "Cho mình hỏi các ",
+        "userDefined": false
+      },
+      {
+        "text": "tác hại",
+        "meta": "@tac_hai",
+        "alias": "tac_hai",
+        "userDefined": true
+      },
+      {
+        "text": " của việc ",
+        "userDefined": false
+      },
+      {
+        "text": "ăn chay",
+        "meta": "@an_chay",
+        "alias": "an_chay",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "38a2bfdc-42cb-46b8-8aec-6c591476b640",
+    "data": [
+      {
+        "text": "Cho mình hỏi ",
+        "userDefined": false
+      },
+      {
+        "text": "tác hại",
+        "meta": "@tac_hai",
+        "alias": "tac_hai",
+        "userDefined": true
+      },
+      {
+        "text": " của việc ",
+        "userDefined": false
+      },
+      {
+        "text": "ăn chay",
+        "meta": "@an_chay",
+        "alias": "an_chay",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

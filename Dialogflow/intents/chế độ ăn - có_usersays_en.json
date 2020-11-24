@@ -1,0 +1,42 @@
+[
+  {
+    "id": "2d955aa0-98b2-4f6f-b15a-8a817b098426",
+    "data": [
+      {
+        "text": "ok",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8f6e21d2-d9d6-485e-b1f7-a7a691ce24b1",
+    "data": [
+      {
+        "text": "ok nhé",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "582b8e58-1ca5-4f01-9acf-f88dc1cf439f",
+    "data": [
+      {
+        "text": "Có",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

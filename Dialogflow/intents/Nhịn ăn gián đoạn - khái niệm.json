@@ -1,0 +1,50 @@
+{
+  "id": "7e5ca890-bb08-4e8c-bc27-eef2c367b333",
+  "name": "Nhịn ăn gián đoạn - khái niệm",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "aa3e6dee-9922-4e75-925d-2ee5deb4925a",
+          "name": "nhin_an_gian_doan",
+          "required": false,
+          "dataType": "@nhin_an_gian_doan",
+          "value": "$nhin_an_gian_doan",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Nhịn ăn ngắt đoạn (IF) là một mô hình ăn uống có chu kỳ giữa thời gian nhịn ăn và ăn."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

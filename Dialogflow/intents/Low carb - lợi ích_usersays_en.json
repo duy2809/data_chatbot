@@ -1,0 +1,168 @@
+[
+  {
+    "id": "a0812a12-359e-4ede-9ed9-533bb089edb3",
+    "data": [
+      {
+        "text": "Ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "low carb",
+        "meta": "@low_carb",
+        "alias": "low_carb",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "tốt",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " cho sức khỏe không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b0b9b13a-0abd-4b04-a17f-b9e4d3eb6f0f",
+    "data": [
+      {
+        "text": "Ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "low carb",
+        "meta": "@low_carb",
+        "alias": "low_carb",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "tốt",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1d605df9-35c8-4958-bb7a-1d86661c2435",
+    "data": [
+      {
+        "text": "Chế ",
+        "userDefined": false
+      },
+      {
+        "text": "độ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "low carb",
+        "meta": "@low_carb",
+        "alias": "low_carb",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "tác dụng",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " gì ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d9512659-c486-42ad-b6b7-548a7b5a9985",
+    "data": [
+      {
+        "text": "Lợi ích",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " của ",
+        "userDefined": false
+      },
+      {
+        "text": "lowcarb",
+        "meta": "@low_carb",
+        "alias": "low_carb",
+        "userDefined": false
+      },
+      {
+        "text": " là gì ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4060c648-2d5c-4285-95da-c9947789f84f",
+    "data": [
+      {
+        "text": "Lợi ích",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " của ",
+        "userDefined": false
+      },
+      {
+        "text": "low carb",
+        "meta": "@low_carb",
+        "alias": "low_carb",
+        "userDefined": false
+      },
+      {
+        "text": " là gì ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

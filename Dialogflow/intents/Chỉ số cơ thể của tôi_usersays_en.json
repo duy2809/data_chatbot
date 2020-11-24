@@ -1,0 +1,86 @@
+[
+  {
+    "id": "a0d96bef-2f00-4bbb-b817-cf945f9028d5",
+    "data": [
+      {
+        "text": "Mình có ",
+        "userDefined": false
+      },
+      {
+        "text": "gầy",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "78fb59e4-d1f5-4e63-a27d-f4a7620c35a5",
+    "data": [
+      {
+        "text": "Cơ thể mình có béo ko?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "61e04cb8-3a9d-468c-8231-79fdb6038385",
+    "data": [
+      {
+        "text": "Tình",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " trạng cơ thể ",
+        "userDefined": false
+      },
+      {
+        "text": "mình hiện tại như thế nào",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "88d005b8-94e8-452b-ba54-4b6243f52641",
+    "data": [
+      {
+        "text": "Chỉ ",
+        "userDefined": false
+      },
+      {
+        "text": "số",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " cơ thể mình như thế nào?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

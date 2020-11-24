@@ -1,0 +1,50 @@
+{
+  "id": "3ac08ec3-29b6-4b79-9614-ea3057531735",
+  "name": "Eat clean - khái niệm",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "26634f8e-035a-4561-be1a-627dfd08c20c",
+          "name": "eat_clean",
+          "required": false,
+          "dataType": "@eat_clean",
+          "value": "$eat_clean",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Eat Clean (ăn sạch) là chế độ ăn tránh xa các thực phẩm đóng gói và sử dụng thực phẩm ở “gần với hình thức nguyên thủy của chúng nhất”. Điều này không có nghĩa là tất cả thực phẩm cần phải được ăn sống."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

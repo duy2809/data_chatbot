@@ -1,0 +1,124 @@
+[
+  {
+    "id": "d60d1928-2f2e-4b32-b888-d4f4a1dc2158",
+    "data": [
+      {
+        "text": "BMI",
+        "meta": "@BMI",
+        "alias": "bmi",
+        "userDefined": false
+      },
+      {
+        "text": " là chỉ số gì nhỉ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ee9265c3-34bb-4fca-9f56-fdedce2eb4ff",
+    "data": [
+      {
+        "text": "BMI",
+        "meta": "@BMI",
+        "alias": "bmi",
+        "userDefined": false
+      },
+      {
+        "text": " là cái gì thế bạn?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cfbc6b3a-dd76-40a2-a16a-9a4ae0fe0e57",
+    "data": [
+      {
+        "text": "BMI",
+        "meta": "@BMI",
+        "alias": "bmi",
+        "userDefined": false
+      },
+      {
+        "text": " viết tắt của gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cd9c27b4-4800-4a49-bd86-1630a183c7e7",
+    "data": [
+      {
+        "text": "khái niệm ",
+        "userDefined": false
+      },
+      {
+        "text": "BMI",
+        "meta": "@BMI",
+        "alias": "bmi",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fb9d5f28-e3f9-4eb5-9154-2fa0c029f8f4",
+    "data": [
+      {
+        "text": "định nghĩa ",
+        "userDefined": false
+      },
+      {
+        "text": "BMI",
+        "meta": "@BMI",
+        "alias": "bmi",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "00c09b4a-a3e8-4f0f-81f8-fb446904d481",
+    "data": [
+      {
+        "text": "BMI",
+        "meta": "@BMI",
+        "alias": "bmi",
+        "userDefined": true
+      },
+      {
+        "text": " là gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

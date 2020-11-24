@@ -1,0 +1,64 @@
+{
+  "id": "1e6c8dde-bc79-42c9-809e-0103482464f2",
+  "name": "The zone - lợi ích",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3817a249-a8dd-4adb-865e-ddb9747a8bfa",
+          "name": "the_zone",
+          "required": false,
+          "dataType": "@the_zone",
+          "value": "$the_zone",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "4d5448dc-bc9c-4757-b503-1fb6e63b2430",
+          "name": "loi_ich",
+          "required": false,
+          "dataType": "@loi_ich",
+          "value": "$loi_ich",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Lợi ích của chế độ này là giúp tạo cảm giác no lâu và giúp ăn uống lành mạnh đúng giờ."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

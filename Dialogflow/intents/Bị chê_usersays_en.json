@@ -1,0 +1,172 @@
+[
+  {
+    "id": "dee91e3f-a308-4a55-ade8-9708644f8fd8",
+    "data": [
+      {
+        "text": "đánh nhau ",
+        "userDefined": false
+      },
+      {
+        "text": "ko",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8915ea92-931d-46a6-80a6-a222b36906c4",
+    "data": [
+      {
+        "text": "Hiểu làm sao đc, chán thật",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "26d2c69d-1f2b-4f0a-b9bc-a4459656d35f",
+    "data": [
+      {
+        "text": "sai rồi, chán ghê",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d2fb3e44-5809-4f2d-a54d-df1db56964a1",
+    "data": [
+      {
+        "text": "kém cỏi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "350ece1a-754a-4a96-b041-53fc4d74d373",
+    "data": [
+      {
+        "text": "có thế mà cũng không biết",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bef6217c-29cf-439e-afdf-370bfe86941f",
+    "data": [
+      {
+        "text": "dở",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ghê",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "398d4c50-fbda-4c7a-b2a6-52761b183e1b",
+    "data": [
+      {
+        "text": "ngu thật",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "03722782-9abb-4c1f-b152-cfa6d77f7e49",
+    "data": [
+      {
+        "text": "chả biết gì cả",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9256872a-15b2-4c11-baca-489d9b36a046",
+    "data": [
+      {
+        "text": "ngu ngốc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5cfcd97c-90c6-43dd-bbce-6167d82d2fb2",
+    "data": [
+      {
+        "text": "Trả lời quá tệ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7696cff8-06d0-431f-a49f-9cf3a752e7b3",
+    "data": [
+      {
+        "text": "Bot ngu thế",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ee6db1e7-44fd-49b0-8d2f-eba2dfb312ad",
+    "data": [
+      {
+        "text": "Bạn dốt thế",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

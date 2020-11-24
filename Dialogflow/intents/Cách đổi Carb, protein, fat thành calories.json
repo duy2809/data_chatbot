@@ -1,0 +1,92 @@
+{
+  "id": "d556c4e3-4e58-40eb-b5ee-25cd4cc4ea54",
+  "name": "Cách đổi Carb, protein, fat thành calories",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4d5618a0-1710-4a86-87df-8c43fa66a707",
+          "name": "chat_dam",
+          "required": false,
+          "dataType": "@chat_dam",
+          "value": "$chat_dam",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "86902e4e-48f1-49a7-8c61-1ee904a15723",
+          "name": "chat_beo",
+          "required": false,
+          "dataType": "@chat_beo",
+          "value": "$chat_beo",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "029c6597-79ab-4546-8daf-3d8b6d86e21f",
+          "name": "calories",
+          "required": false,
+          "dataType": "@Calories",
+          "value": "$calories",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "67fb6215-588d-4154-bf54-20e42805a1f4",
+          "name": "carb",
+          "required": false,
+          "dataType": "@carb",
+          "value": "$carb",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "1g carbs \u003d 4 calo, 1g protein \u003d 4 calo, 1g fat \u003d 9 calo nha bạn!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

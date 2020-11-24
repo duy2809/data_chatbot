@@ -1,0 +1,64 @@
+{
+  "id": "1f5c4dad-b8ba-44e0-8a79-686dce0c18c6",
+  "name": "Atkins - tác hại",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5a6f370c-aed3-46fb-a33e-5d78b27cac15",
+          "name": "atkins",
+          "required": false,
+          "dataType": "@atkins",
+          "value": "$atkins",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "d96fc7ee-d7bb-494c-ac15-e36dfc765f86",
+          "name": "tac_hai",
+          "required": false,
+          "dataType": "@tac_hai",
+          "value": "$tac_hai",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Ăn theo chế độ Atkins cần lưu ý những tác hại sau đây: Thiếu hụt dưỡng chất (do chỉ tập trung ăn đạm là chủ yếu); Mất nước; Tăng nguy cơ gout; Tăng cholesterol"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

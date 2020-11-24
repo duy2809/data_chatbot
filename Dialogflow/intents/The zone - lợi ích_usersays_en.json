@@ -1,0 +1,568 @@
+[
+  {
+    "id": "525f8220-e137-4917-bccb-ed93c25a6db2",
+    "data": [
+      {
+        "text": "The zone",
+        "meta": "@the_zone",
+        "alias": "the_zone",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "ích lợi",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " gì không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8f6235ed-3340-4925-b4e9-6e3c08448f12",
+    "data": [
+      {
+        "text": "The zone",
+        "meta": "@the_zone",
+        "alias": "the_zone",
+        "userDefined": false
+      },
+      {
+        "text": " mang lại ",
+        "userDefined": false
+      },
+      {
+        "text": "ích lợi",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5625cf50-571d-4eed-83be-341554e5747f",
+    "data": [
+      {
+        "text": "The zone",
+        "meta": "@the_zone",
+        "alias": "the_zone",
+        "userDefined": false
+      },
+      {
+        "text": " có những ",
+        "userDefined": false
+      },
+      {
+        "text": "lợi ích",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d3a21507-6503-41c9-ab37-0b960127691b",
+    "data": [
+      {
+        "text": "The zone",
+        "meta": "@the_zone",
+        "alias": "the_zone",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "giúp",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " gì cho sức khoẻ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2f923529-10e2-4339-b4a4-fdd12a3d017b",
+    "data": [
+      {
+        "text": "ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "The zone",
+        "meta": "@the_zone",
+        "alias": "the_zone",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tốt",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " như thế nào?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "13c06a51-9d8c-4a0b-b654-2c3ed768f03c",
+    "data": [
+      {
+        "text": "ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "The zone",
+        "meta": "@the_zone",
+        "alias": "the_zone",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tốt",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a543124d-77cd-4db6-9389-ee8d33c9ebdc",
+    "data": [
+      {
+        "text": "ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "The zone",
+        "meta": "@the_zone",
+        "alias": "the_zone",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tốt",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " cho sức khoẻ không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2b0cadcf-3129-46a1-9829-f71ab61509a6",
+    "data": [
+      {
+        "text": "ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "The zone",
+        "meta": "@the_zone",
+        "alias": "the_zone",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "tác dụng",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "426e2deb-97dd-43a0-82ce-1069afefaff0",
+    "data": [
+      {
+        "text": "cho mình hỏi ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "The zone",
+        "meta": "@the_zone",
+        "alias": "the_zone",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "tác dụng",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "92997672-8c53-4074-a698-7f9f668ffb52",
+    "data": [
+      {
+        "text": "cho mình hỏi ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "The zone",
+        "meta": "@the_zone",
+        "alias": "the_zone",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "tốt",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8c79e550-6b20-406b-a226-79967cd825fc",
+    "data": [
+      {
+        "text": "The zone diet",
+        "meta": "@the_zone",
+        "alias": "the_zone",
+        "userDefined": false
+      },
+      {
+        "text": " có các ",
+        "userDefined": false
+      },
+      {
+        "text": "tác dụng",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "338f07c2-0a08-44ca-897f-ecb187e1e62a",
+    "data": [
+      {
+        "text": "The zone diet",
+        "meta": "@the_zone",
+        "alias": "the_zone",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "ích lợi",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d258c91-3b97-4b40-8221-b9cb2f2f1f79",
+    "data": [
+      {
+        "text": "các ",
+        "userDefined": false
+      },
+      {
+        "text": "lợi ích",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " của ",
+        "userDefined": false
+      },
+      {
+        "text": "The zone diet",
+        "meta": "@the_zone",
+        "alias": "the_zone",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bb585217-b1fc-42d9-9a96-655a7d4253f3",
+    "data": [
+      {
+        "text": "lợi ích",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " của ",
+        "userDefined": false
+      },
+      {
+        "text": "The zone diet",
+        "meta": "@the_zone",
+        "alias": "the_zone",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ff233e2f-7cce-4866-9122-920e18ff6d2b",
+    "data": [
+      {
+        "text": "ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "The zone",
+        "meta": "@the_zone",
+        "alias": "the_zone",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "giúp",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " gì cho sức khoẻ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2df64933-b6a7-43bc-ba1d-32f2abbca26b",
+    "data": [
+      {
+        "text": "ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "The zone",
+        "meta": "@the_zone",
+        "alias": "the_zone",
+        "userDefined": false
+      },
+      {
+        "text": " có phải là biện pháp giảm cân ",
+        "userDefined": false
+      },
+      {
+        "text": "tốt",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e3dfe34-8a25-41d1-93d9-b546eba41478",
+    "data": [
+      {
+        "text": "ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "The zone",
+        "meta": "@the_zone",
+        "alias": "the_zone",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "lợi",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "540d9885-51a0-48bd-810e-fa480625a16a",
+    "data": [
+      {
+        "text": "ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "The zone",
+        "meta": "@the_zone",
+        "alias": "the_zone",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "tác dụng",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " gì trong việc giảm cân?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

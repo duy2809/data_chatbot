@@ -1,0 +1,154 @@
+[
+  {
+    "id": "2933c076-541b-4960-9ba7-d7be2387cb8e",
+    "data": [
+      {
+        "text": "Đơn vị ",
+        "userDefined": false
+      },
+      {
+        "text": "đo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cal",
+        "meta": "@Calories",
+        "alias": "calories",
+        "userDefined": false
+      },
+      {
+        "text": " là gì nhỉ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "71ea18d3-f8ae-42b7-a8ec-7a9506962258",
+    "data": [
+      {
+        "text": "Các đơn vị ",
+        "userDefined": false
+      },
+      {
+        "text": "đo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " của ",
+        "userDefined": false
+      },
+      {
+        "text": "Calories",
+        "meta": "@Calories",
+        "alias": "calories",
+        "userDefined": false
+      },
+      {
+        "text": " là gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f6a4071c-863f-46fa-8d1e-8607e42d3403",
+    "data": [
+      {
+        "text": "Kalo",
+        "meta": "@Calories",
+        "alias": "calories",
+        "userDefined": false
+      },
+      {
+        "text": " có đơn vị ",
+        "userDefined": false
+      },
+      {
+        "text": "đo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " của nó là gì bạn?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a7d279f3-d3d9-431f-993e-df2a5d4a3478",
+    "data": [
+      {
+        "text": "Kcal",
+        "meta": "@Calories",
+        "alias": "calories",
+        "userDefined": false
+      },
+      {
+        "text": " có bao nhiêu đơn vị ",
+        "userDefined": false
+      },
+      {
+        "text": "đo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " thế?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "247b991b-4be8-4c6f-b411-9b0cfed9ee48",
+    "data": [
+      {
+        "text": "Có bao nhiêu đơn vị ",
+        "userDefined": false
+      },
+      {
+        "text": "đo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Calories",
+        "meta": "@Calories",
+        "alias": "calories",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

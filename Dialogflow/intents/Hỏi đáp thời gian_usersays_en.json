@@ -1,0 +1,72 @@
+[
+  {
+    "id": "b00b88c8-0c19-4473-a404-bd6066dfbdc7",
+    "data": [
+      {
+        "text": "mấy",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " giờ rồi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be742eb7-aeef-4f64-86a6-c6f4a81eb667",
+    "data": [
+      {
+        "text": "cho mình hỏi ",
+        "userDefined": false
+      },
+      {
+        "text": "thời gian",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4e1fc8b0-16d5-46a6-b065-ec1cca02c544",
+    "data": [
+      {
+        "text": "Bây",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " giờ là ",
+        "userDefined": false
+      },
+      {
+        "text": "mấy giờ",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      },
+      {
+        "text": " rồi ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

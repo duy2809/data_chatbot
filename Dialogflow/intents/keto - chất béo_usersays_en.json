@@ -1,0 +1,54 @@
+[
+  {
+    "id": "c6479d5d-3028-40ed-93bc-8a76e9e443cd",
+    "data": [
+      {
+        "text": "Sao lại ",
+        "userDefined": false
+      },
+      {
+        "text": "duy trì chất béo",
+        "meta": "@keto",
+        "alias": "keto",
+        "userDefined": false
+      },
+      {
+        "text": " vậy nhỉ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9409fda4-2a65-4c5d-b4b7-c47f698ece15",
+    "data": [
+      {
+        "text": "giảm tinh bột ăn chất béo",
+        "meta": "@keto",
+        "alias": "keto",
+        "userDefined": false
+      },
+      {
+        "text": " như vậy có ",
+        "userDefined": false
+      },
+      {
+        "text": "tốt",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

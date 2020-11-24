@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c68a1aa0-2cba-4efd-b65a-3452fd777872",
+    "data": [
+      {
+        "text": "không cần",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0fae08dd-23cb-4a9b-bb9b-cb4dd1e2d0b3",
+    "data": [
+      {
+        "text": "thôi nhé",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0414e67a-8a35-4131-b351-783322d0c366",
+    "data": [
+      {
+        "text": "không",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

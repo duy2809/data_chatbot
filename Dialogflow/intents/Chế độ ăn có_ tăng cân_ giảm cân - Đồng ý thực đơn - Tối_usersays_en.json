@@ -1,0 +1,47 @@
+[
+  {
+    "id": "7ad8375f-ff49-4d36-8880-5d627190c093",
+    "data": [
+      {
+        "text": "Tối",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "65879047-07fc-432d-875e-c9e6b7b905ba",
+    "data": [
+      {
+        "text": "Bữa tối",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1451534e-fbc8-43c5-8d66-c313a851a5c5",
+    "data": [
+      {
+        "text": "Buổi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tối bạn nhé",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

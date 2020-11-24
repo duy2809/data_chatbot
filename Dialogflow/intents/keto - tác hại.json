@@ -1,0 +1,64 @@
+{
+  "id": "0cefe0ea-ecab-4ab3-8101-b9e4fcf4f477",
+  "name": "keto - tác hại",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "130ae471-e9c0-4562-9fe0-a010e4108f32",
+          "name": "tac_hai",
+          "required": false,
+          "dataType": "@tac_hai",
+          "value": "$tac_hai",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "e5297fde-73db-46c1-9e2c-9b9063ea2efc",
+          "name": "keto",
+          "required": false,
+          "dataType": "@keto",
+          "value": "$keto",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Theo các bác sĩ dinh dưỡng, ăn uống theo chế độ keto tuy giải quyết được việc giảm bớt năng lượng đưa vào cơ thể, có thể giảm cân nhanh chóng tuy nhiên đây là cách giảm cân không bền vững và có thể gây hại cho sức khỏe. Chế độ ăn với quá nhiều chất béo và hạn chế tối đa tinh bột làm ảnh hưởng rất lớn đến quá trình chuyển hóa, làm giảm đi năng lượng hoạt động của não bộ, ngoài ra còn khiến cơ thể gặp các vấn đề như táo bón, tiêu chảy…"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

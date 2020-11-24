@@ -1,0 +1,100 @@
+[
+  {
+    "id": "a169d0a8-a2bb-40be-ac3b-e24588c12d0e",
+    "data": [
+      {
+        "text": "Cân nặng và chiều cao của mình là bao nhiêu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "49ff6e5b-a2af-46de-92db-1df3261a10ef",
+    "data": [
+      {
+        "text": "Chiều cao cân nặng của mì",
+        "userDefined": false
+      },
+      {
+        "text": "nh là bao nhiêu thế",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " bot?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "60d464d2-8fa7-4d15-ba05-cbd66796c67d",
+    "data": [
+      {
+        "text": "Chiều cao",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " của tôi là bao nhiêu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d19408ad-bb05-43b5-aee6-b28bfc5b1893",
+    "data": [
+      {
+        "text": "Cân nặng",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " của tôi là bao nhiêu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6c3a83db-41a2-424c-973e-5ab93c91fb11",
+    "data": [
+      {
+        "text": "Chiều cao",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cân nặng",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " của tôi là bao nhiêu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

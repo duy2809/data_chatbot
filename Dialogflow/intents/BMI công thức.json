@@ -1,0 +1,65 @@
+{
+  "id": "52bf444c-3f1b-4413-9482-e6c8f4a1a4f0",
+  "name": "BMI công thức",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "522c76a9-e0e3-4d5a-a4f4-75f466823e13",
+          "name": "bmi",
+          "required": false,
+          "dataType": "@BMI",
+          "value": "$bmi",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "1ae4f242-4a28-4835-b067-2db673008ca3",
+          "name": "cong_thuc_tinh",
+          "required": false,
+          "dataType": "@cong_thuc_tinh",
+          "value": "$cong_thuc_tinh",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Chỉ số khối cơ thể được tính theo công thức: BMI \u003d Cân nặng/ [(Chiều cao)^2], Trong đó BMI đơn vị thường dùng là kg/m^2, cân nặng tính theo kg và chiều cao tính theo m",
+            "BMI \u003d (trọng lượng cơ thể ) / (chiều cao x chiều cao). Trong đó trọng lượng cơ thể (Cân nặng) được tính bằng kg và chiều cao được tính bằng m."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

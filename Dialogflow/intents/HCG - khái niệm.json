@@ -1,0 +1,50 @@
+{
+  "id": "7c4ad0b2-2321-4ec1-9342-a959285edefe",
+  "name": "HCG - khái niệm",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "afd5e2f2-1309-479a-8f6b-4daa1bcfab9f",
+          "name": "hcg",
+          "required": false,
+          "dataType": "@hcg",
+          "value": "$hcg",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "HCG, viết tắt của hoóc-môn màng đệm ở người (human chorionic gonadotropin), là một hoóc-môn có ở mức cao trong giai đoạn đầu của thai kỳ. Một bác sĩ người Anh tên là Albert Simeons đã đề xuất dùng HCG như một công cụ giảm cân vào năm 1954. Chế độ ăn kiêng của ông gồm có hai thành phần chính: Chế độ ăn kiêng với lượng calo cực kỳ thấp với khoảng 500 calo mỗi ngày và Cung cấp hoóc-môn HCG bằng cách tiêm vào cơ thể."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,325 @@
+[
+  {
+    "id": "df8ba055-5cf4-4b1c-b19a-16175054cb09",
+    "data": [
+      {
+        "text": "Paleo",
+        "meta": "@paleo",
+        "alias": "paleo",
+        "userDefined": false
+      },
+      {
+        "text": " là gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9f657d43-1c57-4577-a742-b5741fa8f5f5",
+    "data": [
+      {
+        "text": "chế ",
+        "userDefined": false
+      },
+      {
+        "text": "độ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "Paleo",
+        "meta": "@paleo",
+        "alias": "paleo",
+        "userDefined": false
+      },
+      {
+        "text": " gồm những gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "227a70e2-4374-425f-b051-667d5cae5d73",
+    "data": [
+      {
+        "text": "định nghĩa về chế ",
+        "userDefined": false
+      },
+      {
+        "text": "độ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "Paleo",
+        "meta": "@paleo",
+        "alias": "paleo",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "98f3546a-339f-4684-9fd0-4a0e98e2dd08",
+    "data": [
+      {
+        "text": "thế nào là chế ",
+        "userDefined": false
+      },
+      {
+        "text": "độ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "Paleo",
+        "meta": "@paleo",
+        "alias": "paleo",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "852efff0-fd51-44dc-ad6a-063a3ec19676",
+    "data": [
+      {
+        "text": "khái niệm của chế ",
+        "userDefined": false
+      },
+      {
+        "text": "độ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "Paleo",
+        "meta": "@paleo",
+        "alias": "paleo",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e4e1af9-dbd5-466b-9282-8aa4372726a0",
+    "data": [
+      {
+        "text": "khái niệm ",
+        "userDefined": false
+      },
+      {
+        "text": "Paleo",
+        "meta": "@paleo",
+        "alias": "paleo",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "953fd3ac-546c-42cb-ba4e-302815722c4b",
+    "data": [
+      {
+        "text": "định nghĩa ",
+        "userDefined": false
+      },
+      {
+        "text": "Paleo",
+        "meta": "@paleo",
+        "alias": "paleo",
+        "userDefined": false
+      },
+      {
+        "text": " là gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b7b70afd-3eac-431b-95b0-a5c216939dd5",
+    "data": [
+      {
+        "text": "Paleo",
+        "meta": "@paleo",
+        "alias": "paleo",
+        "userDefined": false
+      },
+      {
+        "text": " có phải là một chế ",
+        "userDefined": false
+      },
+      {
+        "text": "độ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ăn kiêng không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7e73b7a2-c022-446e-b3bc-4408e922c560",
+    "data": [
+      {
+        "text": "Paleo",
+        "meta": "@paleo",
+        "alias": "paleo",
+        "userDefined": false
+      },
+      {
+        "text": " là chế ",
+        "userDefined": false
+      },
+      {
+        "text": "độ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ăn thế nào?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2043ae35-57a9-4f60-a505-25963cf5bbf2",
+    "data": [
+      {
+        "text": "cho mình hỏi ",
+        "userDefined": false
+      },
+      {
+        "text": "Paleo",
+        "meta": "@paleo",
+        "alias": "paleo",
+        "userDefined": false
+      },
+      {
+        "text": " là gì thế?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aacd4151-5450-439a-b9f7-40f673bfa9aa",
+    "data": [
+      {
+        "text": "mình muốn biết thêm về ",
+        "userDefined": false
+      },
+      {
+        "text": "Paleo",
+        "meta": "@paleo",
+        "alias": "paleo",
+        "userDefined": false
+      },
+      {
+        "text": " diet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3da70453-7eef-483f-aed7-09abe4b87bb9",
+    "data": [
+      {
+        "text": "Paleo",
+        "meta": "@paleo",
+        "alias": "paleo",
+        "userDefined": false
+      },
+      {
+        "text": " là chế ",
+        "userDefined": false
+      },
+      {
+        "text": "độ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ăn như thế nào vậy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

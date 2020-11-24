@@ -1,0 +1,36 @@
+{
+  "id": "d19a52c4-9767-4a2f-a7d3-90ae0bfa552e",
+  "parentId": "acbcb369-0b3a-43cd-a2c4-746ce2882e1f",
+  "rootParentId": "658dd707-9066-4465-994a-616912498c84",
+  "name": "Hỏi tăng cân/ giảm cân - Đồng ý thực đơn - Trưa",
+  "auto": true,
+  "contexts": [
+    "chn-c-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "dua.ra.thuc.don.bua.trua",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,65 @@
+{
+  "id": "62705deb-3239-450d-88f0-1fdece349719",
+  "name": "keto - chất béo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6c466daa-e5f8-411d-9afa-1d5deb2ef8fa",
+          "name": "keto",
+          "required": false,
+          "dataType": "@keto",
+          "value": "$keto",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "97c9d2a2-ee8d-45c4-9a5a-3a2dbc006279",
+          "name": "loi_ich",
+          "required": false,
+          "dataType": "@loi_ich",
+          "value": "$loi_ich",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Khi bạn đang trong chế độ này, nó sẽ đốt chất béo tạo thành năng lượng, đồng thời nó cũng chuyển chất béo trong gan thành xeton cung cấp năng lượng cho não.",
+            "Khi bạn trong chế độ này chất béo sẽ bị đốt tạo thành năng lượng cho cơ thể, chất béo trong gan cũng tạo thành các xeton cung cấp năng lượng cho não nên rất tốt!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

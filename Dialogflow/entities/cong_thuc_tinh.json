@@ -1,0 +1,9 @@
+{
+  "id": "e00f30a1-643a-443f-8fca-fe1734817dab",
+  "name": "cong_thuc_tinh",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

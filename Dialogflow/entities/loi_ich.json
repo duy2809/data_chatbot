@@ -1,0 +1,9 @@
+{
+  "id": "1745da43-4831-4245-8fef-93f2ec2a74d2",
+  "name": "loi_ich",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

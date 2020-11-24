@@ -1,0 +1,50 @@
+{
+  "id": "7124b3b6-56bd-4d1f-9de0-411b7dfe8d55",
+  "name": "low-fat khái niệm",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8aa0058c-d82d-4f5f-9dae-fc0ec367401b",
+          "name": "low_fat",
+          "required": false,
+          "dataType": "@low_fat",
+          "value": "$low_fat",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Low-fat là chế độ ăn kiêng giảm cân bằng cách cắt năng lượng calo cần cho cơ thể mỗi ngày để ép cơ thể sử dụng năng lượng tích trỡ (mỡ)."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

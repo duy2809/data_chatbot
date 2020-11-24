@@ -1,0 +1,102 @@
+{
+  "id": "8eff2143-0039-4a00-bc98-5ef4b34528d1",
+  "name": "Tra cứu dinh dưỡng thực phẩm",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "tra.cuu.dinh.duong",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4d521c99-0181-493b-ac8b-86ccd0c84b5d",
+          "name": "cong_thuc_tinh",
+          "required": false,
+          "dataType": "@cong_thuc_tinh",
+          "value": "$cong_thuc_tinh",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "62d3a5fc-1b89-454a-a9bd-dff5d381b2e7",
+          "name": "calories",
+          "required": false,
+          "dataType": "@Calories",
+          "value": "$calories",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "615fb943-8be7-4e08-a36e-15059379eb32",
+          "name": "so_luong",
+          "required": false,
+          "dataType": "@ten_so_luong",
+          "value": "$so_luong",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Bạn muốn tính cho bao nhiêu quả?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "b99cc69e-558d-4dd5-9f79-aba496b0cd72",
+          "name": "ten_thuc_pham",
+          "required": true,
+          "dataType": "@ten_thuc_pham",
+          "value": "$ten_thuc_pham",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Oke. Bạn muốn tra cứu cho loại thực phẩm nào nhỉ?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Xin lỗi bạn, đã xảy ra lỗi kết nối server hoặc nền tảng của bạn không được hỗ trợ. Mình sẽ báo cho team kĩ thuật để fix ngay bạn nha! :P"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 750000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

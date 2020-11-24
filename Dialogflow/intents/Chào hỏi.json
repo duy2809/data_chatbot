@@ -1,0 +1,89 @@
+{
+  "id": "091dfa5e-6f81-4801-8d92-94e58103f32e",
+  "name": "Chào hỏi",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c0ee5bb0-f513-4c08-848b-4320a531bda4",
+          "name": "ten",
+          "required": false,
+          "dataType": "@ten",
+          "value": "$ten",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Chào bạn! Cho hỏi bạn tên là gì ạ?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "4d186fd5-5419-4dde-9f76-73b2a6a3b90f",
+          "name": "ho",
+          "required": false,
+          "dataType": "@ho",
+          "value": "$ho",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "facebook",
+          "title": "Mình gợi ý cho bạn các chức năng mình có nè:",
+          "replies": [
+            "Tính chỉ số BMI",
+            "Hôm nay ăn gì?",
+            "Giải đáp Q\u0026A"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Xin lỗi bạn, đã xảy ra lỗi kết nối server hoặc nền tảng của bạn không được hỗ trợ. Mình sẽ báo cho team kĩ thuật để fix ngay bạn nha! :P"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

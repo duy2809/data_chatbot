@@ -1,0 +1,9 @@
+{
+  "id": "e04d6d98-21ea-46a6-9708-df85f794a010",
+  "name": "atkins",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

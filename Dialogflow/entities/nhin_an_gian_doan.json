@@ -1,0 +1,9 @@
+{
+  "id": "681919dc-45e1-46dc-96c8-085e05b0ae5c",
+  "name": "nhin_an_gian_doan",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

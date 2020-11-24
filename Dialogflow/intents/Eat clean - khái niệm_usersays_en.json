@@ -1,0 +1,398 @@
+[
+  {
+    "id": "f271a336-3790-443b-9919-538c21d01cb1",
+    "data": [
+      {
+        "text": "eat clean",
+        "meta": "@eat_clean",
+        "alias": "eat_clean",
+        "userDefined": false
+      },
+      {
+        "text": " là gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c660e636-1616-44ac-84e0-8ff560f3d5e7",
+    "data": [
+      {
+        "text": "chế ",
+        "userDefined": false
+      },
+      {
+        "text": "độ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ăn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "eat clean",
+        "meta": "@eat_clean",
+        "alias": "eat_clean",
+        "userDefined": false
+      },
+      {
+        "text": " gồm những gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9874eb02-49c8-4d6b-a765-83e0a54da33e",
+    "data": [
+      {
+        "text": "định",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nghĩa về chế ",
+        "userDefined": false
+      },
+      {
+        "text": "độ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ăn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "eat clean",
+        "meta": "@eat_clean",
+        "alias": "eat_clean",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "526f7dac-3dd3-4f07-922f-11f91ddada66",
+    "data": [
+      {
+        "text": "thế nào là chế ",
+        "userDefined": false
+      },
+      {
+        "text": "độ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ăn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "eat clean",
+        "meta": "@eat_clean",
+        "alias": "eat_clean",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb6fbe59-bad8-4c83-b890-40edf28bc2fe",
+    "data": [
+      {
+        "text": "khái niệm của chế ",
+        "userDefined": false
+      },
+      {
+        "text": "độ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ăn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "eat clean",
+        "meta": "@eat_clean",
+        "alias": "eat_clean",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3bea52f2-f8b5-432f-807c-2ae1a08731dd",
+    "data": [
+      {
+        "text": "khái niệm ",
+        "userDefined": false
+      },
+      {
+        "text": "eat clean",
+        "meta": "@eat_clean",
+        "alias": "eat_clean",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "08c0f440-dc55-4c41-ac21-ecf774d16de5",
+    "data": [
+      {
+        "text": "định",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nghĩa ",
+        "userDefined": false
+      },
+      {
+        "text": "eat clean",
+        "meta": "@eat_clean",
+        "alias": "eat_clean",
+        "userDefined": false
+      },
+      {
+        "text": " là gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "21c8249a-6f83-4e1c-bb25-f1a30ded5922",
+    "data": [
+      {
+        "text": "eat clean",
+        "meta": "@eat_clean",
+        "alias": "eat_clean",
+        "userDefined": false
+      },
+      {
+        "text": " có phải là một chế ",
+        "userDefined": false
+      },
+      {
+        "text": "độ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ăn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kiêng không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c016df75-35c8-4383-88d0-1a24ab29bdc0",
+    "data": [
+      {
+        "text": "eat clean",
+        "meta": "@eat_clean",
+        "alias": "eat_clean",
+        "userDefined": false
+      },
+      {
+        "text": " là chế ",
+        "userDefined": false
+      },
+      {
+        "text": "độ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ăn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " thế nào?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6bda9eea-be87-4df0-9b19-118100cbb9b7",
+    "data": [
+      {
+        "text": "cho mình hỏi ",
+        "userDefined": false
+      },
+      {
+        "text": "eat clean",
+        "meta": "@eat_clean",
+        "alias": "eat_clean",
+        "userDefined": false
+      },
+      {
+        "text": " là gì thế?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a21f765-c752-4b14-9db3-ac774689f053",
+    "data": [
+      {
+        "text": "mình muốn biết thêm về ",
+        "userDefined": false
+      },
+      {
+        "text": "eat clean",
+        "meta": "@eat_clean",
+        "alias": "eat_clean",
+        "userDefined": false
+      },
+      {
+        "text": " diet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e2c4e731-6307-407f-81f1-62417399ffc9",
+    "data": [
+      {
+        "text": "eat clean",
+        "meta": "@eat_clean",
+        "alias": "eat_clean",
+        "userDefined": false
+      },
+      {
+        "text": " là chế ",
+        "userDefined": false
+      },
+      {
+        "text": "độ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ăn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " như thế nào vậy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

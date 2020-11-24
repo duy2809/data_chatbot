@@ -1,0 +1,9 @@
+{
+  "id": "5db2d6f7-3b7e-499e-ad83-85ae76a70947",
+  "name": "Calories",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,50 @@
+{
+  "id": "ffa68feb-b776-4e1b-96bf-d4f82c534959",
+  "name": "Calories khái niệm",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ef5705fa-9c4b-4e25-8a14-1a4204e510b3",
+          "name": "calories",
+          "required": false,
+          "dataType": "@Calories",
+          "value": "$calories",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Calo là 1 đơn vị đo năng lượng. Bạn sử dụng lượng calo trong đồ ăn, thức uống nạp vào để thực hiện các chức năng thiết yếu của cơ thể như hít thở, đi đứng, vận động, nói chuyện, ăn uống, suy nghĩ..."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,337 @@
+[
+  {
+    "id": "c87e38fa-41f5-4ff6-bdcd-bd96790e9465",
+    "data": [
+      {
+        "text": "ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "low-fat",
+        "meta": "@low_fat",
+        "alias": "low_fat",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "làm giảm sức khoẻ",
+        "meta": "@tac_hai",
+        "alias": "tac_hai",
+        "userDefined": false
+      },
+      {
+        "text": " không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d253a0dd-4db1-45cc-9752-0fc845c8eb45",
+    "data": [
+      {
+        "text": "ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "low-fat",
+        "meta": "@low_fat",
+        "alias": "low_fat",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ảnh hưởng xấu đến",
+        "meta": "@tac_hai",
+        "alias": "tac_hai",
+        "userDefined": false
+      },
+      {
+        "text": " sức khoẻ không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9227ca3e-e105-4970-b256-07598b364af7",
+    "data": [
+      {
+        "text": "cho mình hỏi những ",
+        "userDefined": false
+      },
+      {
+        "text": "tác hại",
+        "meta": "@tac_hai",
+        "alias": "tac_hai",
+        "userDefined": false
+      },
+      {
+        "text": " của việc ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "low-fat",
+        "meta": "@low_fat",
+        "alias": "low_fat",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "095bf874-d180-4553-96bb-f4dffa812dd1",
+    "data": [
+      {
+        "text": "cho mình hỏi các ",
+        "userDefined": false
+      },
+      {
+        "text": "tác hại",
+        "meta": "@tac_hai",
+        "alias": "tac_hai",
+        "userDefined": false
+      },
+      {
+        "text": " của việc ăn theo ",
+        "userDefined": false
+      },
+      {
+        "text": "low-fat",
+        "meta": "@low_fat",
+        "alias": "low_fat",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a0a778f6-eba3-4800-85d5-055d87730528",
+    "data": [
+      {
+        "text": "cho mình hỏi ",
+        "userDefined": false
+      },
+      {
+        "text": "tác hại",
+        "meta": "@tac_hai",
+        "alias": "tac_hai",
+        "userDefined": false
+      },
+      {
+        "text": " của việc ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "low-fat",
+        "meta": "@low_fat",
+        "alias": "low_fat",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1cbda8ac-b59c-47f1-97b1-1e8f67a188c0",
+    "data": [
+      {
+        "text": "ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "low-fat",
+        "meta": "@low_fat",
+        "alias": "low_fat",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "tác hại",
+        "meta": "@tac_hai",
+        "alias": "tac_hai",
+        "userDefined": false
+      },
+      {
+        "text": " không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "447803d1-4f40-4b37-9996-a39b7bb81db5",
+    "data": [
+      {
+        "text": "ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "low-fat",
+        "meta": "@low_fat",
+        "alias": "low_fat",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "tác hại",
+        "meta": "@tac_hai",
+        "alias": "tac_hai",
+        "userDefined": false
+      },
+      {
+        "text": " gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b144b773-aa34-4e29-a962-fd912c68a019",
+    "data": [
+      {
+        "text": "ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "low-fat",
+        "meta": "@low_fat",
+        "alias": "low_fat",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "hại",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gì không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "71a2464a-debc-4650-a7c8-74bca7a99e02",
+    "data": [
+      {
+        "text": "ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "low-fat",
+        "meta": "@low_fat",
+        "alias": "low_fat",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "ảnh hưởng tiêu cực",
+        "meta": "@tac_hai",
+        "alias": "tac_hai",
+        "userDefined": false
+      },
+      {
+        "text": " gì đến sức khoẻ không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6dc4a9b8-b9cb-4371-a2c1-f8b9bce97930",
+    "data": [
+      {
+        "text": "low-fat",
+        "meta": "@low_fat",
+        "alias": "low_fat",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "tác dụng phụ",
+        "meta": "@tac_hai",
+        "alias": "tac_hai",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bất lợi",
+        "meta": "@tac_hai",
+        "alias": "tac_hai",
+        "userDefined": false
+      },
+      {
+        "text": " gì không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

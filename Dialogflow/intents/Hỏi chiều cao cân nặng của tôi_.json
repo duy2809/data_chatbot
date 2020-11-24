@@ -1,0 +1,65 @@
+{
+  "id": "18f80d43-2eee-4ef3-a814-69f79e5f7dba",
+  "name": "Hỏi chiều cao cân nặng của tôi?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9715bd77-3513-46bc-9875-2f6c7c546613",
+          "name": "chieu_cao",
+          "required": false,
+          "dataType": "",
+          "value": "#info.chieu_cao",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "a4a0f5f0-6b55-4969-8700-6e1e5195b359",
+          "name": "can_nang",
+          "required": false,
+          "dataType": "",
+          "value": "#info.can_nang",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Chiều cao của bạn là #info.chieu_cao m, cân nặng của bạn là #info.can_nang kg",
+            "Bạn cao #info.chieu_cao m, nặng #info.can_nang kg bạn nhé!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

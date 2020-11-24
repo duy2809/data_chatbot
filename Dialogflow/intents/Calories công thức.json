@@ -1,0 +1,64 @@
+{
+  "id": "3f4707eb-c6f8-41db-a8da-71b8dd859cf7",
+  "name": "Calories công thức",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ada2c004-594b-4a46-90d2-b6ae18f502b0",
+          "name": "cong_thuc_tinh",
+          "required": false,
+          "dataType": "@cong_thuc_tinh",
+          "value": "$cong_thuc_tinh",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "c782a0f3-4dad-426c-86c4-5ae83b951415",
+          "name": "calories",
+          "required": false,
+          "dataType": "@Calories",
+          "value": "$calories",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Trong thực phẩm Calo là kết hợp của 3 khối lượng: chất béo, carbohydrate, và Protein. Trong phòng thí nghiệm, khi đo lường năng lượng được đốt cháy, người ta xác định rằng: 1g carbohydrate giải phóng 4 calo (kcal), 1g protein giải phóng 4 calo (kcal), 1g chất béo giải phóng 9 calo (kcal). Nhờ vậy, khi biết trong thực phẩm có chứa hàm lượng protein, chất béo và carbohydrate bạn đã tính được thực phẩm đó có bao nhiêu calo rồi đấy."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

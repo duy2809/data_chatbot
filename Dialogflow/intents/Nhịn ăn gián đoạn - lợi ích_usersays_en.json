@@ -1,0 +1,507 @@
+[
+  {
+    "id": "a0ad6a9e-d39f-4c7f-a75b-2a8c54fee210",
+    "data": [
+      {
+        "text": "nhịn ăn gián đoạn",
+        "meta": "@nhin_an_gian_doan",
+        "alias": "nhin_an_gian_doan",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "ích lợi",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " gì không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e749782c-ad73-4a36-8ebb-eb035f743558",
+    "data": [
+      {
+        "text": "nhịn ăn gián đoạn",
+        "meta": "@nhin_an_gian_doan",
+        "alias": "nhin_an_gian_doan",
+        "userDefined": false
+      },
+      {
+        "text": " mang lại ",
+        "userDefined": false
+      },
+      {
+        "text": "ích lợi",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6965f886-066f-4102-bbc3-84b73b07be92",
+    "data": [
+      {
+        "text": "nhịn ăn gián đoạn",
+        "meta": "@nhin_an_gian_doan",
+        "alias": "nhin_an_gian_doan",
+        "userDefined": false
+      },
+      {
+        "text": " có những ",
+        "userDefined": false
+      },
+      {
+        "text": "lợi ích",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dabc4cf5-ce0e-4e50-80e5-e50d09afa8e9",
+    "data": [
+      {
+        "text": "nhịn ăn gián đoạn",
+        "meta": "@nhin_an_gian_doan",
+        "alias": "nhin_an_gian_doan",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "giúp",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " gì cho sức khoẻ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "66565f8b-a881-48ac-a0ea-e0125fe22b9f",
+    "data": [
+      {
+        "text": "nhịn ăn gián đoạn",
+        "meta": "@nhin_an_gian_doan",
+        "alias": "nhin_an_gian_doan",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tốt",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " như thế nào?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d1ae550c-b799-4dcf-9dbc-9ec633ef8b60",
+    "data": [
+      {
+        "text": "nhịn ăn gián đoạn",
+        "meta": "@nhin_an_gian_doan",
+        "alias": "nhin_an_gian_doan",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tốt",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "03f23a62-8ca2-4b2d-88d5-c46541a705ef",
+    "data": [
+      {
+        "text": "nhịn ăn gián đoạn",
+        "meta": "@nhin_an_gian_doan",
+        "alias": "nhin_an_gian_doan",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tốt",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " cho sức khoẻ không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "04748e26-68ae-4b59-9af8-a2ee9ba75a38",
+    "data": [
+      {
+        "text": "nhịn ăn gián đoạn",
+        "meta": "@nhin_an_gian_doan",
+        "alias": "nhin_an_gian_doan",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "tác dụng",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a06a8fb-b71a-4904-9af6-8df9a668fac6",
+    "data": [
+      {
+        "text": "cho mình hỏi ",
+        "userDefined": false
+      },
+      {
+        "text": "nhịn ăn gián đoạn",
+        "meta": "@nhin_an_gian_doan",
+        "alias": "nhin_an_gian_doan",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "tác dụng",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "db787627-95bc-4036-b8b4-95b8946fb592",
+    "data": [
+      {
+        "text": "cho mình hỏi ",
+        "userDefined": false
+      },
+      {
+        "text": "nhịn ăn gián đoạn",
+        "meta": "@nhin_an_gian_doan",
+        "alias": "nhin_an_gian_doan",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "tốt",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7fe249c5-8923-44fa-8b5a-33590feb1321",
+    "data": [
+      {
+        "text": "nhịn ăn gián đoạn",
+        "meta": "@nhin_an_gian_doan",
+        "alias": "nhin_an_gian_doan",
+        "userDefined": false
+      },
+      {
+        "text": " có các ",
+        "userDefined": false
+      },
+      {
+        "text": "tác dụng",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5ec06df3-0d89-4112-828c-79df8187a69d",
+    "data": [
+      {
+        "text": "nhịn ăn gián đoạn",
+        "meta": "@nhin_an_gian_doan",
+        "alias": "nhin_an_gian_doan",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "ích lợi",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a19b02c7-18fb-4730-97fb-487d0adc2c1b",
+    "data": [
+      {
+        "text": "các ",
+        "userDefined": false
+      },
+      {
+        "text": "lợi ích",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " của ",
+        "userDefined": false
+      },
+      {
+        "text": "nhịn ăn gián đoạn",
+        "meta": "@nhin_an_gian_doan",
+        "alias": "nhin_an_gian_doan",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1d21e792-c917-44cd-bed7-848eef34b95a",
+    "data": [
+      {
+        "text": "lợi ích",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " của việc ",
+        "userDefined": false
+      },
+      {
+        "text": "nhịn ăn gián đoạn",
+        "meta": "@nhin_an_gian_doan",
+        "alias": "nhin_an_gian_doan",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4df0de19-6ace-4c7f-9db9-09e266ef6a09",
+    "data": [
+      {
+        "text": "nhịn ăn gián đoạn",
+        "meta": "@nhin_an_gian_doan",
+        "alias": "nhin_an_gian_doan",
+        "userDefined": false
+      },
+      {
+        "text": " có phải là biện pháp giảm cân ",
+        "userDefined": false
+      },
+      {
+        "text": "tốt",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "206b1b71-9437-4f2d-aed5-7bf2fe6f3f1e",
+    "data": [
+      {
+        "text": "nhịn ăn gián đoạn",
+        "meta": "@nhin_an_gian_doan",
+        "alias": "nhin_an_gian_doan",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "lợi",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "83cdb8cd-3de9-46be-bad8-2955b6a0a7a4",
+    "data": [
+      {
+        "text": "nhịn ăn gián đoạn",
+        "meta": "@nhin_an_gian_doan",
+        "alias": "nhin_an_gian_doan",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "tác dụng",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " gì trong việc giảm cân?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

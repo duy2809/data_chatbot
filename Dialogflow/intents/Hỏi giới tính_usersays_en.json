@@ -1,0 +1,64 @@
+[
+  {
+    "id": "9e95a4b9-fcda-4718-9269-7f39d04167b4",
+    "data": [
+      {
+        "text": "tôi là con ",
+        "userDefined": false
+      },
+      {
+        "text": "trai",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hay ",
+        "userDefined": false
+      },
+      {
+        "text": "gái",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c3c6dc9-48d2-4f8c-83d0-25c190ca653e",
+    "data": [
+      {
+        "text": "Tôi là ",
+        "userDefined": false
+      },
+      {
+        "text": "nam",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hay ",
+        "userDefined": false
+      },
+      {
+        "text": "nữ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,55 @@
+{
+  "id": "15b67b7c-4018-46b4-9699-a1b167326ac1",
+  "name": "Atkins - khái niệm",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Atkins-khinim-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "ce7c4d66-a762-4222-901c-da42da1438d9",
+          "name": "atkins",
+          "required": false,
+          "dataType": "@atkins",
+          "value": "$atkins",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Atkins - một chế độ ăn uống thường gặp tập trung vào giảm lượng carbohydrate trong khi ăn nhiều thức ăn giàu đạm"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

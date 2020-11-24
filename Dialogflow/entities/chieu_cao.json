@@ -1,0 +1,9 @@
+{
+  "id": "cb2cccb1-0ed5-4aa1-9fc5-304a4a0ca8da",
+  "name": "chieu_cao",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

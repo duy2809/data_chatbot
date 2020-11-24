@@ -1,0 +1,64 @@
+{
+  "id": "1392e9f3-e6a6-4b45-9124-4a2febd236ab",
+  "name": "Low-fat - lợi ích",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5fc5dd15-b8b7-46ec-a6e1-4e82f741ae60",
+          "name": "low_fat",
+          "required": false,
+          "dataType": "@low_fat",
+          "value": "$low_fat",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "95369ccd-4fed-4994-ba32-107bdca927e7",
+          "name": "loi_ich",
+          "required": false,
+          "dataType": "@loi_ich",
+          "value": "$loi_ich",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Lợi ích của chế độ low-fat bao gồm: Không gây quá nhiều tác dụng phụ và được khuyên áp dụng cho các bệnh nhân béo phì; Thực đơn lành mạnh với nhiều chất xơ và năng lượng; Hạn chế các bệnh về tim mạch, mỡ máu"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

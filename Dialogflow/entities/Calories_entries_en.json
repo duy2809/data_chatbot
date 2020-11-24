@@ -1,0 +1,37 @@
+[
+  {
+    "value": "calories",
+    "synonyms": [
+      "calories",
+      "Calories"
+    ]
+  },
+  {
+    "value": "calo",
+    "synonyms": [
+      "calo",
+      "Calo"
+    ]
+  },
+  {
+    "value": "Kalo",
+    "synonyms": [
+      "Kalo",
+      "kalo"
+    ]
+  },
+  {
+    "value": "Kcal",
+    "synonyms": [
+      "Kcal",
+      "kcal"
+    ]
+  },
+  {
+    "value": "Ca-lo",
+    "synonyms": [
+      "Ca-lo",
+      "ca-lo"
+    ]
+  }
+]

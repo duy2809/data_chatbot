@@ -1,0 +1,55 @@
+{
+  "id": "658dd707-9066-4465-994a-616912498c84",
+  "name": "chế độ ăn",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "chn-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "b6a410c2-5aea-4db3-a4f7-dec07fb55bf2",
+          "name": "ho",
+          "required": false,
+          "dataType": "@ho",
+          "value": "$ho",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Chế độ ăn hay chế độ dinh dưỡng hoặc thực đơn, khẩu phần là một khái niệm dinh dưỡng học chỉ về tổng lượng thực phẩm được một sinh vật (thường là con người và động vật) tiêu thụ để đáp ứng nhu cầu sinh tồn và phát triển.\n\nBạn có muốn tư vấn về chế độ ăn không ?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

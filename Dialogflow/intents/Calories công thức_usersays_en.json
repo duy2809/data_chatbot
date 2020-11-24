@@ -1,0 +1,128 @@
+[
+  {
+    "id": "f861998e-4bcb-4eeb-b6b3-8300e4c4989f",
+    "data": [
+      {
+        "text": "Kalo",
+        "meta": "@Calories",
+        "alias": "calories",
+        "userDefined": false
+      },
+      {
+        "text": " được ",
+        "userDefined": false
+      },
+      {
+        "text": "tính",
+        "meta": "@cong_thuc_tinh",
+        "alias": "cong_thuc_tinh",
+        "userDefined": false
+      },
+      {
+        "text": " như thế nào hả bạn?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5db89828-c1c9-476d-b89a-ab2a4b9f136a",
+    "data": [
+      {
+        "text": "Tính",
+        "meta": "@cong_thuc_tinh",
+        "alias": "cong_thuc_tinh",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "kcal",
+        "meta": "@Calories",
+        "alias": "calories",
+        "userDefined": false
+      },
+      {
+        "text": " như thế nào?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c6e09fd-7b41-43be-b885-b5bbd2cee751",
+    "data": [
+      {
+        "text": "Công thức",
+        "meta": "@cong_thuc_tinh",
+        "alias": "cong_thuc_tinh",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tính",
+        "meta": "@cong_thuc_tinh",
+        "alias": "cong_thuc_tinh",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "calories",
+        "meta": "@Calories",
+        "alias": "calories",
+        "userDefined": false
+      },
+      {
+        "text": " là gì vậy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79c942f7-65b9-44c3-a3c3-042cb1327005",
+    "data": [
+      {
+        "text": "Công thức",
+        "meta": "@cong_thuc_tinh",
+        "alias": "cong_thuc_tinh",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "calo",
+        "meta": "@Calories",
+        "alias": "calories",
+        "userDefined": false
+      },
+      {
+        "text": " là gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,359 @@
+[
+  {
+    "id": "6cb20a4a-4aa0-48f8-bf32-09b77f6bf6b6",
+    "data": [
+      {
+        "text": "Đạm",
+        "meta": "@chat_dam",
+        "alias": "chat_dam",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "thì có",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " lượng ",
+        "userDefined": false
+      },
+      {
+        "text": "kcal",
+        "meta": "@Calories",
+        "alias": "calories",
+        "userDefined": false
+      },
+      {
+        "text": " bằng bao nhiêu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fa560f50-35a3-404f-8bb4-c46e2604dc71",
+    "data": [
+      {
+        "text": "Chất béo",
+        "meta": "@chat_beo",
+        "alias": "chat_beo",
+        "userDefined": false
+      },
+      {
+        "text": " có bao nhiêu ",
+        "userDefined": false
+      },
+      {
+        "text": "kalo",
+        "meta": "@Calories",
+        "alias": "calories",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "04886348-737b-49d1-9070-8fccd2a89000",
+    "data": [
+      {
+        "text": "Carbohydrate",
+        "meta": "@carb",
+        "alias": "carb",
+        "userDefined": true
+      },
+      {
+        "text": " bằng bao nhiêu ",
+        "userDefined": false
+      },
+      {
+        "text": "calo",
+        "meta": "@Calories",
+        "alias": "calories",
+        "userDefined": false
+      },
+      {
+        "text": " nhỉ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "21836db5-504a-4833-9b2e-8d21df11423a",
+    "data": [
+      {
+        "text": "Đổi ",
+        "userDefined": false
+      },
+      {
+        "text": "carb",
+        "meta": "@carb",
+        "alias": "carb",
+        "userDefined": true
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "chất đạm",
+        "meta": "@chat_dam",
+        "alias": "chat_dam",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "fat",
+        "meta": "@chat_beo",
+        "alias": "chat_beo",
+        "userDefined": false
+      },
+      {
+        "text": " ra ",
+        "userDefined": false
+      },
+      {
+        "text": "calories",
+        "meta": "@Calories",
+        "alias": "calories",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "510d926e-48ec-46ed-8937-5c26d9585d8c",
+    "data": [
+      {
+        "text": "Quy đổi ",
+        "userDefined": false
+      },
+      {
+        "text": "carb",
+        "meta": "@carb",
+        "alias": "carb",
+        "userDefined": true
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "chất béo",
+        "meta": "@chat_beo",
+        "alias": "chat_beo",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "chất đạm",
+        "meta": "@chat_dam",
+        "alias": "chat_dam",
+        "userDefined": false
+      },
+      {
+        "text": " ra ",
+        "userDefined": false
+      },
+      {
+        "text": "calo",
+        "meta": "@Calories",
+        "alias": "calories",
+        "userDefined": false
+      },
+      {
+        "text": " như thế nào nhỉ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d0935e8c-019a-4f88-871d-858037c4e2a4",
+    "data": [
+      {
+        "text": "Lượng ",
+        "userDefined": false
+      },
+      {
+        "text": "calo",
+        "meta": "@Calories",
+        "alias": "calories",
+        "userDefined": false
+      },
+      {
+        "text": " của ",
+        "userDefined": false
+      },
+      {
+        "text": "crab",
+        "meta": "@carb",
+        "alias": "carb",
+        "userDefined": true
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "protein",
+        "meta": "@chat_dam",
+        "alias": "chat_dam",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "chất béo",
+        "meta": "@chat_beo",
+        "alias": "chat_beo",
+        "userDefined": false
+      },
+      {
+        "text": " bao nhiêu thế bạn?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4edcac8f-7bc5-4115-95c6-21898e516384",
+    "data": [
+      {
+        "text": "Lượng ",
+        "userDefined": false
+      },
+      {
+        "text": "kalo",
+        "meta": "@Calories",
+        "alias": "calories",
+        "userDefined": false
+      },
+      {
+        "text": " của ",
+        "userDefined": false
+      },
+      {
+        "text": "carbs",
+        "meta": "@carb",
+        "alias": "carb",
+        "userDefined": true
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "chất đạm",
+        "meta": "@chat_dam",
+        "alias": "chat_dam",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "chất béo",
+        "meta": "@chat_beo",
+        "alias": "chat_beo",
+        "userDefined": false
+      },
+      {
+        "text": " là bao nhiêu vậy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6afc6ab1-9dd5-4625-aec1-94c7fcdc0861",
+    "data": [
+      {
+        "text": "Carb",
+        "meta": "@carb",
+        "alias": "carb",
+        "userDefined": true
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "protein",
+        "meta": "@chat_dam",
+        "alias": "chat_dam",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "fat",
+        "meta": "@chat_beo",
+        "alias": "chat_beo",
+        "userDefined": false
+      },
+      {
+        "text": " có bao nhiêu ",
+        "userDefined": false
+      },
+      {
+        "text": "calo",
+        "meta": "@Calories",
+        "alias": "calories",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

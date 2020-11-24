@@ -1,0 +1,9 @@
+{
+  "id": "6ed76b48-8679-47d6-aa68-2ad755c2799c",
+  "name": "hcg",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

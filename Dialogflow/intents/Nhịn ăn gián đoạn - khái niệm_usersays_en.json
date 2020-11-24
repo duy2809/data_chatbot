@@ -1,0 +1,325 @@
+[
+  {
+    "id": "f2e9c224-a6ff-416a-93bb-31d9ebdadb30",
+    "data": [
+      {
+        "text": "cho mình hỏi ",
+        "userDefined": false
+      },
+      {
+        "text": "nhịn ăn gián đoạn",
+        "meta": "@nhin_an_gian_doan",
+        "alias": "nhin_an_gian_doan",
+        "userDefined": false
+      },
+      {
+        "text": " là gì thế?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "30f45221-d6bd-4b61-8bde-8b36ddafa38a",
+    "data": [
+      {
+        "text": "chế ",
+        "userDefined": false
+      },
+      {
+        "text": "độ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "nhịn ăn gián đoạn",
+        "meta": "@nhin_an_gian_doan",
+        "alias": "nhin_an_gian_doan",
+        "userDefined": false
+      },
+      {
+        "text": " gồm những gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "123113e3-6a8a-4238-a669-d9eed1b95db9",
+    "data": [
+      {
+        "text": "định nghĩa về chế ",
+        "userDefined": false
+      },
+      {
+        "text": "độ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "nhịn ăn gián đoạn",
+        "meta": "@nhin_an_gian_doan",
+        "alias": "nhin_an_gian_doan",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c521e27-d583-4784-b0b2-1945498ee588",
+    "data": [
+      {
+        "text": "thế nào là chế ",
+        "userDefined": false
+      },
+      {
+        "text": "độ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "nhịn ăn gián đoạn",
+        "meta": "@nhin_an_gian_doan",
+        "alias": "nhin_an_gian_doan",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "20de3ebf-132b-461b-942e-5054304c8036",
+    "data": [
+      {
+        "text": "khái niệm của chế ",
+        "userDefined": false
+      },
+      {
+        "text": "độ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "nhịn ăn gián đoạn",
+        "meta": "@nhin_an_gian_doan",
+        "alias": "nhin_an_gian_doan",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c44d5b34-5139-447a-a298-589764542765",
+    "data": [
+      {
+        "text": "khái niệm ",
+        "userDefined": false
+      },
+      {
+        "text": "nhịn ăn gián đoạn",
+        "meta": "@nhin_an_gian_doan",
+        "alias": "nhin_an_gian_doan",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "52cb6a79-d1b4-4c9c-a459-e8db8a6b5b19",
+    "data": [
+      {
+        "text": "định nghĩa ",
+        "userDefined": false
+      },
+      {
+        "text": "nhịn ăn gián đoạn",
+        "meta": "@nhin_an_gian_doan",
+        "alias": "nhin_an_gian_doan",
+        "userDefined": false
+      },
+      {
+        "text": " là gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "94134945-d812-41b8-947a-e68e1cce1387",
+    "data": [
+      {
+        "text": "nhịn ăn gián đoạn",
+        "meta": "@nhin_an_gian_doan",
+        "alias": "nhin_an_gian_doan",
+        "userDefined": false
+      },
+      {
+        "text": " có phải là một chế ",
+        "userDefined": false
+      },
+      {
+        "text": "độ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ăn kiêng không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "800d9ed5-c832-488e-8616-9010848b70d2",
+    "data": [
+      {
+        "text": "nhịn ăn gián đoạn",
+        "meta": "@nhin_an_gian_doan",
+        "alias": "nhin_an_gian_doan",
+        "userDefined": false
+      },
+      {
+        "text": " là chế ",
+        "userDefined": false
+      },
+      {
+        "text": "độ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ăn thế nào?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b29270ed-575b-4e4d-9f54-e07490a5e1a4",
+    "data": [
+      {
+        "text": "nhịn ăn gián đoạn",
+        "meta": "@nhin_an_gian_doan",
+        "alias": "nhin_an_gian_doan",
+        "userDefined": false
+      },
+      {
+        "text": " là gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "52b2edfe-0314-4187-8c43-b7ebb6382460",
+    "data": [
+      {
+        "text": "mình muốn biết thêm về ",
+        "userDefined": false
+      },
+      {
+        "text": "nhịn ăn gián đoạn",
+        "meta": "@nhin_an_gian_doan",
+        "alias": "nhin_an_gian_doan",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e606652e-8879-4985-adf7-c1c5549a8479",
+    "data": [
+      {
+        "text": "nhịn ăn gián đoạn",
+        "meta": "@nhin_an_gian_doan",
+        "alias": "nhin_an_gian_doan",
+        "userDefined": false
+      },
+      {
+        "text": " là chế ",
+        "userDefined": false
+      },
+      {
+        "text": "độ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ăn như thế nào vậy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

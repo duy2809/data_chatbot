@@ -1,0 +1,568 @@
+[
+  {
+    "id": "85af6622-6baa-4249-8ec9-67b3c78ba5e1",
+    "data": [
+      {
+        "text": "Paleo",
+        "meta": "@paleo",
+        "alias": "paleo",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "ích lợi",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " gì không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be57f814-4b53-4bab-b34b-7b27cec5ff9b",
+    "data": [
+      {
+        "text": "Paleo",
+        "meta": "@paleo",
+        "alias": "paleo",
+        "userDefined": false
+      },
+      {
+        "text": " mang lại ",
+        "userDefined": false
+      },
+      {
+        "text": "ích lợi",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aece5bd7-4ca3-48f0-b472-3a5f63ab9ae2",
+    "data": [
+      {
+        "text": "Paleo",
+        "meta": "@paleo",
+        "alias": "paleo",
+        "userDefined": false
+      },
+      {
+        "text": " có những ",
+        "userDefined": false
+      },
+      {
+        "text": "lợi ích",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2ffbdb44-a7ee-4158-8128-5f77468ad79f",
+    "data": [
+      {
+        "text": "Paleo",
+        "meta": "@paleo",
+        "alias": "paleo",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "giúp",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " gì cho sức khoẻ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8fab698b-c9ce-4e14-b312-0b693c3f92bf",
+    "data": [
+      {
+        "text": "ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "Paleo",
+        "meta": "@paleo",
+        "alias": "paleo",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tốt",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " như thế nào?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9b483893-a7f0-45a2-bb3b-7708cbc42919",
+    "data": [
+      {
+        "text": "ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "Paleo",
+        "meta": "@paleo",
+        "alias": "paleo",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tốt",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b8712312-83e5-4437-9b2c-6d3d75e56760",
+    "data": [
+      {
+        "text": "ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "Paleo",
+        "meta": "@paleo",
+        "alias": "paleo",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tốt",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " cho sức khoẻ không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f75dd5a-1f56-4865-b5a5-ab6cfaa0bde5",
+    "data": [
+      {
+        "text": "ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "Paleo",
+        "meta": "@paleo",
+        "alias": "paleo",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "tác dụng",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "61a9345f-1580-42e0-99e7-5914c95c36ab",
+    "data": [
+      {
+        "text": "cho mình hỏi ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "Paleo",
+        "meta": "@paleo",
+        "alias": "paleo",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "tác dụng",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "85e22178-14d1-49d4-bd98-6974f5717c1d",
+    "data": [
+      {
+        "text": "cho mình hỏi ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "Paleo",
+        "meta": "@paleo",
+        "alias": "paleo",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "tốt",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "92035335-fcc6-4bb0-bea4-32a92fc63dea",
+    "data": [
+      {
+        "text": "Paleo",
+        "meta": "@paleo",
+        "alias": "paleo",
+        "userDefined": false
+      },
+      {
+        "text": " diet có các ",
+        "userDefined": false
+      },
+      {
+        "text": "tác dụng",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "86683a04-52bd-4313-9f05-0d84416c9669",
+    "data": [
+      {
+        "text": "Paleo",
+        "meta": "@paleo",
+        "alias": "paleo",
+        "userDefined": false
+      },
+      {
+        "text": " diet có ",
+        "userDefined": false
+      },
+      {
+        "text": "ích lợi",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e454e7b7-0a8a-45e2-8ae9-72b94e92436b",
+    "data": [
+      {
+        "text": "các ",
+        "userDefined": false
+      },
+      {
+        "text": "lợi ích",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " của ",
+        "userDefined": false
+      },
+      {
+        "text": "Paleo",
+        "meta": "@paleo",
+        "alias": "paleo",
+        "userDefined": false
+      },
+      {
+        "text": " diet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba879c6c-3447-472c-8e86-5873ec7626b0",
+    "data": [
+      {
+        "text": "lợi ích",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " của ",
+        "userDefined": false
+      },
+      {
+        "text": "Paleo",
+        "meta": "@paleo",
+        "alias": "paleo",
+        "userDefined": false
+      },
+      {
+        "text": " diet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b56847a-efe8-4287-8758-3d39a6e642a6",
+    "data": [
+      {
+        "text": "ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "Paleo",
+        "meta": "@paleo",
+        "alias": "paleo",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "giúp",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " gì cho sức khoẻ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "22af1ad7-17bf-46eb-8998-fd543e553755",
+    "data": [
+      {
+        "text": "ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "Paleo",
+        "meta": "@paleo",
+        "alias": "paleo",
+        "userDefined": false
+      },
+      {
+        "text": " có phải là biện pháp giảm cân ",
+        "userDefined": false
+      },
+      {
+        "text": "tốt",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bd3fd2f8-39b0-4161-8a21-051d0f5b6ea7",
+    "data": [
+      {
+        "text": "ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "Paleo",
+        "meta": "@paleo",
+        "alias": "paleo",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "lợi",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "171bd174-392b-4871-91f3-c3fc75fcc361",
+    "data": [
+      {
+        "text": "ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "Paleo",
+        "meta": "@paleo",
+        "alias": "paleo",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "tác dụng",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " gì trong việc giảm cân?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

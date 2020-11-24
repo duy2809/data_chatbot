@@ -1,0 +1,139 @@
+[
+  {
+    "id": "a8307dd3-a00b-4e8a-adee-019e3999e533",
+    "data": [
+      {
+        "text": "Ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "low carb",
+        "meta": "@low_carb",
+        "alias": "low_carb",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "tác hại",
+        "meta": "@tac_hai",
+        "alias": "tac_hai",
+        "userDefined": false
+      },
+      {
+        "text": " không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3dc4f7a4-4e47-4269-87f2-5d7740f35136",
+    "data": [
+      {
+        "text": "Những ",
+        "userDefined": false
+      },
+      {
+        "text": "tác hại",
+        "meta": "@tac_hai",
+        "alias": "tac_hai",
+        "userDefined": false
+      },
+      {
+        "text": " của việc ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "low carb",
+        "meta": "@low_carb",
+        "alias": "low_carb",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "765e8812-f60e-4911-8f79-7dafaa4a6f7e",
+    "data": [
+      {
+        "text": "Chế ",
+        "userDefined": false
+      },
+      {
+        "text": "độ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "low carb",
+        "meta": "@low_carb",
+        "alias": "low_carb",
+        "userDefined": false
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "tác hại",
+        "meta": "@tac_hai",
+        "alias": "tac_hai",
+        "userDefined": false
+      },
+      {
+        "text": " gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "35350430-9fb6-4838-8d53-bddf34740abb",
+    "data": [
+      {
+        "text": "Tác hại",
+        "meta": "@tac_hai",
+        "alias": "tac_hai",
+        "userDefined": false
+      },
+      {
+        "text": " của việc ăn ",
+        "userDefined": false
+      },
+      {
+        "text": "low carb",
+        "meta": "@low_carb",
+        "alias": "low_carb",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

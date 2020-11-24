@@ -1,0 +1,64 @@
+{
+  "id": "75cf0c25-91c2-41f0-bd4d-a136984e48d7",
+  "name": "Low carb - tác hại",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "62094e2c-7c68-4af2-a4f1-9ac0ce36d6dc",
+          "name": "tac_hai",
+          "required": false,
+          "dataType": "@tac_hai",
+          "value": "$tac_hai",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "ff32f1ef-4e4d-4ad0-81cd-17bb786f50aa",
+          "name": "low_carb",
+          "required": false,
+          "dataType": "@low_carb",
+          "value": "$low_carb",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Việc ăn low carb cũng sẽ có những tác hại cụ thể, Khi lượng tinh bột của bạn bị cắt giảm một cách quá đột ngột thì cơ thể sẽ gặp phải tình trạng như đau đầu, khó thở, yếu cơ, mệt mỏi, táo bón hoặc tiêu chảy,…"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

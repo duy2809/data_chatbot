@@ -1,0 +1,39 @@
+{
+  "id": "e76ff6c1-aad5-4c77-b020-be9894e85691",
+  "parentId": "13801984-961e-4062-8ad2-1b6c6940bc0d",
+  "rootParentId": "13801984-961e-4062-8ad2-1b6c6940bc0d",
+  "name": "Hỏi tăng cân/ giảm cân - Không đồng ý thực đơn",
+  "auto": true,
+  "contexts": [
+    "Hitngcngimcn-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Tiếc quá! Mình không giúp được bạn rồi :("
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

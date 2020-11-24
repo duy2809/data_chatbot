@@ -1,0 +1,64 @@
+{
+  "id": "a1ee42db-7b85-4d2d-b035-0a0893082e91",
+  "name": "Atkins - lợi ích",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a1d8e406-664d-47ad-83ba-75d4fbffba92",
+          "name": "atkins",
+          "required": false,
+          "dataType": "@atkins",
+          "value": "$atkins",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "4e519e23-e626-49ed-b440-40a25034d2d4",
+          "name": "loi_ich",
+          "required": false,
+          "dataType": "@loi_ich",
+          "value": "$loi_ich",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Ăn Atkins có khá nhiều lợi ích như: Giảm đói hoặc thèm ăn (đặc biệt là đồ ngọt); Kiểm soát tốt hơn đối với insulin và đường huyết (glucose) tăng đột biến. Điều này có thể đặc biệt có lợi cho tiền tiểu đường hoặc bệnh nhân tiểu đường, mặc dù chế độ ăn kiêng low-carb là cách duy nhất để giảm các yếu tố nguy cơ mắc bệnh tiểu đường; Tăng cường hiệu suất nhận thức, bao gồm ít hơn sương mù não hoặc giảm năng lượng; Trong một số trường hợp, nguy cơ mắc các bệnh tim mạch thấp hơn; Có khả năng giảm nguy cơ mắc một số loại ung thư"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

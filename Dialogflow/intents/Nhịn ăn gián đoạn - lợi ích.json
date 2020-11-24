@@ -1,0 +1,64 @@
+{
+  "id": "96f70001-84b4-472f-b58f-0b15867b3e18",
+  "name": "Nhịn ăn gián đoạn - lợi ích",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8ecaa512-311e-4593-91c7-a79a943e2e74",
+          "name": "nhin_an_gian_doan",
+          "required": false,
+          "dataType": "@nhin_an_gian_doan",
+          "value": "$nhin_an_gian_doan",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "2f84e6be-c1e2-4881-bd6c-f465f5f254ac",
+          "name": "loi_ich",
+          "required": false,
+          "dataType": "@loi_ich",
+          "value": "$loi_ich",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Nhịn ăn gián đoạn có nhiều ích lợi như: Đốt cháy được nhiều chất béo, Tăng độ nhạy cảm insulin, làm bạn thoải mái hơn, Cải thiện thói quen ăn uống của bạn, Cải thiện chức năng não, Cải thiện miễn dịch."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

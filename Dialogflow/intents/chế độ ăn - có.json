@@ -1,0 +1,41 @@
+{
+  "id": "acbcb369-0b3a-43cd-a2c4-746ce2882e1f",
+  "parentId": "658dd707-9066-4465-994a-616912498c84",
+  "rootParentId": "658dd707-9066-4465-994a-616912498c84",
+  "name": "chế độ ăn - có",
+  "auto": true,
+  "contexts": [
+    "chn-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "hoi.thoi.gian.thuc.don",
+      "affectedContexts": [
+        {
+          "name": "chn-c-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,9 @@
+{
+  "id": "3dd97b36-8efa-4a02-97cf-a3070b548b7b",
+  "name": "chat_dam",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,35 @@
+{
+  "id": "aae6d8a7-1b84-48e4-8baa-2dc48f2be710",
+  "name": "Bot không hiểu",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Câu này mình không hiểu. Xin lỗi bạn vì mình có thể còn chưa thông minh lắm, nhưng mình đang học hỏi từng ngày để trở nên hoàn thiện hơn.."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

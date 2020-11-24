@@ -1,0 +1,160 @@
+[
+  {
+    "id": "92829972-87bd-4173-b4f3-2d6f9021a0b6",
+    "data": [
+      {
+        "text": "Định",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nghĩa của ",
+        "userDefined": false
+      },
+      {
+        "text": "Lowcarb",
+        "meta": "@low_carb",
+        "alias": "low_carb",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "08f336e1-0fbc-4c17-9412-e426a631e893",
+    "data": [
+      {
+        "text": "Khải niệm của việc ",
+        "userDefined": false
+      },
+      {
+        "text": "ăn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Lowcarb",
+        "meta": "@low_carb",
+        "alias": "low_carb",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0619df20-77a4-4f21-9115-0d2298230d70",
+    "data": [
+      {
+        "text": "Lowcarb",
+        "meta": "@low_carb",
+        "alias": "low_carb",
+        "userDefined": true
+      },
+      {
+        "text": " là gì ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "892f92a6-da6e-452f-b510-5b0b1d32c7cf",
+    "data": [
+      {
+        "text": "Định",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nghĩa của ",
+        "userDefined": false
+      },
+      {
+        "text": "Low carb",
+        "meta": "@low_carb",
+        "alias": "low_carb",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c6f7fb1-61ea-484e-8803-520670126c8b",
+    "data": [
+      {
+        "text": "Khải niệm của việc ",
+        "userDefined": false
+      },
+      {
+        "text": "ăn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Low carb",
+        "meta": "@low_carb",
+        "alias": "low_carb",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e17a0694-f672-414c-8203-208c0b8604a5",
+    "data": [
+      {
+        "text": "Low carb",
+        "meta": "@low_carb",
+        "alias": "low_carb",
+        "userDefined": false
+      },
+      {
+        "text": " là gì ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

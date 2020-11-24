@@ -1,0 +1,64 @@
+{
+  "id": "a7c9d7bb-8bdd-4240-b20f-bd0fd11cca5d",
+  "name": "Low carb - lợi ích",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2133c149-f12d-4b96-8fac-17d2ce5497ee",
+          "name": "loi_ich",
+          "required": false,
+          "dataType": "@loi_ich",
+          "value": "$loi_ich",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "da53db0e-0270-466d-bfcc-a5863d4c320b",
+          "name": "low_carb",
+          "required": false,
+          "dataType": "@low_carb",
+          "value": "$low_carb",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Ăn low carb có khá là nhiều lợi ích: Giúp giảm cân nhanh, Giảm nguy cơ mắc hội chứng chuyển hóa và bệnh tim, Nguy cơ mắc bệnh tiểu đường loại 2 thấp hơn, Giúp chống ung thư, Tăng cảm giác no, Giúp tiêu hóa tốt hơn"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

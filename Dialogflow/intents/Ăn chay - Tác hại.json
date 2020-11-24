@@ -1,0 +1,64 @@
+{
+  "id": "1dbdfb3c-cfed-481c-9795-1bf624453fa1",
+  "name": "Ăn chay - Tác hại",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d82d4c5b-ce13-4bcb-8e75-61c76b5292b1",
+          "name": "tac_hai",
+          "required": false,
+          "dataType": "@tac_hai",
+          "value": "$tac_hai",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "3207c1ea-9748-4e8c-8deb-80f64c28949f",
+          "name": "an_chay",
+          "required": false,
+          "dataType": "@an_chay",
+          "value": "$an_chay",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Ăn chay thực chất không có tác hại, nhưng nếu ăn chay không đúng cách sẽ dẫn đến một số tác hại sau: gây thiếu máu, hoa mắt, chóng mặt, gây lão hóa sớm và mất trí nhớ"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,64 @@
+{
+  "id": "9043ac7c-5f68-452a-9862-97710d59bec8",
+  "name": "keto - lợi ích",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7f45609a-8f59-4183-b0a8-e2ff883f3b23",
+          "name": "loi_ich",
+          "required": false,
+          "dataType": "@loi_ich",
+          "value": "$loi_ich",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "23b38d97-b399-4f67-bc4a-11fabb4fc667",
+          "name": "keto",
+          "required": false,
+          "dataType": "@keto",
+          "value": "$keto",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "\"Dạ thưa bạn, đầu tiền keto sẽ giúp để giảm cân, giảm mụn chứng cá, giảm thiểu rủi ro của bệnh ung thư, giúp cải thiện tim mạch, bảo vệ chức năng bộ não và giảm tính co giật"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

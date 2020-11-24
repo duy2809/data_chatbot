@@ -1,0 +1,51 @@
+{
+  "id": "3c95533b-3f7e-4ef4-8468-6059185e60da",
+  "name": "keto - viêt tắt",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9161eec0-71eb-45e2-b967-6d4d8366eca8",
+          "name": "keto",
+          "required": false,
+          "dataType": "@keto",
+          "value": "$keto",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "\"Keto là cụm từ viết tắt của “Keep Eating The fat Off” - Hãy tiếp tục ăn chất béo. Nói một cách dễ hiểu, chế độ ăn KETO chính là chế độ ăn nhiều chất béo tốt có lợi cho cơ thể và hạn chế lượng carbohydrate",
+            "“Keep Eating The fat Off” - Hãy tiếp tục ăn chất béo\""
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

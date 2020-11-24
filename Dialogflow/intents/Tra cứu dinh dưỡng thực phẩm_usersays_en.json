@@ -1,0 +1,353 @@
+[
+  {
+    "id": "8609eec2-25b6-434a-b0d1-0b40b21781c3",
+    "data": [
+      {
+        "text": "Thế còn ",
+        "userDefined": false
+      },
+      {
+        "text": "cà rốt",
+        "meta": "@ten_thuc_pham",
+        "alias": "ten_thuc_pham",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cea9375a-a2fb-495e-939a-2d9573074521",
+    "data": [
+      {
+        "text": "Mật ong",
+        "meta": "@ten_thuc_pham",
+        "alias": "ten_thuc_pham",
+        "userDefined": false
+      },
+      {
+        "text": " thì sao bạn?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "234d1e6b-5a3a-4cf8-9811-ea6d87fdeaaa",
+    "data": [
+      {
+        "text": "thịt gà",
+        "meta": "@ten_thuc_pham",
+        "alias": "ten_thuc_pham",
+        "userDefined": false
+      },
+      {
+        "text": " hàm lượng dinh dưỡng như thế nào bạn?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "40e6c9da-d780-439f-8450-97655c9161e5",
+    "data": [
+      {
+        "text": "cho tôi hỏi thông tin dd về quả ",
+        "userDefined": false
+      },
+      {
+        "text": "mít",
+        "meta": "@ten_thuc_pham",
+        "alias": "ten_thuc_pham",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9b784cd1-90d3-412d-a41a-9a7fb86d3104",
+    "data": [
+      {
+        "text": "Tra cứu dinh dưỡng ",
+        "userDefined": false
+      },
+      {
+        "text": "thực phẩm",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "842fd038-d4f7-405a-8fc6-e7d228643d19",
+    "data": [
+      {
+        "text": "Mình ",
+        "userDefined": false
+      },
+      {
+        "text": "muốn tra cứu dinh dưỡng th",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "ực phẩm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b568eff9-fd69-491b-8529-6cd691b4baf6",
+    "data": [
+      {
+        "text": "Tính",
+        "meta": "@cong_thuc_tinh",
+        "alias": "cong_thuc_tinh",
+        "userDefined": false
+      },
+      {
+        "text": " cho mình ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@ten_so_luong",
+        "alias": "so_luong",
+        "userDefined": true
+      },
+      {
+        "text": " quả ",
+        "userDefined": false
+      },
+      {
+        "text": "bưởi",
+        "meta": "@ten_thuc_pham",
+        "alias": "ten_thuc_pham",
+        "userDefined": true
+      },
+      {
+        "text": " có ",
+        "userDefined": false
+      },
+      {
+        "text": "calo",
+        "meta": "@Calories",
+        "alias": "calories",
+        "userDefined": false
+      },
+      {
+        "text": " là bao nhiêu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "020494d9-1575-438c-ac7f-e0e942ba6000",
+    "data": [
+      {
+        "text": "Đổi ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "meta": "@ten_so_luong",
+        "alias": "so_luong",
+        "userDefined": true
+      },
+      {
+        "text": " trái ",
+        "userDefined": false
+      },
+      {
+        "text": "bơ",
+        "meta": "@ten_thuc_pham",
+        "alias": "ten_thuc_pham",
+        "userDefined": true
+      },
+      {
+        "text": " sang ",
+        "userDefined": false
+      },
+      {
+        "text": "calo",
+        "meta": "@Calories",
+        "alias": "calories",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7098826d-19c2-4752-834f-e9d69343c6c1",
+    "data": [
+      {
+        "text": "5",
+        "meta": "@ten_so_luong",
+        "alias": "so_luong",
+        "userDefined": false
+      },
+      {
+        "text": " quả ",
+        "userDefined": false
+      },
+      {
+        "text": "cam",
+        "meta": "@ten_thuc_pham",
+        "alias": "ten_thuc_pham",
+        "userDefined": true
+      },
+      {
+        "text": " có bao nhiêu ",
+        "userDefined": false
+      },
+      {
+        "text": "calories",
+        "meta": "@Calories",
+        "alias": "calories",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "acb1afec-6c0d-48a7-9cbe-8d88d0b1529a",
+    "data": [
+      {
+        "text": "Cho mình hỏi ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@ten_so_luong",
+        "alias": "so_luong",
+        "userDefined": true
+      },
+      {
+        "text": " quả ",
+        "userDefined": false
+      },
+      {
+        "text": "trứng",
+        "meta": "@ten_thuc_pham",
+        "alias": "ten_thuc_pham",
+        "userDefined": true
+      },
+      {
+        "text": " có chứa bao nhiêu ",
+        "userDefined": false
+      },
+      {
+        "text": "kcal",
+        "meta": "@Calories",
+        "alias": "calories",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "46f50530-0ea9-48ad-938f-f1257dc71f35",
+    "data": [
+      {
+        "text": "Bạn ",
+        "userDefined": false
+      },
+      {
+        "text": "tính",
+        "meta": "@cong_thuc_tinh",
+        "alias": "cong_thuc_tinh",
+        "userDefined": false
+      },
+      {
+        "text": " cho mình ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@ten_so_luong",
+        "alias": "so_luong",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "quả táo",
+        "meta": "@ten_thuc_pham",
+        "alias": "ten_thuc_pham",
+        "userDefined": true
+      },
+      {
+        "text": " có chứa bao nhiêu ",
+        "userDefined": false
+      },
+      {
+        "text": "calo",
+        "meta": "@Calories",
+        "alias": "calories",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

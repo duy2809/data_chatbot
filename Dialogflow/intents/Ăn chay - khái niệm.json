@@ -1,0 +1,50 @@
+{
+  "id": "48d77749-1541-4353-9dcd-4b42a08d927e",
+  "name": "Ăn chay - khái niệm",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9a49cc88-54bc-4657-812e-40f8a176a4d4",
+          "name": "an_chay",
+          "required": false,
+          "dataType": "@an_chay",
+          "value": "$an_chay",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Ăn chay (ăn lạt, trai giới) là một phương pháp ăn uống lành mạnh và cân bằng. Thực đơn thường ăn chính là rau củ, các loại hạt, trái cây…các sản phẩm có nguồn gốc từ thực vật và không ăn các thực phẩm có nguồn gốc từ động vật, các sản phẩm thu được từ quá trình giết mổ."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

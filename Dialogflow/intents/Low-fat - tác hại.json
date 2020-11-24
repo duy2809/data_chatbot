@@ -1,0 +1,64 @@
+{
+  "id": "662eae4f-cdca-446b-950b-812ee0c36a99",
+  "name": "Low-fat - tác hại",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "23790f29-a42f-43b1-a06c-4e3bfd7b052f",
+          "name": "low_fat",
+          "required": false,
+          "dataType": "@low_fat",
+          "value": "$low_fat",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "e927f9a7-ab54-46f9-af03-a11b43bfde43",
+          "name": "tac_hai",
+          "required": false,
+          "dataType": "@tac_hai",
+          "value": "$tac_hai",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Chế độ ăn low-fat có một số tác hại sau cần lưu ý: Chế độ low - fat không khuyến khích tiêu thụ các thực phẩm lành mạnh (quả bơ, cá hồi); Làm giảm choresterol tốt HDL; Giảm hormone nội tiết tố Nam (Testosterone); Gây hại cho các Cholesterol xấu LDL; Mất cân bằng dinh dưỡng cho người ăn"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

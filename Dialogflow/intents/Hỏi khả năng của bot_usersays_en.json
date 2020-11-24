@@ -1,0 +1,183 @@
+[
+  {
+    "id": "c150fafb-9d75-4d5b-9b6f-93aebc067322",
+    "data": [
+      {
+        "text": "app có tính năng gì nhỉ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f78d9a0a-1b5c-488a-a163-4f89b60370f6",
+    "data": [
+      {
+        "text": "app có thể làm được gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9cf3b348-7d18-4b31-ba74-c5b4f41091d7",
+    "data": [
+      {
+        "text": "cho anh xem các chức năng của em",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a98608b3-9283-40c2-8ea5-fac18329ab72",
+    "data": [
+      {
+        "text": "em ",
+        "userDefined": false
+      },
+      {
+        "text": "hỗ trợ anh như",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " thế nào?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "34c0cd87-6cc6-4b14-a108-a6f0fbad55fa",
+    "data": [
+      {
+        "text": "em biết làm gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e911c01d-8e83-414b-9a8a-03e8ad8011d1",
+    "data": [
+      {
+        "text": "bạn biết hát không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "51664972-dae5-4561-b0ab-5f82f2e4cab3",
+    "data": [
+      {
+        "text": "em có thể ",
+        "userDefined": false
+      },
+      {
+        "text": "giúp",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " gì cho anh?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d226753c-0b50-4c5e-b963-d8c19f374979",
+    "data": [
+      {
+        "text": "bạn có thể làm gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a9d878a9-d361-4ae2-bc83-5ef1d39bcf23",
+    "data": [
+      {
+        "text": "em ",
+        "userDefined": false
+      },
+      {
+        "text": "giúp",
+        "meta": "@loi_ich",
+        "alias": "loi_ich",
+        "userDefined": false
+      },
+      {
+        "text": " gì được anh không?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f737d1b6-37b8-430b-b48f-96f269e274aa",
+    "data": [
+      {
+        "text": "bạn có chức ",
+        "userDefined": false
+      },
+      {
+        "text": "năng",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "227e423e-1fdb-4862-aad5-d8d7640c9d98",
+    "data": [
+      {
+        "text": "em có thể làm những gì nhỉ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

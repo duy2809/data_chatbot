@@ -1,0 +1,9 @@
+{
+  "id": "897efa2a-79aa-4aa7-ab5c-6071b95d1979",
+  "name": "keto",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

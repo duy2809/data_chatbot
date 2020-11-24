@@ -1,0 +1,44 @@
+{
+  "id": "e0b8a565-890e-467f-82f9-75f060b16bce",
+  "parentId": "13801984-961e-4062-8ad2-1b6c6940bc0d",
+  "rootParentId": "13801984-961e-4062-8ad2-1b6c6940bc0d",
+  "name": "Hỏi tăng cân/ giảm cân - Đồng ý thực đơn",
+  "auto": true,
+  "contexts": [
+    "Hitngcngimcn-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "hoi.thoi.gian.thuc.don",
+      "affectedContexts": [
+        {
+          "name": "Hitngcngimcn-ngthcn-followup",
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Xin lỗi bạn, đã xảy ra lỗi kết nối server hoặc nền tảng của bạn không được hỗ trợ. Mình sẽ báo cho team kĩ thuật để fix ngay bạn nha! :P"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 1000000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
